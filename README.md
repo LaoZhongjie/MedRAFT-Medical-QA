@@ -19,7 +19,7 @@ PyTorch, HuggingFace Transformers, PEFT, ChromaDB, SentenceTransformers, OpenAI 
 - [ ] Train student model (QLoRA)
 - [ ] Gradio interface
 
-## 📁 Project Structure
+## Project Structure
 ```
 MedRAFT-Medical-QA/
 │
