@@ -4,3 +4,4 @@ __pycache__/
 vector_db/
 outputs/
 .env
+.DS_Store
