@@ -3,22 +3,21 @@
 ## 1. 数据收集与知识库构建
 
 ### 数据收集
-按病例搜集权威医学文档资料：
+- 按病例搜集权威医学文档资料：
+  - **呼吸系统（30%）**：感冒、肺炎、COPD、哮喘等  
+  - **代谢 / 内分泌系统（25%）**：糖尿病、高血压等  
+  - **消化系统（20%）**：胃炎、胃溃疡等  
+  - **神经系统（15%）**：偏头痛等  
+  - **其他（10%）**：支气管炎、荨麻疹等  
 
-- **呼吸系统（30%）**：感冒、肺炎、COPD、哮喘等  
-- **代谢 / 内分泌系统（25%）**：糖尿病、高血压等  
-- **消化系统（20%）**：胃炎、胃溃疡等  
-- **神经系统（15%）**：偏头痛等  
-- **其他（10%）**：支气管炎、荨麻疹等  
-
-数据集：
-- Huatuo-26M GitHub： https://github.com/FreedomIntelligence/Huatuo-26M 
-- Huatuo26M-Lite（HuggingFace）： https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite 
-- WebMedQA： https://github.com/hejunqing/webMedQA 
-- CMExam： https://github.com/williamliujl/CMExam 
-- MLEC-QA： 论文地址 https://aclanthology.org/2021.emnlp-main.698/ （可跟论文里附带的数据链接） 
-- PediaBench： https://github.com/ACMISLab/PediaBench 
-- MedFact： https://github.com/AshleyChenNLP/MedFact
+- 数据集：
+  - Huatuo-26M GitHub： https://github.com/FreedomIntelligence/Huatuo-26M 
+  - Huatuo26M-Lite（HuggingFace）： https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite 
+  - WebMedQA： https://github.com/hejunqing/webMedQA 
+  - CMExam： https://github.com/williamliujl/CMExam 
+  - MLEC-QA： 论文地址 https://aclanthology.org/2021.emnlp-main.698/ （可跟论文里附带的数据链接） 
+  - PediaBench： https://github.com/ACMISLab/PediaBench 
+  - MedFact： https://github.com/AshleyChenNLP/MedFact
 
 ### 数据清洗
 - 去除重复、无效或不相关条目  
