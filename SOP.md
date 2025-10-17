@@ -11,13 +11,13 @@
   - **其他（10%）**：支气管炎、荨麻疹等  
 
 - 数据集：
-  - Huatuo-26M GitHub： https://github.com/FreedomIntelligence/Huatuo-26M 
-  - Huatuo26M-Lite（HuggingFace）： https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite 
-  - WebMedQA： https://github.com/hejunqing/webMedQA 
-  - CMExam： https://github.com/williamliujl/CMExam 
-  - MLEC-QA： 论文地址 https://aclanthology.org/2021.emnlp-main.698/ （可跟论文里附带的数据链接） 
-  - PediaBench： https://github.com/ACMISLab/PediaBench 
-  - MedFact： https://github.com/AshleyChenNLP/MedFact
+  - (Lao)Huatuo-26M GitHub： https://github.com/FreedomIntelligence/Huatuo-26M 
+  - (Lao)Huatuo26M-Lite（HuggingFace）： https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite 
+  - (Lao)WebMedQA： https://github.com/hejunqing/webMedQA 
+  - (Wu)CMExam： https://github.com/williamliujl/CMExam 
+  - (Wu)MLEC-QA： 论文地址 https://aclanthology.org/2021.emnlp-main.698/ （可跟论文里附带的数据链接） 
+  - (Peng)PediaBench： https://github.com/ACMISLab/PediaBench 
+  - (Peng)MedFact： https://github.com/AshleyChenNLP/MedFact
 
 ### 数据清洗
 - 去除重复、无效或不相关条目  
