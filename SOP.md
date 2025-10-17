@@ -11,6 +11,15 @@
 - **神经系统（15%）**：偏头痛等  
 - **其他（10%）**：支气管炎、荨麻疹等  
 
+数据集：
+- Huatuo-26M GitHub： https://github.com/FreedomIntelligence/Huatuo-26M 
+- Huatuo26M-Lite（HuggingFace）： https://huggingface.co/datasets/FreedomIntelligence/Huatuo26M-Lite 
+- WebMedQA： https://github.com/hejunqing/webMedQA 
+- CMExam： https://github.com/williamliujl/CMExam 
+- MLEC-QA： 论文地址 https://aclanthology.org/2021.emnlp-main.698/ （可跟论文里附带的数据链接） 
+- PediaBench： https://github.com/ACMISLab/PediaBench 
+- MedFact： https://github.com/AshleyChenNLP/MedFact
+
 ### 数据清洗
 - 去除重复、无效或不相关条目  
 - 标准化文本格式  
