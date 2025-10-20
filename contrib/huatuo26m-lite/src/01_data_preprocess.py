@@ -7,6 +7,18 @@ from typing import Dict, Iterable, List
 import pandas as pd
 from tqdm import tqdm
 
+# 新增：支持从 Hugging Face 加载
+try:
+    from datasets import load_dataset
+except Exception:
+    load_dataset = None
+
+# 新增：直接下载数据仓库快照以绕过 glob 兼容性问题
+try:
+    from huggingface_hub import snapshot_download
+except Exception:
+    snapshot_download = None
+
 from config import (
     ensure_dirs,
     RAW_DATA_DIR,
@@ -47,11 +59,53 @@ def read_csv(path: Path) -> Iterable[Dict]:
         yield rec
 
 
+# 新增：从 Hugging Face 加载 FreedomIntelligence/Huatuo26M-Lite
+def iter_hf_huatuo26m_lite() -> Iterable[Dict]:
+    # 首选 datasets 加载
+    if load_dataset is not None:
+        try:
+            ds = load_dataset("FreedomIntelligence/Huatuo26M-Lite")
+            split_name = "train" if "train" in ds else list(ds.keys())[0]
+            d = ds[split_name]
+            for item in d:
+                yield dict(item)
+            return
+        except Exception as e:
+            print(f"datasets 加载失败，回退到快照下载: {e}")
+    # 回退：使用 huggingface_hub 快照下载并读取本地文件
+    if snapshot_download is None:
+        raise RuntimeError("未安装 huggingface_hub。请先安装: pip install huggingface_hub")
+    try:
+        repo_dir = snapshot_download(repo_id="FreedomIntelligence/Huatuo26M-Lite", repo_type="dataset")
+    except Exception as e:
+        raise RuntimeError(f"下载数据集快照失败: {e}")
+    repo_path = Path(repo_dir)
+    # 优先使用 parquet，其次 jsonl/json
+    parquet_files = list(repo_path.glob("**/*.parquet"))
+    jsonl_files = list(repo_path.glob("**/*.jsonl"))
+    json_files = list(repo_path.glob("**/*.json"))
+    csv_files = list(repo_path.glob("**/*.csv"))
+    files = parquet_files or jsonl_files or json_files or csv_files
+    if not files:
+        raise RuntimeError("快照中未找到可识别的数据文件（parquet/jsonl/json/csv）")
+    for fp in files:
+        if fp.suffix == ".parquet":
+            df = pd.read_parquet(fp)
+            for rec in df.to_dict(orient="records"):
+                yield rec
+        elif fp.suffix == ".jsonl":
+            yield from read_jsonl(fp)
+        elif fp.suffix == ".json":
+            yield from read_json(fp)
+        elif fp.suffix == ".csv":
+            yield from read_csv(fp)
+
+
 def clean_text(text: str) -> str:
     if text is None:
         return ""
     text = re.sub(r"<[^>]+>", " ", text)
-    text = re.sub(r"[\r\t]", " ")
+    text = re.sub(r"[\r\t]", " ", text)
     text = text.replace("\u3000", " ")
     text = re.sub(r"\s+", " ", text).strip()
     return text
@@ -124,21 +178,30 @@ def auto_locate_input(inp: str) -> Path:
 def main():
     parser = argparse.ArgumentParser("huatuo26m-lite 数据清洗与切片（contrib）")
     parser.add_argument("--input", type=str, default=str(RAW_DATA_DIR / "huatuo26m-lite.jsonl"))
+    parser.add_argument("--from_hf", action="store_true", help="从 Hugging Face 加载 FreedomIntelligence/Huatuo26M-Lite")
     parser.add_argument("--chunk_size", type=int, default=CHUNK_SIZE)
     parser.add_argument("--chunk_overlap", type=int, default=CHUNK_OVERLAP)
     args = parser.parse_args()
 
     ensure_dirs()
-    input_path = auto_locate_input(args.input)
 
-    if input_path.suffix == ".jsonl":
-        it = read_jsonl(input_path)
-    elif input_path.suffix == ".json":
-        it = read_json(input_path)
-    elif input_path.suffix == ".csv":
-        it = read_csv(input_path)
+    # 选择数据来源：优先使用 --from_hf，其次本地文件，最后自动回退到 HF
+    if args.from_hf:
+        it = iter_hf_huatuo26m_lite()
     else:
-        raise ValueError(f"不支持的文件类型: {input_path.suffix}")
+        try:
+            input_path = auto_locate_input(args.input)
+            if input_path.suffix == ".jsonl":
+                it = read_jsonl(input_path)
+            elif input_path.suffix == ".json":
+                it = read_json(input_path)
+            elif input_path.suffix == ".csv":
+                it = read_csv(input_path)
+            else:
+                raise ValueError(f"不支持的文件类型: {input_path.suffix}")
+        except FileNotFoundError:
+            print("未找到本地数据，改用 Hugging Face 数据集 Huatuo26M-Lite")
+            it = iter_hf_huatuo26m_lite()
 
     docs = []
     for i, item in tqdm(enumerate(it), desc="标准化", unit="条"):
