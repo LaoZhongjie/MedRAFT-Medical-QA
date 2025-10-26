@@ -1,0 +1,107 @@
+[
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Peptic ulcers are open sores that develop on the inside lining of your stomach and the upper portion of your small intestine. The most common symptom of a peptic ulcer is stomach pain. Peptic ulcers include gastric ulcers that occur on the inside of the stomach and duodenal ulcers that occur on the inside of the upper portion of your small intestine. The most common causes of peptic ulcers are infection with the bacterium Helicobacter pylori (H. pylori) and long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen and naproxen sodium. Stress and spicy foods do not cause peptic ulcers. However, they can make your symptoms worse.",
+    "abstract": "胃溃疡是发生在胃内壁和十二指肠上部的开放性溃疡，主要症状为胃痛。最常见病因是幽门螺杆菌感染和长期服用非甾体抗炎药。虽然压力和辛辣食物不会直接引起溃疡，但会加重症状。",
+    "source": "Mayo Clinic, https://www.mayoclinic.org/diseases-conditions/peptic-ulcer/symptoms-causes/syc-20354223"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "A stomach ulcer, also called a gastric ulcer, is an open sore in the stomach lining. The most common cause is infection with Helicobacter pylori bacteria. Another common cause is long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin and ibuprofen. Contrary to popular belief, stress and spicy foods do not cause ulcers, though they can aggravate symptoms. Symptoms include burning stomach pain, feeling of fullness, bloating, belching, intolerance to fatty foods, and heartburn. Serious complications include internal bleeding, perforation of the stomach wall, and gastric outlet obstruction. Diagnosis is usually made by endoscopy.",
+    "abstract": "胃溃疡是胃黏膜的开放性损伤，主要病因包括幽门螺杆菌感染和长期使用非甾体抗炎药。症状有烧灼样胃痛、饱胀、嗳气、脂肪不耐受等。严重并发症包括出血、穿孔和幽门梗阻，通常通过胃镜诊断。",
+    "source": "WebMD, https://www.webmd.com/digestive-disorders/peptic-ulcer-overview"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Treatment for stomach ulcers depends on the cause. If H. pylori is present, treatment involves a combination of antibiotics to kill the bacteria and medications to reduce stomach acid and protect the stomach lining. Common antibiotic regimens include amoxicillin, clarithromycin, and metronidazole. Acid-reducing medications include proton pump inhibitors like omeprazole and lansoprazole, and H2 blockers like famotidine. If NSAIDs are the cause, discontinuing or reducing these medications is essential. For severe ulcers that don't heal with medication, or if complications occur, surgery may be necessary. Lifestyle changes such as quitting smoking and limiting alcohol can help healing.",
+    "abstract": "胃溃疡治疗取决于病因。幽门螺杆菌感染需抗生素联合抑酸药治疗，常用抗生素包括阿莫西林、克拉霉素和甲硝唑。NSAIDs相关溃疡需停用相关药物。严重溃疡或出现并发症时可能需要手术，戒烟限酒有助于愈合。",
+    "source": "National Institute of Diabetes and Digestive and Kidney Diseases, https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡是指发生在胃内壁的溃疡，是消化性溃疡的一种。幽门螺杆菌感染是胃溃疡的主要病因，约70-80%的胃溃疡患者存在幽门螺杆菌感染。长期服用非甾体抗炎药如阿司匹林、布洛芬等是另一重要病因。典型症状为餐后上腹部疼痛，与十二指肠溃疡的饥饿痛有所不同。其他症状包括腹胀、嗳气、恶心、呕吐、食欲不振等。严重并发症包括出血、穿孔和幽门梗阻。诊断主要依靠胃镜检查，可直接观察溃疡形态、大小、部位，并可取组织活检。",
+    "abstract": "胃溃疡是胃内壁发生的溃疡，主要因幽门螺杆菌感染和长期服用非甾体抗炎药引起。典型症状为餐后上腹痛，可伴腹胀、恶心等。严重时可并发出血、穿孔或梗阻。胃镜检查是确诊的主要方法。",
+    "source": "中华医学会消化病学分会《消化性溃疡诊断与治疗规范》"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡的治疗包括一般治疗、药物治疗和并发症治疗。一般治疗强调生活规律，避免过度劳累，戒烟限酒，避免使用NSAIDs药物。药物治疗主要包括：根除幽门螺杆菌采用标准三联疗法（PPI+两种抗生素）或铋剂四联疗法；抑酸治疗使用质子泵抑制剂如奥美拉唑、泮托拉唑等，疗程6-8周；黏膜保护剂如硫糖铝、枸橼酸铋钾等。对于大量出血、急性穿孔、幽门梗阻经内科治疗无效或可疑癌变者，应考虑手术治疗。治疗后应定期复查胃镜评估溃疡愈合情况。",
+    "abstract": "胃溃疡治疗包括一般治疗、药物和并发症处理。根除幽门螺杆菌采用三联或四联疗法，抑酸治疗使用质子泵抑制剂6-8周，配合黏膜保护剂。出血、穿孔、梗阻或可疑癌变需手术。治疗后需胃镜复查评估愈合。",
+    "source": "《实用内科学》第15版，人民卫生出版社"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "为了检测溃疡，医疗护理专业人员可能会首先了解病史并对您进行体格检查。您可能还需要接受以下检查：幽门螺杆菌实验室检查。血液、粪便或呼气检查可以显示体内是否存在幽门螺杆菌。内镜检查。在这个程序中，医疗护理专业人员使用一根带有微型摄像头的长软管来观察消化系统的上部。内镜检查需要将内镜经咽喉进入食管、胃和小肠，寻找溃疡。如果发现溃疡，医疗护理专业人员可能会取出一小块组织样本用于实验室检查。这被称为活检。通过活检还可以确定您的胃黏膜中是否存在幽门螺杆菌。上胃肠道系列检查。有时被称为钡餐检查，这种对上消化系统进行的X线系列检查会生成食管、胃和小肠的图像。消化性溃疡的治疗涉及杀死幽门螺杆菌。治疗还可能涉及停用NSAID或降低剂量以及服用有助于溃疡愈合的药物。这些药物可能包括：杀死幽门螺杆菌的抗生素。如果您的消化道中存在幽门螺杆菌，医疗护理专业人员可能建议混合使用抗生素。药物可能包括阿莫西林、克拉霉素、甲硝唑、替硝唑、四环素和左氧氟沙星。阻断酸的药物。质子泵抑制剂可减少胃酸。PPI包括奥美拉唑、兰索拉唑、雷贝拉唑、艾司奥美拉唑和泮托拉唑。减少胃酸的药物。酸阻滞剂，也称为组胺阻滞剂，有助于缓解溃疡疼痛并帮助愈合。酸阻滞剂包括法莫替丁、西咪替丁和尼扎替丁。对抗胃酸作用的抗酸剂。这些药物可以快速缓解疼痛。但它们并不能治愈溃疡。保护胃和小肠内膜的药物。这些被称为细胞保护剂。这些药物包括处方药硫糖铝和米索前列醇。",
+    "abstract": "胃溃疡诊断方法包括幽门螺杆菌检测、内镜检查与活检、上胃肠道钡餐检查。治疗需根除幽门螺杆菌、停用NSAIDs，并使用抗生素组合、质子泵抑制剂、H2受体阻滞剂、抗酸剂和黏膜保护剂。内镜检查可直接观察溃疡并取活检，幽门螺杆菌检测指导抗生素治疗，药物治疗旨在抑制胃酸、保护黏膜促进溃疡愈合。",
+    "source": "妙佑医疗国际, https://www.mayoclinic.org/zh-hans/diseases-conditions/peptic-ulcer/diagnosis-treatment/drc-20354229"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Gastric ulcers are defects in the gastric mucosa that extend through the muscularis mucosae. The pathogenesis involves an imbalance between aggressive factors (acid, pepsin, H. pylori, NSAIDs) and defensive factors (mucus, bicarbonate, prostaglandins, mucosal blood flow). H. pylori infection causes chronic active gastritis, leading to mucosal damage. NSAIDs inhibit cyclooxygenase-1, reducing prostaglandin synthesis and compromising mucosal defense. Clinical features include epigastric pain that may be relieved or worsened by food, nausea, and vomiting. Complications include hemorrhage, perforation, and gastric outlet obstruction. Diagnosis is confirmed by endoscopy with biopsy. Treatment involves acid suppression with proton pump inhibitors, eradication of H. pylori if present, and avoidance of NSAIDs.",
+    "abstract": "胃溃疡是穿透黏膜肌层的胃黏膜缺损，发病机制为攻击因子与防御因子失衡。幽门螺杆菌引起慢性活动性胃炎，NSAIDs抑制前列腺素合成。临床特征包括与进食相关的上腹痛、恶心呕吐。并发症有出血、穿孔和梗阻，治疗需抑酸、根除幽门螺杆菌和避免NSAIDs。",
+    "source": "Medscape, https://emedicine.medscape.com/article/181753-overview"
+  },
+   {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Gastric ulcer complications require prompt medical attention. Bleeding ulcers may present with hematemesis or melena and require endoscopic hemostasis. Perforated ulcers cause sudden severe abdominal pain with guarding and require surgical repair. Gastric outlet obstruction leads to persistent vomiting and requires endoscopic dilation or surgery. All gastric ulcers should be followed to complete healing due to risk of malignancy. Follow-up endoscopy is recommended 6-8 weeks after starting treatment to document healing and obtain additional biopsies if healing is incomplete.",
+    "abstract": "胃溃疡并发症需紧急处理：出血表现为呕血或黑便，需内镜止血；穿孔引起剧烈腹痛，需手术修复；梗阻导致持续呕吐，需内镜扩张或手术。所有胃溃疡应随访至完全愈合，治疗6-8周后需复查胃镜确认愈合情况。",
+    "source": "American College of Gastroenterology, https://gi.org/topics/peptic-ulcer-disease/"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Peptic ulcers are defects in the gastric or duodenal mucosa that extend through the muscularis mucosae. They are most commonly caused by Helicobacter pylori infection and the use of nonsteroidal anti-inflammatory drugs (NSAIDs). Symptoms typically include burning epigastric pain that is often relieved by food. Diagnosis is by endoscopy and testing for Helicobacter pylori. Treatment involves acid suppression, eradication of H. pylori (if present), and avoidance of NSAIDs.",
+    "abstract": "胃溃疡是胃或十二指肠黏膜的缺损，通常由幽门螺杆菌感染和使用非甾体抗炎药引起。常见症状包括餐后缓解的烧灼性上腹痛。诊断通过胃镜和幽门螺杆菌检测，治疗包括抑酸、根除幽门螺杆菌（如存在）和避免使用NSAIDs。",
+    "source": "Merck Manuals, https://www.msdmanuals.com/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/peptic-ulcer-disease"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡的鉴别诊断十分重要。需要与胃癌鉴别，恶性溃疡通常形态不规则，边缘隆起，底部凹凸不平，质地脆硬。与良性溃疡相比，恶性溃疡的疼痛节律性消失，抗溃疡治疗效果差，伴有进行性消瘦、贫血等全身症状。此外还需与胃淋巴瘤、胃间质瘤、克罗恩病、结核等少见疾病鉴别。胃镜检查结合多点活检是鉴别诊断的关键。",
+    "abstract": "胃溃疡需与胃癌鉴别，恶性溃疡形态不规则、边缘隆起、底部不平、质脆。疼痛节律消失，治疗效果差，伴消瘦贫血。还需与胃淋巴瘤、间质瘤、克罗恩病、结核等鉴别。胃镜加活检是关键鉴别手段。",
+    "source": "《消化内镜学》第二版，人民卫生出版社"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Gastric ulcers can be classified based on their location and characteristics. Type I ulcers occur along the lesser curvature of the stomach, typically in the antrum. Type II ulcers are combined gastric and duodenal ulcers. Type III ulcers are prepyloric ulcers. Type IV ulcers are located high on the lesser curvature near the gastroesophageal junction. Type V ulcers are medication-induced ulcers that can occur anywhere in the stomach. This classification system helps guide treatment decisions and predict outcomes. Location can influence symptom presentation and complication risks.",
+    "abstract": "胃溃疡按部位特征分类：I型位于胃小弯胃角，II型为胃十二指肠复合溃疡，III型为幽门前溃疡，IV型位于近贲门胃小弯高位，V型为药物性溃疡。分类有助于指导治疗和预测预后，不同部位影响症状表现和并发症风险。",
+    "source": "Radiopaedia, https://radiopaedia.org/articles/gastric-ulcer"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡的临床表现具有以下特点：上腹痛的节律性不如十二指肠溃疡明显，餐后痛较为常见。疼痛多位于剑突下或偏左，可放射至背部、胸部。部分患者可无症状，或以并发症为首发表现。体征包括上腹部压痛，位置多偏左。胃溃疡可引起食欲改变，部分患者因餐后疼痛而畏食，导致体重下降。需要警惕的是，老年人的胃溃疡症状往往不典型，疼痛较轻而并发症发生率较高。",
+    "abstract": "胃溃疡临床表现：上腹痛节律性不明显，多见餐后痛，位于剑突下或偏左，可放射至背胸部。部分患者无症状或以并发症首发。体征有上腹压痛。可因畏食导致体重下降。老年人症状不典型，并发症发生率高。",
+    "source": "《老年消化病学》，科学出版社"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡的病理变化包括四个层次：渗出层、坏死层、肉芽组织层和瘢痕层。急性期溃疡底部可见炎性渗出物，深层为坏死组织，再深层为新鲜肉芽组织，最深层为纤维瘢痕组织。慢性溃疡边缘黏膜肌层与肌层粘连愈合。胃溃疡的好发部位依次为胃角、胃窦、胃体。根据溃疡形态可分为活动期、愈合期和瘢痕期。溃疡直径多在2.0cm以内，巨大溃疡指直径大于3.0cm的溃疡。",
+    "abstract": "胃溃疡病理分四层：渗出层、坏死层、肉芽组织层和瘢痕层。好发部位为胃角、胃窦、胃体。按形态分活动期、愈合期和瘢痕期。溃疡直径多小于2.0cm，大于3.0cm为巨大溃疡。慢性溃疡边缘黏膜肌层与肌层粘连。",
+    "source": "《病理学》第九版，人民卫生出版社"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "Stomach ulcers occur when the layer protecting the stomach lining from stomach acid breaks down. This allows the stomach lining to become damaged. Most stomach ulcers are caused by infection with Helicobacter pylori bacteria or long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). Less common causes include Zollinger-Ellison syndrome, severe physiological stress, and radiation therapy. Risk factors include smoking, excessive alcohol consumption, and a family history of ulcers. Diagnosis typically involves endoscopy, during which a small sample of tissue may be taken for testing. Treatment depends on the cause but may include antibiotics for H. pylori, acid-reducing medications, and lifestyle changes.",
+    "abstract": "胃溃疡发生因胃黏膜保护层被破坏，主要病因是幽门螺杆菌感染和NSAIDs使用。少见原因包括卓艾综合征、严重应激和放疗。危险因素有吸烟、酗酒和家族史。诊断靠胃镜，治疗包括抗生素、抑酸药和生活方式改变。",
+    "source": "NHS, https://www.nhs.uk/conditions/stomach-ulcer/"
+  },
+  {
+    "disease_name": "胃溃疡",
+    "category": "消化系统疾病",
+    "information": "胃溃疡是消化性溃疡的一种，指胃黏膜发生的局限性缺损，通常穿透黏膜肌层。胃溃疡的典型症状是上腹部疼痛，多在餐后0.5-1小时出现，持续1-2小时逐渐缓解。疼痛性质可为钝痛、胀痛或烧灼痛。其他症状包括反酸、嗳气、恶心、呕吐、食欲不振等。体征可有上腹部压痛。胃溃疡需要与功能性消化不良、慢性胃炎、胃癌等疾病鉴别。",
+    "abstract": "胃溃疡是穿透黏膜肌层的胃黏膜局限性缺损，典型症状为餐后上腹痛，持续1-2小时，伴反酸、嗳气、恶心等。需与功能性消化不良、慢性胃炎和胃癌鉴别，体征可有上腹压痛。",
+    "source": "《胃肠病学》第三版，人民卫生出版社"
+  }
+]

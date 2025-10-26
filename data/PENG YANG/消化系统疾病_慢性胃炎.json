@@ -1,0 +1,163 @@
+[
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是指胃黏膜长期炎症，通常由幽门螺杆菌感染、长期使用非甾体抗炎药、自身免疫反应或胆汁反流引起。常见症状包括上腹疼痛、腹胀、餐后饱胀感、恶心、食欲不振，但部分患者可能无症状。诊断方法包括胃镜检查、组织活检、幽门螺杆菌检测。治疗取决于病因：幽门螺杆菌感染需抗生素联合质子泵抑制剂；药物性胃炎应停用相关药物并使用胃黏膜保护剂；自身免疫性胃炎可能需维生素B12补充。并发症包括胃溃疡、贫血、胃黏膜萎缩和胃癌风险增加。预防措施包括避免过度饮酒、戒烟、限制NSAIDs使用及健康饮食。",
+  "abstract": "慢性胃炎是胃黏膜长期炎症，主要病因包括幽门螺杆菌感染、药物刺激和自身免疫因素。典型症状有上腹痛、腹胀和食欲不振，诊断依赖胃镜和活检。治疗需针对病因，如根除幽门螺杆菌或调整用药，可能并发贫血或胃癌。预防强调避免刺激性物质和健康生活方式。",
+  "source": "Mayo Clinic, https://www.mayoclinic.org/diseases-conditions/gastritis/symptoms-causes/syc-20355807"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis involves long-term inflammation of the stomach lining, classified into erosive and non-erosive types. Helicobacter pylori infection is the most common cause globally. Autoimmune gastritis accounts for 5-10% of cases and is characterized by antibodies against parietal cells, leading to vitamin B12 deficiency and pernicious anemia. Epidemiological data shows higher prevalence in developing regions and older populations. Histological features include lymphocyte infiltration, glandular atrophy, and intestinal metaplasia. Long-standing gastritis increases gastric cancer risk, particularly in atrophic forms. Management focuses on eradicating H. pylori with triple therapy (PPI plus two antibiotics), treating complications, and regular endoscopic monitoring for high-risk groups.",
+  "abstract": "慢性胃炎分为糜烂性和非糜烂性，幽门螺杆菌感染是最常见病因。自身免疫性胃炎可导致维生素B12缺乏和恶性贫血。组织学表现为淋巴细胞浸润和腺体萎缩，长期病变增加胃癌风险。治疗以根除幽门螺杆菌为主，高危人群需定期内镜监测。",
+  "source": "NIH National Institute of Diabetes and Digestive and Kidney Diseases, https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是胃黏膜慢性炎症性病变，中国患病率约30-50%，与饮食因素（高盐、腌制食品）、吸烟和饮酒密切相关。临床分型包括浅表性胃炎、萎缩性胃炎和特殊类型胃炎。幽门螺杆菌感染率在慢性胃炎患者中达60-80%。胃镜表现可见黏膜充血、水肿、糜烂或血管透见。病理诊断标准包括炎症细胞浸润程度、萎缩范围和肠上皮化生分级。治疗原则包括根除幽门螺杆菌（铋剂四联疗法）、保护胃黏膜（铝碳酸镁、瑞巴派特）和改善症状。随访建议：中重度萎缩或肠化生患者每1-2年复查胃镜。",
+  "abstract": "慢性胃炎在中国患病率较高，幽门螺杆菌感染是主要病因。内镜下分为浅表性、萎缩性等类型，病理评估炎症和萎缩程度。治疗采用根除幽门螺杆菌及黏膜保护剂，伴有萎缩或肠化生者需定期内镜随访以防癌变。",
+  "source": "中华医学会消化病学分会, https://www.csge.org/upload/file/20210915/慢性胃炎诊疗指南"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "非糜烂性胃炎通常由幽门螺杆菌感染引起。萎缩性胃炎是胃黏膜变薄（萎缩），并且失去许多或全部分泌酸和分泌酶的细胞。当出现攻击胃黏膜的抗体时，可以导致其发生，这种情况称为自身免疫性化生萎缩性胃炎。萎缩性胃炎也见于存在幽门螺旋杆菌慢性感染的部分患者。胃炎通常无症状。如有症状，依据其病因不同也会有不同的症状，可能出现疼痛、不适、恶心或呕吐，即我们常说的不消化（消化不良）。",
+  "abstract": "慢性非糜烂性胃炎常见病因为幽门螺杆菌感染。萎缩性胃炎是胃黏膜变薄并丧失分泌细胞的病变，可由攻击胃黏膜的自身抗体引起（自身免疫性化生萎缩性胃炎），也与幽门螺杆菌慢性感染相关。胃炎患者常无症状，但出现症状时多表现为消化不良、腹痛、不适、恶心或呕吐。",
+  "source": "《默沙东诊疗手册大众版》 (https://www.msdmanuals.cn/home/digestive-disorders/gastritis-and-peptic-ulcer-disease/gastritis)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎可分为浅表性、萎缩性、肥厚性和疣状胃炎四种，目前建议将慢性浅表性胃炎更名为慢性非萎缩性胃炎。慢性胃炎缺乏特异性症状，症状的轻重与胃黏膜的病变程度并非一致。大多数患者常无明显症状或有不同程度的消化不良症状，如上腹隐痛、食欲减退、餐后饱胀、反酸等。胃炎的并发症包括：失血, 胃溃疡, 胃癌, 恶性贫血。",
+  "abstract": "慢性胃炎的分类包括浅表性、萎缩性、肥厚性和疣状胃炎四种，其中浅表性胃炎现建议称为慢性非萎缩性胃炎。该病缺乏特异性症状，多数患者仅有不同程度的消化不良，如上腹隐痛、餐后饱胀、反酸等，症状轻重与病变程度不一致。长期发展可能导致失血、胃溃疡、恶性贫血，甚至增加患胃癌的风险。",
+  "source": "维基百科 (https://zh.wikipedia.org/zh-cn/%E8%83%83%E7%82%8E)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是胃黏膜长期受刺激引发的炎症，常见症状包括上腹隐痛、腹胀、嗳气、食欲不振等。其病因复杂，与幽门螺杆菌感染、饮食不当、药物刺激、长期精神压力等因素密切相关。防治需从三方面入手：1. 病因干预：根除幽门螺杆菌（约70%慢性胃炎相关，需四联疗法10—14天）。 2. 饮食管理：规律进食，少量多餐，选择易消化食物（如小米粥、山药、蒸鱼），禁忌油炸、粗纤维（如竹笋）、产气食物。 3. 生活方式调整：戒烟限酒，胃部保暖防寒，适度运动（饭后30分钟散步）。若长期忽视调理，可能导致胃黏膜萎缩甚至癌变，需高度重视早期干预。",
+  "abstract": "慢性胃炎的病因与幽门螺杆菌感染（约70%相关）、饮食不当、药物刺激和长期精神压力等因素密切相关。防治策略包括：根除幽门螺杆菌（四联疗法）、严格的饮食管理（规律、少量多餐、易消化食物）、以及调整生活方式（戒烟限酒、保暖、适度运动）。若长期不治疗，可能恶化为胃黏膜萎缩甚至胃癌。",
+  "source": "云南省卫健委 (http://ynswsjkw.yn.gov.cn/html/2025/xuanchuankejiao_0421/4023150.html)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "治疗胃炎的药物包括：杀死幽门螺杆菌的抗生素（四联疗法，通常持续 7 到 14 天）、抑制胃酸分泌和促进愈合的药物（质子泵抑制剂 PPIs，长期高剂量使用可能增加髋部、腕部和脊柱骨折的风险）、减少胃酸分泌的药物（酸阻滞剂/组胺阻滞剂）。生活方式的改变可以改善症状并帮助药物更好地发挥作用，包括：少食多餐，细嚼慢咽，避免暴饮暴食，饭后等待至少 2 到 3 小时再躺下，限制饮酒、戒烟，避免辛辣或油腻食物。如果疼痛是由某些药物（如 NSAIDs）引起，医生可能会建议更换为对乙酰氨基酚（Tylenol）等其他选项。对于幽门螺杆菌感染，益生菌作为辅助治疗，可能有助于减少细菌量、加速愈合和改善症状。",
+  "abstract": "慢性胃炎的治疗包括药物和生活方式调整。药物主要有抗生素（用于根除幽门螺杆菌）、质子泵抑制剂（PPIs）和酸阻滞剂。需注意PPIs长期高剂量使用可能增加骨折风险。生活方式调整包括少食多餐、饭后不立即躺卧、限制饮酒、戒烟及避免刺激性食物。对于感染引起的胃炎，益生菌可作为辅助治疗，有助于提升疗效。",
+  "source": "Mayo Clinic / PharmEasy / MedicalNewsToday (多来源合并)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "诊断慢性胃炎的关键是胃黏膜中存在组织病理学上的炎症证据。胃病变（Gastropathy）是指没有炎症的胃黏膜疾病，其特征是上皮损伤和随后的再生。胃炎和胃病变并非互斥，有时可能共存。慢性胃炎根据组织学特征或病因分为：萎缩性（atrophic）和非萎缩性（non-atrophic）两类。慢性胃炎的主要病因是幽门螺杆菌（H. pylori）感染，通常始于非萎缩性形态。非萎缩性慢性胃炎在不治疗的情况下可进展为萎缩性。自身免疫性胃炎表现为伴有严重萎缩性胃炎的慢性单核细胞炎症，通常影响胃体（corpus），并伴有针对壁细胞或内因子（intrinsic factor）的自身抗体。根据2015年京都共识会议，胃炎可根据病因分类为：自身免疫性胃炎、感染性胃炎（H. pylori、细菌、病毒、真菌、寄生虫）、由其他疾病引起的胃炎（克罗恩病、结节病、血管炎）以及由外部原因引起的胃炎（酒精中毒、放射、化学品）。",
+  "abstract": "慢性胃炎的诊断依赖于胃黏膜的组织病理学炎症证据，与仅有上皮损伤的胃病变（Gastropathy）不同。它分为非萎缩性和萎缩性两类，主要病因是幽门螺杆菌感染，若不治疗可从非萎缩性进展为萎缩性。自身免疫性胃炎是另一种类型，涉及针对壁细胞的自身抗体，导致胃体严重萎缩。胃炎的分类还包括感染性、外部原因引起（如酒精、化学品）和伴随其他系统性疾病等。",
+  "source": "NIH Bookshelf - StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK544250/)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "幽门螺杆菌感染（H. pylori）自1983年被发现以来，被认为是大约80%的慢性胃炎病例的原因，也可能是一些急性胃炎的原因。在所有发达国家，幽门螺杆菌感染和胃炎的患病率都在下降。大多数感染者无症状。在其余感染人群中，幽门螺杆菌可能是导致以胃窦为主的慢性非萎缩性胃炎（伴胃酸分泌增加和十二指肠溃疡）的原因；也可能导致累及全胃的多灶性萎缩性胃炎（伴胃酸分泌减少、肠化生，以及胃溃疡或胃癌风险增加）。幽门螺杆菌感染还与淋巴滤泡和淋巴聚集物（称为MALT）的存在有关，胃非霍奇金MALT淋巴瘤可能由获得的MALT发展而来。慢性胃炎进一步细分为萎缩性胃炎和非萎缩性胃炎。",
+  "abstract": "幽门螺杆菌是约80%慢性胃炎的主要病因，但多数感染者无症状。H. pylori感染可导致两种主要形式：以胃窦为主的非萎缩性胃炎（高胃酸，易伴十二指肠溃疡）或累及全胃的多灶性萎缩性胃炎（低胃酸，易伴肠化生、胃溃疡及胃癌风险）。此外，H. pylori感染与胃黏膜相关淋巴组织（MALT）的形成相关，并可能发展为MALT淋巴瘤。",
+  "source": "ResearchGate - Chronic gastritis - Up-to-date view (https://www.researchgate.net/publication/288556436_Chronic_gastritis_-_Up-to-date_view)"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎在全世界都是常见病，其患病率随年龄增长而升高。幽门螺杆菌感染引起的慢性胃炎感染率与社会经济状况有关。自身免疫性胃炎在北欧人群较多见。慢性胃炎多数患者无明显症状，有症状者主要表现为上腹痛、饱胀等消化不良症状。胃镜检查并活检是诊断慢性胃炎的主要方法。慢性萎缩性胃炎可伴有贫血，在有胃黏膜萎缩和肠化生时应注意预防胃癌的发生。饮食应避免过于粗糙、浓烈香辛料和盐渍食品，多吃新鲜蔬菜水果。",
+  "abstract": "慢性胃炎全球常见，患病率随年龄增长。幽门螺杆菌感染与社会经济状况相关，自身免疫性胃炎在北欧多见。多数患者无症状，部分表现为消化不良。胃镜活检是主要诊断方法，萎缩性胃炎需注意贫血和胃癌预防，饮食应清淡多蔬果。",
+  "source": "WebMD, https://www.webmd.com/digestive-disorders/digestive-diseases-gastritis"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis is a condition in which the stomach lining is inflamed for a long time. The most common cause is infection with Helicobacter pylori bacteria. Other causes include long-term use of NSAIDs, excessive alcohol consumption, and autoimmune disorders. Symptoms may include upper abdominal pain, bloating, nausea, and vomiting, but many people have no symptoms. Diagnosis is usually made with an upper endoscopy and biopsy. Treatment depends on the cause: H. pylori infection is treated with antibiotics and acid-reducing medications; autoimmune gastritis may require vitamin B12 injections. Complications can include stomach ulcers, bleeding, and an increased risk of stomach cancer.",
+  "abstract": "慢性胃炎是胃黏膜长期炎症，主要病因包括幽门螺杆菌感染、长期服用非甾体抗炎药、过度饮酒和自身免疫性疾病。常见症状有上腹痛、腹胀、恶心呕吐，但部分患者无症状。诊断依靠胃镜和活检，治疗需针对病因，如根除幽门螺杆菌或补充维生素B12。可能并发胃溃疡、出血并增加胃癌风险。",
+  "source": "MedlinePlus, https://medlineplus.gov/ency/article/007715.htm"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是指不同病因引起的胃黏膜慢性炎症或萎缩性病变。幽门螺杆菌感染是最常见的病因，其他病因包括自身免疫、十二指肠-胃反流、药物和毒物等。临床表现缺乏特异性，可有上腹痛、腹胀、餐后饱胀、食欲不振、反酸、恶心等消化不良症状。诊断主要依赖内镜检查和胃黏膜活检。内镜下可分为慢性非萎缩性胃炎和慢性萎缩性胃炎两大类。治疗包括根除幽门螺杆菌、保护胃黏膜、抑制胆汁反流、改善胃动力等。慢性萎缩性胃炎可伴有肠上皮化生或不典型增生，该病变有可能进展为胃癌。",
+  "abstract": "慢性胃炎是胃黏膜慢性炎症或萎缩性病变，主要病因为幽门螺杆菌感染。临床表现包括上腹痛、腹胀、食欲不振等消化不良症状。诊断依靠内镜和活检，分为非萎缩性和萎缩性两类。治疗包括根除幽门螺杆菌、保护胃黏膜等。萎缩性胃炎伴肠化或不典型增生有癌变风险。",
+  "source": "中华医学会消化病学分会《中国慢性胃炎共识意见》"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis is a condition in which the stomach lining is inflamed for a long time. It can be caused by infection with Helicobacter pylori, autoimmune disorders, chronic bile reflux, or certain medications. Many people with chronic gastritis have no symptoms. When symptoms occur, they may include upper abdominal pain, nausea, vomiting, loss of appetite, and bloating. Diagnosis is made by endoscopy with biopsy. Treatment depends on the cause: H. pylori infection is treated with antibiotics and acid-reducing medications; autoimmune gastritis may require vitamin B12 injections. Chronic gastritis increases the risk of peptic ulcers and stomach cancer, especially when it leads to thinning of the stomach lining (atrophic gastritis).",
+  "abstract": "慢性胃炎是胃黏膜长期炎症，病因包括幽门螺杆菌感染、自身免疫疾病、胆汁反流和药物等。常见症状有上腹痛、恶心、呕吐、食欲不振和腹胀。诊断需胃镜活检。治疗针对病因，如根除幽门螺杆菌使用抗生素和抑酸药。该病增加消化性溃疡和胃癌风险，尤其萎缩性胃炎。",
+  "source": "National Institute of Diabetes and Digestive and Kidney Diseases, https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis"
+ },
+ {
+  "disease_name" : "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是胃黏膜的慢性炎症，根据病变部位可分为胃窦炎、胃体炎和全胃炎。流行病学调查显示，幽门螺杆菌感染率与慢性胃炎发病率呈正相关，中国成人感染率约40%-60%。危险因素包括吸烟、饮酒、高盐饮食、腌制食品摄入过多、非甾体抗炎药长期使用等。内镜下表现包括黏膜红斑、糜烂、出血点、黏膜皱襞萎缩、血管透见等。组织学特征为炎症细胞浸润、腺体萎缩、肠上皮化生和异型增生。随访建议：中重度萎缩性胃炎伴肠化生每年复查一次胃镜，轻度萎缩性胃炎可2-3年复查。",
+  "abstract": "慢性胃炎按部位分胃窦炎、胃体炎和全胃炎。中国成人幽门螺杆菌感染率40%-60%，危险因素包括吸烟、饮酒、高盐饮食和药物。内镜可见黏膜红斑、糜烂、萎缩等改变。组织学特征为炎症浸润、腺体萎缩、肠化和异型增生。萎缩性胃炎需定期胃镜随访。",
+  "source": "《内科学》人民卫生出版社第9版"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis is long-standing inflammation of the stomach lining. The two main types are erosive and non-erosive. Helicobacter pylori infection is the most common cause worldwide. Autoimmune gastritis occurs when the body attacks the cells in the stomach lining, leading to vitamin B12 deficiency and pernicious anemia. Symptoms are often vague but can include upper abdominal discomfort, bloating, nausea, and loss of appetite. Diagnosis requires endoscopy with biopsy. Treatment involves eradicating H. pylori if present, using proton pump inhibitors to reduce acid, and avoiding irritants like NSAIDs. Long-term chronic gastritis can lead to atrophic gastritis, intestinal metaplasia, and increased gastric cancer risk.",
+  "abstract": "慢性胃炎是胃黏膜长期炎症，分为糜烂性和非糜烂性。幽门螺杆菌感染是最常见病因，自身免疫性胃炎可导致维生素B12缺乏和恶性贫血。症状包括上腹不适、腹胀、恶心等。诊断需胃镜活检。治疗包括根除幽门螺杆菌、抑酸和避免刺激物。长期慢性胃炎可进展为萎缩性胃炎、肠化生，增加胃癌风险。",
+  "source": "World Gastroenterology Organisation Global Guidelines, https://www.worldgastroenterology.org/guidelines/global-guidelines/gastritis"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是由多种病因引起的胃黏膜慢性炎症。其发病率随年龄增长而升高，男性略多于女性。幽门螺杆菌感染是慢性胃炎的主要病因，感染率在40%-70%之间。病理变化主要为炎症浸润、腺体萎缩和肠上皮化生。临床表现缺乏特异性，常见症状包括上腹疼痛、饱胀、嗳气、食欲不振。诊断主要依据胃镜检查和胃黏膜活组织病理学检查。治疗原则为消除病因、缓解症状和保护胃黏膜。对伴有中重度萎缩或肠化的慢性萎缩性胃炎患者应定期接受内镜随访。慢性胃炎特别是伴有重度肠化或异型增生者，发生胃癌的危险性显著增加。",
+  "abstract": "慢性胃炎是胃黏膜慢性炎症，发病率随年龄增长，男性稍多。幽门螺杆菌感染为主要病因，病理特征为炎症浸润、腺体萎缩和肠化。症状包括上腹痛、饱胀、食欲不振。诊断靠胃镜和活检。治疗需消除病因、保护胃黏膜。萎缩性胃炎伴肠化或异型增生者需定期随访，胃癌风险增加。",
+  "source": "《实用内科学》第15版，人民卫生出版社"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是我国人群常见的消化系统疾病。研究显示，我国慢性胃炎的发病率呈上升趋势。目前我国基于内镜诊断的慢性胃炎患病率接近90%。慢性胃炎根据胃镜和病理下是否存在黏膜萎缩分为慢性非萎缩性胃炎和慢性萎缩性胃炎（CAG）。慢性胃炎尤其是CAG是胃癌发生的主要危险因素。肠型胃癌的发生模式为正常胃黏膜→慢性炎症→萎缩性胃炎→肠化生→IN→胃癌。积极防治慢性胃炎对预防胃癌至关重要。加强内镜随访是影响CAG转归的重要手段。慢性胃炎的治疗策略包括：根除H. pylori是治疗CAG的首要措施；抑酸治疗及对症治疗；叶酸、中药制剂的使用；对于内镜下有清晰边界的胃黏膜低级别上皮内瘤变，可考虑内镜微创治疗。",
+  "abstract": "慢性胃炎在我国患病率高，是胃癌的主要危险因素，遵循从炎症到胃癌的进展模式。防治关键在于根除幽门螺杆菌、对症治疗、内镜随访和必要时内镜微创治疗。",
+  "source": "科普中国网 https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=475843"
+ },
+ {
+   "disease_name": "慢性胃炎",
+   "category": "消化系统疾病",
+   "information": "反复上腹胀、钝痛、烧灼痛，餐后更不舒服，甚至出现反酸、恶心等症状，查出幽门螺杆菌感染，确诊为慢性胃炎的人群不在少数。幽门螺杆菌感染是引起慢性胃炎的最主要原因之一。有资料显示，我国20至40岁人群感染幽门螺杆菌的几率为45.4%至63.6%，70岁以上高达78.9%，甚至小孩中也有高达30%的感染率。应对慢性胃炎，最重要的是“三分治，七分养”。日常生活中要注意以下几点：三餐要定时；吃东西不要过急，尽量要细嚼慢咽；吃零食要适可而止；平时喝茶，淡茶好过浓茶；吸烟的患者要戒烟。",
+   "abstract": "幽门螺杆菌感染是慢性胃炎主因，在我国感染率高。应对策略强调“三分治七分养”，需注意定时三餐、细嚼慢咽、节制零食和烟酒等生活习惯。",
+   "source": "央广网 http://health.cnr.cn/jkxywy/nk/20150826/t20150826_519661935.shtml"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎是指各种原因引起的非特异性慢性胃黏膜炎症性病变。根据其是否存在黏膜萎缩，可分为慢性非萎缩性胃炎及慢性萎缩性胃炎，其中慢性萎缩性胃炎与胃癌的发病相关。幽门螺杆菌感染是最主要的原因。持续的幽门螺杆菌感染会导致胃黏膜腺体萎缩、肠上皮化生、异型增生，甚至发生胃癌。自身免疫性因素是造成慢性胃炎的另一个常见原因。此外，胆汁反流、长期服用非甾体抗炎药、饮酒等也会造成胃黏膜损伤。慢性胃炎的症状包括上腹胀满及疼痛、烧心、口苦、消化不良、食欲减退等。根据经典的Correa假说，大部分胃癌的发展模式为“正常胃黏膜—慢性浅表性胃炎—慢性萎缩性胃炎—肠上皮化生—异型增生—肠型胃癌”。筛查与根除幽门螺杆菌是重要的防治措施。抑酸及其他对症治疗、减少刺激因素调整生活方式、规律监测及随访是管理慢性胃炎的关键。",
+  "abstract": "慢性胃炎是胃黏膜慢性炎症，分非萎缩性和萎缩性，后者与胃癌相关。主因是幽门螺杆菌感染。症状包括上腹胀痛、消化不良等。遵循Correa假说可能进展为胃癌。管理包括根除Hp、对症治疗、生活方式调整和规律随访。",
+  "source": "科普中国网 https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=561678"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "慢性胃炎系指不同病因引起的各种慢性胃黏膜炎性病变，是一种常见病，其发病率在各种胃病中居首位。常见慢性浅表性胃炎、慢性糜烂性胃炎和慢性萎缩性胃炎。慢性胃炎缺乏特异性症状，症状的轻重与胃黏膜的病变程度并非一致。大多数病人常无症状或有程度不同的消化不良症状如上腹隐痛、食欲减退、餐后饱胀、反酸等。慢性萎缩性胃炎患者可有贫血、消瘦、舌炎、腹泻等。胃镜和活组织检查是诊断慢性胃炎的主要方法。大部分慢性浅表性胃炎可逆转，少部分可转为慢性萎缩性胃炎。慢性萎缩胃炎随年龄逐渐加重，但轻症亦可逆转。治疗包括消除病因（祛除各种可能致病的因素，如避免进食对胃黏膜有强刺激的饮食及药品，戒烟忌酒）和药物治疗（如抗酸药、胃黏膜保护剂、促动力药等）。预防包括保持精神愉快、戒烟忌酒、慎用对胃黏膜有损伤的药物、注意饮食等。",
+  "abstract": "慢性胃炎是常见的胃黏膜炎性病变，缺乏特异性症状，诊断主要靠胃镜和活检。治疗包括消除病因和药物对症，部分类型可逆转。预防需注意精神、戒烟酒、慎用药物和饮食调节。",
+  "source": "科普中国网 https://www.kepuchina.cn/article/articleinfo?business_type=100&classify=0&ar_id=293069"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis describes a group of conditions characterized by chronic inflammation of the gastric mucosa. The most common etiology is Helicobacter pylori infection, affecting approximately 50% of the world's population. Autoimmune gastritis accounts for about 5% of cases and is characterized by antibodies against parietal cells and intrinsic factor, leading to pernicious anemia. The clinical presentation varies from asymptomatic to dyspeptic symptoms like epigastric pain, postprandial fullness, and nausea. Diagnostic evaluation includes serology for H. pylori, endoscopy with biopsy, and histopathological examination. Management involves eradication of H. pylori with combination therapy, acid suppression with proton pump inhibitors, and treatment of complications. Patients with atrophic gastritis or intestinal metaplasia require surveillance endoscopy due to increased gastric cancer risk.",
+  "abstract": "慢性胃炎以胃黏膜慢性炎症为特征，幽门螺杆菌感染是最常见病因，全球约50%人口感染。自身免疫性胃炎约占5%，可导致恶性贫血。临床表现从无症状到消化不良症状不等。诊断包括血清学、胃镜和病理检查。治疗包括根除幽门螺杆菌、抑酸和处理并发症。萎缩性胃炎或肠化生患者因胃癌风险增加需监测性内镜。",
+  "source": "National Institutes of Health, https://www.ncbi.nlm.nih.gov/books/NBK544250/"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis is a long-term condition in which the stomach lining is inflamed for months to years. It is often caused by infection with Helicobacter pylori bacteria. Other causes include autoimmune disorders, long-term use of NSAIDs, excessive alcohol consumption, and chronic bile reflux. Many people with chronic gastritis have no symptoms. When symptoms occur, they may include upper abdominal pain or discomfort, nausea, vomiting, loss of appetite, and bloating. Diagnosis is typically made through endoscopy with biopsy. Treatment depends on the underlying cause and may include antibiotics for H. pylori infection, medications to reduce stomach acid production, and avoidance of irritants. If left untreated, chronic gastritis can lead to complications such as stomach ulcers, vitamin deficiencies, and an increased risk of stomach cancer.",
+  "abstract": "慢性胃炎是胃黏膜长期炎症，常由幽门螺杆菌感染引起，其他病因包括自身免疫疾病、长期服用非甾体抗炎药、酗酒和胆汁反流。多数患者无症状，或有上腹痛、恶心、呕吐、食欲不振和腹胀等表现。诊断依靠胃镜和活检。治疗针对病因，包括根除幽门螺杆菌、抑酸和避免刺激物。未治疗可导致胃溃疡、维生素缺乏和胃癌风险增加。",
+  "source": "Johns Hopkins Medicine, https://www.hopkinsmedicine.org/health/conditions-and-diseases/gastritis"
+ },
+ {
+  "disease_name": "慢性胃炎",
+  "category": "消化系统疾病",
+  "information": "Chronic gastritis refers to chronic inflammatory changes in the gastric mucosa that may be asymptomatic or present with dyspepsia. The most common cause is Helicobacter pylori infection, which induces a chronic active gastritis. Autoimmune gastritis is characterized by autoantibodies to parietal cells and intrinsic factor, leading to gastric atrophy and pernicious anemia. Chemical gastropathy results from chronic exposure to NSAIDs, alcohol, or bile reflux. Histological evaluation reveals chronic inflammation, atrophy, intestinal metaplasia, and sometimes Helicobacter organisms. Management includes eradication of H. pylori with combination therapy, discontinuation of causative agents, acid suppression, and surveillance for complications. Patients with extensive gastric atrophy or intestinal metaplasia have an increased risk of gastric adenocarcinoma and require periodic endoscopic monitoring.",
+  "abstract": "慢性胃炎指胃黏膜慢性炎症，可无症状或表现为消化不良。幽门螺杆菌感染是最常见病因，导致慢性活动性胃炎。自身免疫性胃炎特征为壁细胞和内因子抗体，引起胃萎缩和恶性贫血。化学性胃病由非甾体抗炎药、酒精或胆汁反流引起。组织学显示慢性炎症、萎缩、肠化生。治疗包括根除幽门螺杆菌、停用致病因素、抑酸和并发症监测。广泛胃萎缩或肠化生患者胃癌风险增加，需定期内镜监测。",
+  "source": "Cleveland Clinic, https://my.clevelandclinic.org/health/diseases/10349-gastritis"
+ }
+]
