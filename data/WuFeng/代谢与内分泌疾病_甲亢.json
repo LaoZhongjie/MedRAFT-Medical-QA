@@ -1,0 +1,177 @@
+[
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲状腺功能亢进症（hyperthyroidism）指甲状腺腺体不适当地持续合成和分泌过多甲状腺激素而引起的内分泌疾病。甲状腺毒症（thyrotoxicosis）是指任何原因导致血液循环中甲状腺激素过多的一组临床综合征。甲状腺激素调控着机体化学反应进行的速度（代谢率），影响许多至关重要的身体功能，如心率、热量燃烧速率、皮肤维护、生长、产热、生育力和消化。甲状腺激素有两种：T4（甲状腺素，也称四碘甲状腺原氨酸）和T3（碘甲状腺原氨酸）。T3是生理上更活跃的形式。垂体生成促甲状腺素（TSH），TSH可刺激甲状腺产生甲状腺激素。",
+    "abstract": "甲亢是甲状腺腺体分泌过多甲状腺激素引起的内分泌疾病。甲状腺素调控机体代谢速率，其两种主要激素为T4和T3。垂体TSH调节甲状腺激素分泌。血液中过量甲状腺激素导致代谢亢进。",
+    "source": "MSD医学手册 https://www.msdmanuals.cn/home/hormonal-and-metabolic-disorders/thyroid-gland-disorders/hyperthyroidism"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "格雷夫斯病（Graves病）是最常见的导致甲状腺功能亢进的原因，约占所有甲亢的80%。格雷夫斯病是一种自身免疫性疾病，人体的免疫系统产生抗体去攻击人体的自身组织，特别是甲状腺。抗体通常破坏细胞和降低其发挥作用的能力，但格雷夫斯病却使抗体刺激甲状腺产生和分泌过多的甲状腺激素到血液中。这种引起甲状腺功能亢进的疾病常有遗传性，而且常导致甲状腺肿大。",
+    "abstract": "格雷夫斯病是导致甲亢的最常见原因，占甲亢的80%。这是一种自身免疫性疾病，抗体刺激甲状腺产生过量激素。具有遗传倾向，常导致甲状腺肿大。",
+    "source": "妙佑医疗国际 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "Graves病为自身免疫性疾病，在具有遗传易感的人群（特别是女性）中，环境因素如吸烟、高碘饮食、应激、感染、妊娠等可促进发病，细胞免疫及体液免疫均参与了发病过程。该病的特征性自身抗体是TSH受体抗体（TRAb），这是一组多克隆抗体，主要包括甲状腺刺激性抗体（TSAb）和甲状腺刺激阻断性抗体（TSBAb）。TSAb是诱发Graves病的主要致病抗体，通过激活TSH受体，促进甲状腺合成和分泌过多的甲状腺激素，导致甲亢。",
+    "abstract": "Graves病是自身免疫疾病，遗传易感人群在吸烟、高碘饮食、应激、感染、妊娠等环境因素促进下发病。特征性抗体是TSH受体抗体（TRAb），包括促进性和阻断性亚型。促进性抗体激活TSH受体导致激素过度分泌。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲亢患者以代谢亢进和神经、循环、消化等系统兴奋性增高为主要临床表现。高代谢症候群是最常见的临床表现，包括乏力、怕热、多汗、皮肤温暖、潮湿、低热、体重下降等。神经系统表现为易激惹、失眠、紧张、焦虑、烦躁、常常注意力不集中，伸舌或双手平举可见细震颤、腱反射活跃。心血管系统：患者感心悸、气促、活动后加剧，心率增快、心尖部第一心音亢进、可闻及收缩期杂音；心律失常以房性期前收缩为最常见，也可见室性或交界性期前收缩、阵发性或持续性心房颤动。",
+    "abstract": "甲亢主要表现为代谢亢进和多系统兴奋性增高。高代谢症状包括乏力、怕热、多汗、体重下降。神经系统表现为易激惹、失眠、焦虑、细震颤。心血管表现为心悸、心率增快、心律失常，包括房颤。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "消化系统表现为食欲亢进、大便次数增多或腹泻、肠鸣音活跃。少数患者可出现恶心、呕吐等症状，或出现转氨酶升高、黄疸等肝功能异常表现。血液系统：部分患者有轻度贫血，外周血白细胞和血小板计数可有轻度降低。眼部表现分为两种类型：非浸润性（单纯性）突眼，病因与甲状腺毒症所致的交感神经兴奋性增高有关，眼球轻度突出，可见眼裂增宽、瞬目减少等眼征；另一类为浸润性突眼（Graves眼病），病因与眶后组织的炎症反应有关。",
+    "abstract": "甲亢消化系统表现为食欲亢进、腹泻、肠鸣音活跃，可有肝功能异常。血液系统可见轻度贫血和血细胞减少。眼部表现包括非浸润性和浸润性突眼两种类型。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲亢患者出现症状和体征因人而异，可能包括烦躁、肌肉无力、无法入睡、心跳过速、畏热、腹泻、甲状腺肿以及体重减轻。老年人或是怀孕中的妇女的症状通常较不典型。甲状腺危象是甲亢的急性并发症，是甲亢的夸大表现，常表现为多器官受累，死亡率估计可达8～25%，临床体征可包括高热、心动过速、甲状腺眼病、甲状腺肿、手部震颤、皮肤湿润温暖、反射亢进、收缩期高血压和黄疸。",
+    "abstract": "甲亢症状包括烦躁、肌无力、失眠、心跳过速、畏热、腹泻、体重减轻、甲状腺肿。甲状腺危象是急性并发症，表现为高热、心动过速、多器官功能障碍，死亡率8-25%。",
+    "source": "维基百科 https://zh.wikipedia.org/zh-sg/%E7%94%B2%E7%8A%B6%E8%85%BA%E5%8A%9F%E8%83%BD%E4%BA%A2%E8%BF%9B%E7%97%87"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "美国约1％的人患有甲状腺功能亢进。该病可发生于任何年龄，但更常见于20-50岁的女性。新生儿Graves病是新生儿和儿童甲状腺功能亢进的最常见原因，是由母亲妊娠期通过胎盘传递的异常抗体刺激新生儿甲状腺引起。甲亢患病率受调查人群的年龄、性别、种族等因素影响而存在差异。美国第三次健康及营养状况调查（1988—1994年）在全美人群中抽样调查了17353名居民（年龄≥12岁），结果显示甲亢患病率为0.5%，亚临床甲亢患病率为0.7%。",
+    "abstract": "甲亢在美国患病率约1%，常见于20-50岁女性。全球患病率女性2%，男性0.5%。新生儿甲亢由母体抗体经胎盘传递引起。亚临床甲亢患病率0.7%。",
+    "source": "MSD医学手册 https://www.msdmanuals.cn/home/hormonal-and-metabolic-disorders/thyroid-gland-disorders/hyperthyroidism"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲亢类型中以Graves病最为常见，其发病特点是女性患病率高于男性，高发年龄为30～60岁，但也可以发生在任何年龄段。我国10个城市甲状腺疾病患病率调查，共抽样15008名居民（年龄≥15岁），以TSH<0.27 mIU/L为诊断切点，甲亢、亚临床甲亢和Graves病患病率分别为0.89%、0.72%和0.61%。Graves病占所有甲亢患者的85%。",
+    "abstract": "中国调查显示甲亢患病率0.89%，亚临床甲亢0.72%，Graves病占甲亢85%。Graves病高发于女性，30-60岁高风险年龄段，但任何年龄可发病。",
+    "source": "甲状腺功能亢进症常见分型及表现 https://www.medsci.cn/article/show_article.do"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲亢的诊断标准包括：(1)高代谢症状和体征；(2)甲状腺肿大；(3)血清甲状腺激素水平升高，TSH水平降低。具备以上3项，并除外非甲亢性甲状腺毒症，甲亢诊断即可成立。Graves病诊断标准为：(1)甲亢诊断成立；(2)甲状腺弥漫性肿大（触诊和超声检查证实）；(3)眼球突出和其他浸润性眼征；(4)胫前黏液性水肿；(5)TRAb、TPOAb阳性。其中第(1)、(2)项为诊断必备条件，第(3)～(5)项为诊断辅助条件。",
+    "abstract": "甲亢诊断需高代谢症状和体征、甲状腺肿大、激素升高TSH降低。Graves病需甲亢诊断成立、甲状腺弥漫性肿大、眼球突出或浸润性眼征、胫前黏液性水肿、抗体阳性。前两项必需，后三项辅助。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "医生通常根据症状和体格检查结果（包括心率和血压升高）疑诊甲状腺功能亢进。通过甲状腺功能血液检查进行确诊。通常，检查先从促甲状腺素(TSH)测定开始。如果有甲状腺功能亢进，TSH水平应低于正常。可是在少见的垂体功能亢进的病例中，TSH水平可正常或升高。如果血清TSH水平降低，医生就要检查血液中甲状腺激素水平。血液检查测量T-4和T-3激素，可以确诊甲状腺功能亢进症。甲状腺功能亢进症患者普遍存在T-4水平高和TSH水平低的情况。",
+    "abstract": "甲亢诊断首先检查TSH水平，若降低则检查T3和T4水平。甲亢患者T3T4升高而TSH降低。血液检查确诊甲亢，体格检查显示心率血压升高。",
+    "source": "妙佑医疗国际诊断与治疗 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/diagnosis-treatment/drc-20373665"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "如果怀疑病因是格雷夫斯病，医生会检查血样是否有可刺激甲状腺的抗体（促甲状腺抗体）。TRAb测定：Graves病患者TRAb阳性率达80%～100%，多呈高滴度阳性，对诊断、判断病情活动及评价停药时机有一定意义，并且是预测复发的最重要指标。甲状腺过氧化物酶抗体（TPOAb）和甲状腺球蛋白抗体（TgAb）测定：Graves病患者可见TPOAb、TgAb阳性；如同时存在桥本甲状腺炎，TPOAb、TgAb多呈高滴度阳性。",
+    "abstract": "Graves病患者TRAb阳性率80%-100%，高滴度，用于诊断和预测复发。TPOAb和TgAb检测可见阳性，同时伴随桥本甲状腺炎时滴度更高。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "放射性碘扫描和摄取试验：在这项检查中，患者会服用少量的放射性碘，用于显示放射性碘会有多少被甲状腺吸收以及会在甲状腺中的哪些部位聚集。如果甲状腺摄入大量放射性碘，表示分泌的甲状腺素过多。最可能的原因是格雷夫斯病或甲状腺结节亢进。如果甲状腺只摄入少量的放射性碘，表示甲状腺中储存的激素正在泄漏到血流中。甲状腺超声：这项检查利用高频声波生成甲状腺的图像。与其他检查相比，超声检查可能更擅长发现甲状腺结节。这项检查没有辐射照射，因此可用于孕妇或母乳喂养者。",
+    "abstract": "放射性碘扫描显示摄入程度，Graves病摄入多，甲状腺炎摄入少。甲状腺超声用高频声波成像，善于发现结节，无辐射，适合孕妇和母乳喂养者。",
+    "source": "妙佑医疗国际诊断与治疗 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/diagnosis-treatment/drc-20373665"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲巯咪唑（MMI）和丙硫氧嘧啶（PTU）是治疗甲状腺功能亢进最常用的药物。这些药物通过降低甲状腺合成甲状腺激素而发挥疗效。卡比马唑是在欧洲广泛使用的药物，能在体内转变为甲巯咪唑。甲巯咪唑通常是首选药物，因为丙硫氧嘧啶可能会损伤年轻人的肝脏。孕妇服用丙硫氧嘧啶或甲巯咪唑时应密切监测，因为这些药物能穿透胎盘，引起胎儿甲状腺肿或甲状腺功能减退。MMI起始剂量为20～40mg/d，每天1次或2次口服。",
+    "abstract": "甲巯咪唑和丙硫氧嘧啶是常用抗甲状腺药物，通过抑制甲状腺激素合成。甲巯咪唑首选，丙硫氧嘧啶肝毒性更大。孕妇首选丙硫氧嘧啶，能穿过胎盘需监测。起始剂量MMI 20-40mg/天。",
+    "source": "MSD医学手册 https://www.msdmanuals.cn/home/hormonal-and-metabolic-disorders/thyroid-gland-disorders/hyperthyroidism"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "ATD总疗程一般为1～2年。停药后建议随访初期每个月复查甲状腺功能，每3个月复查TRAb，如病情稳定，则可将随访间隔逐步延长至3～12个月。ATD停药后甲亢复发率约为50%。轻中度病情、甲状腺体积较小、TRAb转阴性、小剂量ATD即能长期维持正常甲状腺功能的患者治疗缓解率高，复发率低。抗甲状腺药物治疗通常持续12至18个月。之后，如果症状消失，并且血液检测结果显示甲状腺激素水平已恢复到标准范围，可以慢慢减少剂量或停药。",
+    "abstract": "ATD疗程1-2年，停药后复发率50%。轻中度病情、小甲状腺、TRAb阴性者缓解率高复发率低。治疗通常12-18个月，症状消失和激素恢复正常后可逐步减量停药。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南和妙佑医疗国际 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/diagnosis-treatment/drc-20373665"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "放射性碘治疗具有不良反应少、治疗效果较好、复发率低、适用人群广等许多优点。其作用原理是131I在衰变过程中释放β射线，β射线有较强的电离辐射能力，使部分甲状腺滤泡细胞变性和坏死，甲状腺激素合成和分泌减少，甲状腺体积也随之缩小。一般在治疗1个月左右显效，治疗3～4个月约60%以上患者的甲状腺功能恢复至正常。131I治疗的主要并发症为甲减，年发生率2%～3%。",
+    "abstract": "131I治疗通过释放β射线破坏甲状腺滤泡，导致激素减少。1月显效，3-4月60%患者恢复正常。主要并发症为甲减，年发生率2-3%。优点为不良反应少、疗效好、复发率低。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "手术治疗的适应证包括甲状腺肿大显著（>80g），有压迫症状；中度、重度甲亢，长期服药无效，或停药复发，或不能坚持服药者；胸骨后甲状腺肿；细针穿刺细胞学证实甲状腺癌或者怀疑恶变；ATD治疗无效或过敏的妊娠期甲亢患者，手术需要在孕中期（4～6个月）实施。禁忌证包括合并较重心脏、肝、肾疾病不能耐受手术者；孕早期（1～3个月）和孕晚期（7～9个月）。",
+    "abstract": "手术适应证为甲状腺肿大>80g有压迫、长期服药无效或停药复发、胸骨后甲肿、甲状腺癌或怀疑恶变、妊娠期甲亢ATD无效。禁忌证为重症心肝肾病患者、妊娠早晚期。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲状腺危象是甲状腺毒症急性加重致多系统损伤的一组综合征。通常发生于未经治疗或治疗不当的Graves病患者中，多数有一定的诱因，例如感染、创伤、精神应激、手术、妊娠等。典型症状为高热、大汗、烦躁、面部潮红、心动过速、呕吐、腹泻，部分患者可发生心律失常、肺水肿、充血性心力衰竭、黄疸等，病情进一步加重可出现休克、谵妄、昏迷，甚至危及生命。甲状腺危象的死亡率可达8～25%。",
+    "abstract": "甲状腺危象是甲亢急性加重的多系统综合征，多见于未治疗或治疗不当患者。由感染、创伤、精神应激、手术、妊娠等触发。表现为高热、大汗、心动过速、心律失常、休克，死亡率8-25%。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲状腺危象的治疗关键是早发现、早治疗。抗甲状腺药物：首选药物为丙硫氧嘧啶（PTU），500～1000mg首次口服或经胃管注入，以后每次250mg，每4小时1次。若无PTU，甲巯咪唑首剂60mg，继之20mg，每8小时1次。PTU和MMI使用1小时内就能阻碍碘机化，抑制甲状腺激素合成。复方碘溶液（SSPI）：每6小时口服1次，每次5滴。服用PTU后1小时开始服用，一般使用3～7天。糖皮质激素：适用于有高热或休克者。氢化可的松200～300mg/天静滴或静注地塞米松2mg，每6小时1次。",
+    "abstract": "甲状腺危象治疗需ATD、碘剂、糖皮质激素、β阻滞剂联用。PTU首选500-1000mg口服，后续250mg每4小时；SSKI每6小时5滴；糖皮质激素用于高热或休克；普萘洛尔60-80mg/天。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "未经治疗或治疗不当的甲状腺功能亢进症可能导致骨骼脆弱。这种状况称为骨质疏松症。骨骼强度部分取决于骨骼中钙和其他矿物质的含量。过量的甲状腺激素导致钙质难以进入骨骼。另一个并发症是心脏问题。甲亢最严重的某些并发症涉及心脏，包括一种称为心房颤动的心律失常，会增加发生卒中的风险；充血性心力衰竭是一种心脏不能循环足够的血液来满足身体需要的医疗状况。",
+    "abstract": "甲亢并发症包括骨质疏松症（甲状腺激素导致钙质进入骨困难），心房颤动和充血性心力衰竭。过量甲状腺激素导致钙磷排泄增加导致骨脆。",
+    "source": "妙佑医疗国际症状与病因 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "部分甲亢患者会出现甲状腺眼病。这种状况更常见于吸烟者。这种疾病会影响眼睛周围的肌肉和其他组织。甲状腺眼病的症状包括眼球突出、眼睛里有砂砾感、眼部压力感或疼痛感、眼睑浮肿或后缩、眼睛发红或发炎、对光敏感、复视。如不加以治疗，眼睛问题可能导致视力丧失。大约25到30%的Graves病患者会发展眼病。眼睛凸出由于眼窝（眼眶）发炎所致。由于与眼球运动有关的肌肉发生炎症而功能受损，从而眼球活动不协调或眼球无法正常活动或活动困难，最终导致复视。",
+    "abstract": "甲状腺眼病（TAO）影响25-30%Graves病患者，吸烟者更常见。症状为眼球突出、砂砾感、压力痛、眼睑浮肿充血、光敏感、复视。由眼窝炎症和眼肌炎症引起，不治疗可致视力丧失。",
+    "source": "妙佑医疗国际症状与病因 https://www.mayoclinic.org/zh-hans/diseases-conditions/hyperthyroidism/symptoms-causes/syc-20373659"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "Graves病是因TSI（thyroid stimulating immunoglobulin，甲状腺刺激性免疫球蛋白）引起的，也称为TSAb（thyroid stimulating antibody）。B淋巴细胞主要在甲状腺细胞内合成甲状腺刺激性免疫球蛋白，但也可在淋巴结和骨髓中合成。B淋巴细胞受T淋巴细胞刺激，而T淋巴细胞被甲状腺内的抗原敏感化。甲状腺刺激性免疫球蛋白与甲状腺细胞膜上的促甲状腺激素（TSH）受体结合，并刺激促甲状腺激素的作用。它刺激甲状腺激素合成和甲状腺腺体生长，导致甲亢和甲状腺肿大。",
+    "abstract": "Graves病由TSI引起，B细胞在甲状腺内合成TSI，受T细胞刺激。TSI与甲状腺细胞TSH受体结合，刺激甲状腺激素合成和甲状腺生长，导致甲亢和甲状腺肿大。",
+    "source": "美国国家卫生研究院StatPearls https://www.ncbi.nlm.nih.gov/books/NBK448195/"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "妊娠期甲亢以Graves病最为常见。已患甲亢的妇女最好在甲状腺功能恢复正常后考虑妊娠，以减少妊娠不良结局。抗甲状腺药物为妊娠的相对禁忌证。甲巯咪唑在孕妇体内可导致甲巯咪唑胚胎症，表现为头皮缺陷、食管闭锁、腹壁裂，发生率约1.0%。丙硫氧嘧啶在孕早期更为安全。这些药物能穿透胎盘，引起胎儿甲状腺肿或甲状腺功能减退。虽然 ATD 穿过胎盘，孕妇使用丙硫氧嘧啶或甲巯咪唑时应密切监测。建议在孕期保持甲状腺激素水平处于正常范围内。",
+    "abstract": "妊娠期甲亢以Graves病常见，需甲亢控制后再妊娠。甲巯咪唑有胚胎症致畸风险（1%），孕早期用丙硫氧嘧啶更安全。ATD穿过胎盘导致胎儿甲肿或甲减，需密切监测。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "甲亢高危人群包括既往曾患过甲亢或有甲亢家族史；甲状腺结节或甲状腺肿；有自身免疫性甲状腺疾病；长期服用含碘药物；长期失眠、焦虑；不明原因的消瘦、乏力、心动过速、心房颤动、易激惹等症状；反复发作四肢无力。对于前五项的高危人群，建议定期随访，每6～12个月检测甲状腺功能、TRAb和甲状腺超声等。对于后两项的高危人群，建议作为甲亢疑似患者启动甲亢分级诊疗流程。",
+    "abstract": "甲亢高危因素包括甲亢/家族史、甲状腺结节、自身免疫性甲状腺病、含碘药物、失眠焦虑、消瘦乏力、心动过速、四肢无力。高危人群建议6-12月检查甲功、TRAb、超声。",
+    "source": "中国甲状腺功能亢进症基层诊疗指南 https://ws.zibo.gov.cn/art/2024/7/24/art_19992_2832900.html"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "Graves' disease occurs in about 0.5% of people. Graves' disease data has shown that the lifetime risk for women is around 3% and 0.5% for men. It occurs about 7.5 times more often in women than in men and often starts between the ages of 40 and 60. It is the most common cause of hyperthyroidism in the United States (about 50 to 80% of cases). The exact cause is unclear, but it is believed to involve a combination of genetic and environmental factors. Persons are more likely to be affected if they have a family member with the disease.",
+    "abstract": "Graves病全球患病率0.5%，女性终身风险3%，男性0.5%，女性患者多7.5倍。常起于40-60岁，美国甲亢首位原因占50-80%。病因为遗传和环保因素复合。",
+    "source": "Wikipedia Graves' disease https://en.wikipedia.org/wiki/Graves'_disease"
+  },
+  {
+    "disease_name": "甲亢",
+    "category": "代谢与内分泌疾病",
+    "information": "Hyperthyroidism affects 2.5% of adults worldwide and is associated with osteoporosis, heart disease, and increased mortality. First-line treatments are antithyroid drugs, thyroid surgery, and RAI treatment. Treatment choices should be individualized and patient-centered. The most common cause of hyperthyroidism is Graves' disease, with a global prevalence of 2% in women and 0.5% in men. Overt hyperthyroidism, defined as suppressed TSH and high T3 and/or free T4 levels, affects approximately 0.2-1.4% of people worldwide. Subclinical hyperthyroidism, defined as low TSH and normal T3 and T4 levels, affects approximately 0.7-1.4% of people worldwide.",
+    "abstract": "甲亢全球患病率2.5%，与骨质疏松、心脏病、高死亡率相关。一线治疗为ATD、甲状腺手术、放射性碘。甲亢患病率女性2%、男性0.5%。临床甲亢0.2-1.4%，亚临床甲亢0.7-1.4%。",
+    "source": "JAMA医学评论 https://pmc.ncbi.nlm.nih.gov/articles/PMC10873132/"
+  }
+]
