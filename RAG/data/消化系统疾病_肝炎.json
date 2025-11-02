@@ -1,0 +1,149 @@
+[
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "甲型肝炎病毒（HAV）通过粪-口途径传播，是急性病毒性肝炎的主要原因之一。临床表现从亚临床感染到急性肝衰竭不等，但不会发展为慢性肝炎。成人感染后多表现为症状性肝炎，而儿童多为无症状感染。甲型肝炎通常为自限性疾病，多数患者通过支持治疗可完全康复，仅极少数（<1%）可发展为急性肝衰竭，需重症监护及紧急肝移植决策。实验室检查可见ALT显著升高、胆红素升高、肝肿大及黄疸。",
+    "abstract": "甲型肝炎通过粪-口传播，多为急性发作，表现为乏力、黄疸、肝功能异常，极少发展为肝衰竭。",
+    "source": "NIH, PMC - Natural History, Clinical Manifestations, and Pathogenesis of Hepatitis A, https://pmc.ncbi.nlm.nih.gov/articles/PMC6120688/"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "乙型肝炎是由乙型肝炎病毒（HBV）引起的肝脏感染，可为急性或慢性。HBV主要通过接触感染者的血液、精液等体液传播，也可在分娩时由母亲传染给婴儿。2022年全球约有2.54亿人感染慢性乙型肝炎，每年新增感染120万人。慢性感染者有较高风险发展为肝硬化和肝细胞癌。2022年乙型肝炎导致约110万人死亡，主要死于肝硬化和肝癌。乙型肝炎可通过安全有效的疫苗预防，疫苗通常在出生后不久接种，可提供近100%的保护。",
+    "abstract": "乙型肝炎通过血液和体液传播，慢性感染可导致肝癌，疫苗接种是最有效的预防手段。",
+    "source": "WHO - Hepatitis B Fact Sheet, https://www.who.int/news-room/fact-sheets/detail/hepatitis-b"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "慢性乙型和丙型肝炎可导致严重并发症，包括肝纤维化、肝硬化、门静脉高压、肝性脑病和肝细胞癌。乙型肝炎相关肝癌占全球原发性肝癌的45%。慢性丙型肝炎感染者还可能发展为非霍奇金淋巴瘤、冷球蛋白血症等肝外疾病。肝硬化并发症包括腹水、食管静脉曲张出血、肝性脑病和肝肾综合征。治疗包括抗病毒治疗、肝移植、对症支持等。",
+    "abstract": "慢性肝炎可引发肝硬化、肝癌等严重并发症，需长期监测和综合治疗。",
+    "source": "NIH, StatPearls - Viral Hepatitis Complications, https://www.ncbi.nlm.nih.gov/books/NBK554549/"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "病毒性肝炎的预防包括疫苗接种、安全注射、血液筛查、母婴阻断和健康教育。甲型和乙型肝炎均有有效疫苗，推荐婴儿出生后24小时内接种首剂乙型肝炎疫苗。丙型肝炎无疫苗，预防重点在于控制血液传播和高风险行为。世界卫生组织建议将乙型肝炎疫苗纳入国家免疫计划，并对高风险人群进行筛查和干预。",
+    "abstract": "肝炎预防依赖疫苗接种、安全注射和血液筛查，乙型肝炎疫苗是主要防控手段。",
+    "source": "CDC - Hepatitis B Prevention and Vaccination, https://www.cdc.gov/hepatitis-b/about/index.html"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "乙型肝炎是一种由乙型肝炎病毒（HBV）引起的严重肝脏感染。大多数人的乙型肝炎为短期（也称为急性）乙型肝炎，持续时间少于六个月。对其他人来说，感染会持续六个月以上，称为慢性乙型肝炎。慢性乙型肝炎会增加肝衰竭、肝癌和严重肝脏瘢痕形成（称为肝硬化）的风险。乙型肝炎的症状可能包括：胃部（也称为腹部）疼痛、深色尿液、发热、关节疼痛、食欲不振、胃部不适和呕吐、无力和极度疲倦、黄疸，即眼白和皮肤发黄。乙型肝炎是由乙型肝炎病毒（HBV）引起的。该病毒通过血液、精液或其他体液在人与人之间传播。它不会通过打喷嚏或咳嗽传播。HBV的常见传播方式包括：性接触、共用针头、意外针头刺伤、怀孕者传染给新生儿。乙型肝炎疫苗是预防HBV感染的主要方法。慢性乙型肝炎的治疗可能包括：抗病毒药物、干扰素注射、肝移植。",
+    "abstract": "乙型肝炎是由乙型肝炎病毒引起的严重肝脏感染，可为急性（短于六个月）或慢性。慢性感染增加肝衰竭、肝癌和肝硬化风险。症状包括腹痛、深色尿、发热、关节痛、食欲不振、呕吐、乏力及黄疸。病毒通过血液、精液等体液传播，不通过打喷嚏或咳嗽传播。传播方式包括性接触、共用针头、意外针刺和母婴传播。疫苗是主要预防手段。慢性治疗包括抗病毒药、干扰素和肝移植。",
+    "source": "Mayo Clinic, https://www.mayoclinic.org/zh-hans/diseases-conditions/hepatitis-b/symptoms-causes/syc-20366802"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "诊断涉及医疗护理专业人员为确定您是否患有乙型肝炎而采取的步骤。医疗护理专业人员会对您进行体格检查并查看是否有肝损伤的症状。这些症状可能包括皮肤发黄和胃疼。可能有助于诊断乙型肝炎或其并发症的检查包括：血液检查、肝脏超声检查、肝活检。对健康人群筛查乙肝：医疗护理专业人员有时会对某些健康人群进行乙型肝炎检测，称为筛查。之所以进行筛查，是因为在感染引起症状之前HBV就会损害肝脏。急性HBV感染的治疗：您可能不需要治疗急性乙型肝炎病毒感染。感染的持续时间很短，大多数情况下会自行消失。医疗护理专业人员可能会建议：休息、摄入适当的营养、充分补充液体、在您的身体对抗感染时密切监测。如果您的症状严重，您可能需要使用抗病毒药物或住院以预防并发症。慢性HBV感染的治疗：大多数慢性乙型肝炎病毒感染患者余生都需要接受治疗。开始治疗的决定取决于许多因素。治疗有助于降低患肝病的风险，并防止您传染给他人。慢性乙型肝炎的治疗可能包括：抗病毒药物、干扰素注射、肝移植。",
+    "abstract": "乙型肝炎诊断包括体格检查（如查黄疸、胃疼）及血液检查、肝脏超声、肝活检。建议对高风险健康人群筛查。急性感染或可自愈，建议休息、营养、补液及监测，重症需药物或住院。慢性感染多需终身治疗，包括抗病毒药物、干扰素注射，严重者需肝移植，以降低肝病风险及防止传播。",
+    "source": "Mayo Clinic, https://www.mayoclinic.org/zh-hans/diseases-conditions/hepatitis-b/diagnosis-treatment/drc-20366821"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "病毒性肝炎是肝细胞癌的主要致病因素之一。甲型肝炎病毒（HAV）通常引起急性感染，临床病理长期追踪结果显示HAV感染与肝细胞癌发生有一定联系。乙型肝炎病毒（HBV）或丙型肝炎病毒（HCV）的慢性感染可导致长期肝脏炎症和肝硬化，影响多条细胞凋亡和增殖相关信号通路，是病毒感染导致肝细胞癌的最常见诱因。HBV X蛋白（HBx）基因突变与肝细胞癌发病率密切相关，HCV核心蛋白的表达可导致肝细胞脂质积累，促进肿瘤发生。临床丁型肝炎病毒（HDV）感染常伴随HBV的共感染，从而增加慢性肝炎风险。戊型肝炎病毒（HEV）感染通常呈急性，近年HEV在器官移植和免疫缺陷患者中慢性感染增多。HEV慢性感染易导致肝硬化而增加肝细胞癌风险。",
+    "abstract": "病毒性肝炎是肝细胞癌主要致病因素之一。甲肝病毒感染与肝细胞癌发生有联系。乙肝或丙肝慢性感染可导致长期肝脏炎症和肝硬化，是肝细胞癌最常见诱因。乙肝X蛋白基因突变、丙肝核心蛋白表达均促进肿瘤发生。丁肝常与乙肝共感染增加慢性肝炎风险。戊肝在免疫缺陷者中慢性感染增多，易导致肝硬化增加肝癌风险。",
+    "source": "PubMed, https://pmc.ncbi.nlm.nih.gov/articles/PMC10945487/"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "肝病可能通过家族遗传，即具有遗传性。肝脏问题也可能由任何损伤肝脏的因素导致，包括病毒、酒精使用和肥胖症。肝病并不一定会引起可明显察觉的症状。如果出现肝病症状，可能包括：皮肤和眼白发黄（黄疸）、腹部疼痛和肿胀、腿部和脚踝肿胀、皮肤瘙痒、尿色变深、大便颜色发白、慢性疲劳、恶心或呕吐、食欲不振、容易瘀伤。肝病有多种类型。感染：寄生虫和病毒可能感染肝脏，引起肿胀和刺激，即发炎。发炎导致肝脏无法正常工作。这些引起肝损害的病毒可能通过血液或精液、受污染的食物或水，或者与感染者密切接触传播。最常见的肝脏感染类型是肝炎病毒，包括：甲型肝炎、乙型肝炎、丙型肝炎。免疫系统状况：免疫系统攻击身体某些部位的疾病被称为自身免疫性疾病。自身免疫性肝病包括：自身免疫性肝炎、原发性胆汁性胆管炎、原发性硬化性胆管炎。遗传：遗传自父母一方或双方的异常基因会导致各种物质在肝脏中积聚。这可能造成肝损伤。遗传性肝病包括：血色素沉着症、威尔逊氏症、α-1抗胰蛋白酶缺乏症。癌症和其他增生：例如：肝癌、胆管癌、肝腺瘤。其他：导致肝病的其他常见原因包括：长期酒精使用、肝脏脂肪堆积（称为非酒精性脂肪性肝病或代谢相关脂肪变性肝病）、某些处方药或其他药物、某些草本复方制剂、经常接触有毒化学物质。",
+    "abstract": "肝病可遗传或由损伤因素如病毒、酒精、肥胖导致。症状或包括黄疸、腹部肿痛、腿踝肿胀、皮肤痒、深色尿、白便、疲劳、恶心呕吐、食欲不振、易瘀伤。肝病类型包括：感染（甲、乙、丙型肝炎病毒等，通过血液、精液、污染食物水或接触传播）、自身免疫性肝病（自身免疫性肝炎等）、遗传性肝病（血色素沉着症等）、癌症（肝癌等）及其他（酒精、脂肪肝、药物、毒素等）。",
+    "source": "Mayo Clinic, https://www.mayoclinic.org/zh-hans/diseases-conditions/liver-problems/symptoms-causes/syc-20374502"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "按导致肝炎的病因进行分类，肝炎可分为非病毒性肝炎和病毒性肝炎，非病毒性肝炎包括酒精性肝炎、药物性肝炎、代谢性肝炎、自身免疫性肝炎病、感染中毒性肝炎等；病毒性肝炎包括甲肝、乙肝、丙肝、丁肝、戊肝，这五种肝炎分别由五种不同的肝炎病毒（英文分别是HAV、HBV、HCV、HDV和HEV，对应的在中文中的表述就是甲、乙、丙、丁、戊肝病毒）感染所致。将病毒性肝炎细分为甲、乙、丙、丁、戊肝是非常必要的举措，因为这样能更好地理解、预防和治疗这些疾病。不同类型的肝炎病毒有不同的传播途径，了解这些差异有助于制定有针对性的预防和控制措施。例如，甲肝病毒和戊肝病毒主要通过粪口途径传播，需要重点关注卫生和饮水安全；而乙肝病毒、丙肝病毒和丁肝病毒主要通过血液和或体液传播，预防措施则侧重于安全注射、输血筛查和性行为安全。此外不同类型的肝炎需要不同的诊断方法和治疗方案，目前已有针对甲肝病毒和乙肝病毒的疫苗，但尚无针对丙肝病毒的有效疫苗。目前也有针对戊肝的疫苗，但尚无针对丁肝的有效疫苗。在治疗效果方面，甲肝和戊肝通常是自限性的，一般不会发展成慢性感染，可以被治愈。急性乙型肝炎在大多数成人中可治愈，但约5-10%的成人感染者会发展为慢性乙型肝炎，慢性乙型肝炎通常不能完全治愈。丙肝虽然容易发展成慢性，但近年来已研发出特效抗丙肝病毒药物，可实现完全治愈。丁肝病毒是一种缺陷病毒，可与乙肝病毒同时感染人体，但大部分情况下丁肝病毒感染是在乙肝病毒感染的基础上引起重叠感染，因此丁肝患者的治愈较为困难，治疗主要集中在控制乙肝病毒感染。",
+    "abstract": "肝炎按病因分非病毒性（酒精性、药物性、代谢性、自身免疫性、感染中毒性）和病毒性（甲、乙、丙、丁、戊肝，由不同病毒引起）。细分有助于理解、预防和治疗。传播途径：甲肝和戊肝主要通过粪口途径；乙肝、丙肝和丁肝主要通过血液和/或体液。疫苗：甲肝和乙肝有疫苗，丙肝无，戊肝有疫苗，丁肝无。治疗：甲肝和戊肝通常自限性，可治愈；急性乙肝多数成人可治愈，约5-10%成人为慢性，慢性乙肝通常不能完全治愈；丙肝易慢性化，但有特效药可治愈；丁肝常与乙肝共感染，治愈困难，治疗主要控制乙肝。",
+    "source": "National Health Security Administration of China, https://www.nhsa.gov.cn/art/2024/7/6/art_14_13146.html"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "肝炎是肝脏的炎症，其病因有多种。肝炎可以是急性的或慢性的（通常定义为炎症持续 > 6个月）。大多数急性病毒性肝炎可自行缓解，也有一些进展成慢性肝炎。肝炎常见病因包括：特异性肝炎病毒、酒精、代谢功能障碍相关脂肪肝病 (MASLD) [以前称为非酒精性脂肪性肝病（NAFLD）]、药物 （例如，异烟肼）。至少有5种特定的病毒可导致肝炎。其他尚未确定的病毒也可能引起急性病毒性肝炎。肝炎的不太常见的原因：少见原因有自身免疫性疾病、遗传性肝病、其他病毒感染（如传染性单核细胞增多症、黄热病和巨细胞病毒感染）和钩端螺旋体病。",
+    "abstract": "肝炎是肝脏炎症，分急性和慢性（炎症持续>6个月）。多数急性病毒性肝炎可自愈，部分转慢性。常见病因包括：特异性肝炎病毒、酒精、代谢功能障碍相关脂肪肝病、药物（如异烟肼）。至少5种特定病毒可致肝炎。不常见原因有自身免疫性疾病、遗传性肝病、其他病毒感染（如传染性单核细胞增多症、黄热病、巨细胞病毒感染）和钩端螺旋体病。",
+    "source": "MSD Manuals, https://www.msdmanuals.cn/professional/hepatic-and-biliary-disorders/hepatitis/causes-of-hepatitis"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis refers to an inflammatory condition of the liver. It’s commonly caused by a viral infection, but there are other possible causes of hepatitis. These include autoimmune hepatitis and hepatitis that occurs as a secondary result of medications, drugs, toxins, and alcohol. Autoimmune hepatitis is a disease that occurs when your body makes antibodies against your liver tissue. Viral infections of the liver that are classified as hepatitis include hepatitis A, B, C, D, and E. A different virus is responsible for each type of virally transmitted hepatitis. Hepatitis A is always an acute, short-term disease, while hepatitis B, C, and D are most likely to become ongoing and chronic. Hepatitis E is usually acute but can be particularly dangerous in pregnant women.",
+    "abstract": "肝炎是肝脏的炎症，通常由病毒感染引起，也包括自身免疫、药物、毒素和酒精等因素。病毒性肝炎分为A、B、C、D、E五型，A型为急性，B、C、D型常转为慢性，E型多为急性但对孕妇危险。",
+    "source": "Healthline, https://www.healthline.com/health/hepatitis"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis A is caused by infection with the hepatitis A virus (HAV). The virus is primarily spread when an uninfected (and unvaccinated) person ingests food or water that is contaminated with the faeces of an infected person. The disease is closely associated with unsafe water or food, inadequate sanitation, poor personal hygiene and oral-anal sex. Unlike hepatitis B and C, hepatitis A does not cause chronic liver disease and is rarely fatal, but it can cause debilitating symptoms and fulminant hepatitis (acute liver failure), which is often fatal. Hepatitis A is one of the most frequent causes of foodborne infection. Epidemics can be explosive and cause significant economic loss.",
+    "abstract": "甲型肝炎由HAV病毒引起，通过摄入被污染的食物或水传播，与卫生条件差密切相关。不引起慢性肝病，极少致命，但可导致急性肝衰竭，是常见食源性疾病之一。",
+    "source": "WHO - Hepatitis A, https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis C is a liver disease caused by the hepatitis C virus (HCV): the virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness lasting a few weeks to a serious, lifelong illness. Hepatitis C is found worldwide. The most affected regions are the WHO Eastern Mediterranean Region and the WHO European Region, with 12 million people chronically infected in each region. In the WHO South-East Asia Region and the WHO Western Pacific Region, an estimated 10 million people in each region are chronically infected. Hepatitis C is a major cause of liver cancer.",
+    "abstract": "丙型肝炎由HCV病毒引起，可导致急性或慢性肝炎，严重者可发展为终身疾病。全球流行，东地中海和欧洲地区最为严重，是肝癌的主要病因之一。",
+    "source": "WHO - Hepatitis C, https://www.who.int/news-room/fact-sheets/detail/hepatitis-c"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis D (HDV) is a virus that only infects people who have hepatitis B. Hepatitis D is spread through contact with infected blood. It is uncommon in the United States but can be widespread in certain regions, such as the Mediterranean basin, parts of Eastern Europe, the Middle East, Africa, and South America. Hepatitis D can cause severe symptoms and serious complications, including liver failure and death. People can become infected with both hepatitis B and hepatitis D at the same time (co-infection) or get hepatitis D after first being infected with hepatitis B (superinfection).",
+    "abstract": "丁型肝炎仅在已感染乙肝病毒者中传播，通过接触感染血液传播。在部分地区流行，症状严重，可导致肝衰竭和死亡。可与乙肝同时感染或在其后感染。",
+    "source": "MedlinePlus - Hepatitis D, https://medlineplus.gov/hepatitisd.html"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis E is a liver disease caused by the hepatitis E virus (HEV). The virus has at least 4 different types: genotypes 1, 2, 3 and 4. Genotypes 1 and 2 have been found only in humans. Hepatitis E is spread mainly through contaminated drinking water. It is usually a self-limiting infection and resolves within 2–6 weeks. Occasionally, a fulminant form of hepatitis develops (acute liver failure), which can lead to death. Hepatitis E infection is particularly serious in pregnant women, particularly in the second or third trimester, with a mortality rate of 15–25%.",
+    "abstract": "戊型肝炎由HEV病毒引起，主要通过污染饮用水传播，多为自限性，2–6周内自愈。偶可致急性肝衰竭，孕妇感染死亡率高，尤其在妊娠中晚期。",
+    "source": "WHO - Hepatitis E, https://www.who.int/news-room/fact-sheets/detail/hepatitis-e"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "There is no specific treatment for hepatitis A. Recovery from symptoms following infection may be slow and may take several weeks or months. Therapy is aimed at maintaining comfort and adequate nutritional balance, including replacement of fluids that are lost from vomiting and diarrhea. Hepatitis B and C are treated with antiviral medications. Treatment for hepatitis B aims to reduce the risk of liver disease and prevent transmission. For hepatitis C, direct-acting antiviral (DAA) tablets are the main treatment and can cure the infection in most cases.",
+    "abstract": "甲型肝炎无特效治疗，主要为对症支持治疗。乙型和丙型肝炎可用抗病毒药物治疗，乙肝治疗旨在降低肝病风险和防止传播，丙肝可通过直接抗病毒药物治愈。",
+    "source": "WHO - Hepatitis: Treatment, https://www.who.int/news-room/fact-sheets/detail/hepatitis-a"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Safe and effective vaccines are available to prevent hepatitis A and B. Hepatitis A vaccine is recommended for all children at 1 year of age and for adults who may be at risk, including travelers to certain countries, men who have sex with men, people who use drugs, and people with chronic liver disease. Hepatitis B vaccine is recommended for all infants and for adults who are at risk for infection. The vaccine is usually given as a series of three shots over 6 months. There is no vaccine for hepatitis C, but research is ongoing.",
+    "abstract": "甲型和乙型肝炎均有安全有效疫苗。甲肝疫苗推荐1岁儿童及高风险成人接种；乙肝疫苗推荐所有婴儿及高风险成人，需接种三剂。目前尚无丙肝疫苗。",
+    "source": "CDC - Viral Hepatitis Vaccines, https://www.cdc.gov/hepatitis/hbv/hbvfaq.htm"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Chronic hepatitis B and C can lead to serious complications such as cirrhosis (scarring of the liver), liver failure, and liver cancer. People with chronic hepatitis B are at increased risk of developing hepatocellular carcinoma (HCC), even in the absence of cirrhosis. Chronic hepatitis C is also a major cause of HCC, particularly in those with cirrhosis. Early diagnosis and treatment of chronic hepatitis can prevent these complications.",
+    "abstract": "慢性乙型和丙型肝炎可导致肝硬化、肝衰竭和肝癌。慢性乙肝患者即使无肝硬化也有肝癌风险，丙肝合并肝硬化者肝癌风险更高。早期诊断和治疗可预防并发症。",
+    "source": "UpToDate - Complications of chronic hepatitis B and C, https://www.uptodate.com/contents/complications-of-chronic-hepatitis-b-and-c"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Autoimmune hepatitis is a chronic disease in which your body’s immune system attacks the liver cells. The exact cause of autoimmune hepatitis is unclear, but it is believed to be a combination of genetic and environmental factors. It can lead to cirrhosis and liver failure if not treated. Treatment usually involves immunosuppressive medications such as prednisone and azathioprine.",
+    "abstract": "自身免疫性肝炎是免疫系统攻击肝细胞的慢性疾病，病因不明，可能与遗传和环境有关。若不治可致肝硬化和肝衰竭，治疗常用免疫抑制剂如泼尼松和硫唑嘌呤。",
+    "source": "Mayo Clinic - Autoimmune hepatitis, https://www.mayoclinic.org/diseases-conditions/autoimmune-hepatitis/symptoms-causes/syc-20352153"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Drug-induced hepatitis is inflammation of the liver that may occur when you take certain medicines. Some drugs can cause liver damage in a predictable way (dose-dependent), while others cause damage unpredictably (idiosyncratic). Common drugs that can cause hepatitis include acetaminophen, isoniazid, nitrofurantoin, and certain antibiotics. Symptoms may include jaundice, fatigue, nausea, and elevated liver enzymes. Early recognition and stopping the offending drug is critical.",
+    "abstract": "药物性肝炎是因服用某些药物引起的肝脏炎症，可为剂量依赖性或特异性反应。常见药物包括对乙酰氨基酚、异烟肼等。症状包括黄疸、乏力、恶心等，及时停药是关键。",
+    "source": "MedlinePlus - Drug-induced hepatitis, https://medlineplus.gov/ency/article/000166.htm"
+  },
+  {
+    "disease_name": "肝炎",
+    "category": "消化系统疾病",
+    "information": "Hepatitis is an inflammation of the liver that is caused by a variety of infectious viruses and non-infectious agents leading to a range of health problems, including liver failure and death.",
+    "abstract": "肝炎是由多种感染性病毒和非感染性因素引起的肝脏炎症，可能导致肝功能衰竭甚至死亡。",
+    "source": "World Health Organization (WHO) - Hepatitis: https://www.who.int/health-topics/hepatitis"
+  }
+]

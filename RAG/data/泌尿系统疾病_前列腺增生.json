@@ -1,0 +1,79 @@
+[
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "定义：良性前列腺增生（BPH）是一种非恶性疾病，涉及前列腺腺体的非癌性增长或增生。这种增生会导致前列腺增大，并可能阻塞尿液从膀胱流出。前列腺增生主要发生在前列腺的过渡区（TZ），该区围绕尿道。前列腺有两个主要生长阶段：第一个生长阶段发生在青春期早期，前列腺增大一倍。第二个生长阶段从大约25岁开始，并在整个生命中持续。BPH通常在第二个生长阶段的后期发生。前列腺是帮助生成精液的小腺体，位于膀胱正下方，会随着年龄增长而长大。",
+    "abstract": "良性前列腺增生是一种非癌性疾病，涉及前列腺增大，主要发生在前列腺过渡区，会导致尿液流出阻塞。",
+    "source": "Mayo Clinic 中文版 (https://www.mayoclinic.org/zh-hans/diseases-conditions/benign-prostatic-hyperplasia/symptoms-causes/syc-20370087); Cleveland Clinic (https://my.clevelandclinic.org/health/diseases/9100-benign-prostatic-hyperplasia); NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "症状：BPH的常见症状包括尿频或尿急、夜尿频繁、排尿困难、尿流微弱或断断续续、排尿结束时有尿滴、无法完全排空膀胱。不太常见的症状包括尿路感染、无法排尿和尿中带血。BPH的症状往往会慢慢恶化，但有时会保持不变，甚至会随着时间的推移而改善。前列腺的大小并不一定决定症状的严重程度。有些前列腺轻微肿大的男性可能有明显的症状，有些前列腺严重肿大的男性可能只有轻微的症状，还有些前列腺肿大患者没有任何症状。",
+    "abstract": "BPH症状为下尿路症状，包括夜尿频繁、排尿困难、尿流弱、排尿不尽等，症状与前列腺大小无必然关系。",
+    "source": "Mayo Clinic 中文版 (https://www.mayoclinic.org/zh-hans/diseases-conditions/benign-prostatic-hyperplasia/symptoms-causes/syc-20370087); PubMed StatPearls (https://www.ncbi.nlm.nih.gov/books/NBK558920/); Cleveland Clinic (https://my.clevelandclinic.org/health/diseases/9100-benign-prostatic-hyperplasia)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "病因与风险因素：前列腺增生的确切原因尚不清楚，但科学家认为与衰老相关的因素可能导致BPH。随着年龄增长，睾酮水平可能会下降，而同时雌激素水平保持不变，这些激素变化可能导致前列腺细胞生长。年长男性也有较高水平的双氢睾酮（DHT），这是一种更强效的睾酮形式。非修改性风险因素包括：衰老（前列腺肿大很少会在40岁前导致任何症状，此后患病概率开始上升）、家族史（有血缘关系的亲属存在前列腺问题会使您更容易出现前列腺问题，可能存在常染色体显性遗传模式）、地理位置（东亚和东南亚地区的男性前列腺体积更小）。修改性风险因素包括：肥胖（每增加1 kg/m²的BMI对应前列腺体积增加0.4-0.41 mL，BMI > 35 kg/m²的患者前列腺肥大风险是BMI < 25 kg/m²患者的3.5倍）、糖尿病和血糖稳定性破坏、心血管疾病、代谢综合征、身体活动减少、不良饮食、炎症。",
+    "abstract": "BPH风险因素包括衰老、家族史、肥胖、糖尿病、少运动、不良饮食、炎症等。",
+    "source": "Mayo Clinic (https://www.mayoclinic.org/zh-hans/diseases-conditions/benign-prostatic-hyperplasia/symptoms-causes/syc-20370087); PMC5717991 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5717991/); PMC3989819 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3989819/); PMC11430843 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11430843/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "并发症：前列腺增大可能导致膀胱排空问题。随着前列腺增大，会开始阻塞尿流。膀胱肌肉必须更努力地工作才能通过变窄的尿道推动尿液，这可能会使尿路症状恶化。最终，膀胱肌肉可能会衰弱，无法完全排空。并发症包括：尿中带血（血尿）、尿路感染（UTI）、肾脏损伤或肾病（严重的膀胱损伤或膀胱压力过高会伤害肾脏，可能导致肾衰竭）、膀胱结石、膀胱损伤、急性尿潴留（突然无法排尿，会引起剧烈疼痛，需要立即就医）、慢性尿潴留（长期不完全排空膀胱会导致膀胱损伤、感染和肾脏问题）。BPH的治疗可降低这些并发症的风险，但尿潴留和肾损害可能是严重的健康威胁。",
+    "abstract": "BPH主要并发症为尿潴留、尿路感染、膀胱结石、肾损害和膀胱损伤，可能对健康造成严重威胁。",
+    "source": "Mayo Clinic (https://www.mayoclinic.org/zh-hans/diseases-conditions/benign-prostatic-hyperplasia/symptoms-causes/syc-20370087); NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia); Assure Urology (https://assureurology.sg/zh/博客/良性前列腺增生症最常见的症状和并发症/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "诊断方法：医疗专业人员基于以下因素诊断BPH：个人和家庭病史（医疗专业人员可能会询问症状、症状何时开始及发生频率、是否有反复性尿路感染史、服用的药物、每天液体摄入、咖啡因或酒精消耗、重大疾病或手术史、家族前列腺问题史）、体格检查（医疗专业人员可能会进行直肠指检来触诊前列腺，也可能检查膀胱肿大、尿道分泌物、淋巴结肿大或压痛）、医学检查（包括尿液分析、PSA血液检查、前列腺活检、尿动力学检查、膀胱镜检查、经直肠超声）。这些检查有助于诊断与BPH相关的下尿路问题，并帮助医疗专业人员确定治疗选择。",
+    "abstract": "BPH诊断基于病史、体格检查（包括直肠指检）和医学检查（PSA检查、尿液分析、尿动力学检查等）。",
+    "source": "NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia); PMC7014908 (https://pmc.ncbi.nlm.nih.gov/articles/PMC7014908/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "治疗方法：BPH可以通过观察等待、药物治疗或手术进行治疗。观察等待：如果前列腺略微肿大且症状不影响生活质量，医疗专业人员可能会建议观察等待。生活方式改变包括少喝液体（尤其是在外出前或睡前）、避免或限制酒精和咖啡因、保持身体活动、完全排空膀胱、经常使用卫生间。药物治疗包括：α-阻滞剂（通过帮助膀胱颈和前列腺周围的肌肉放松使排尿更容易，常见包括坦索罗辛/Flomax、度那佐辛等）、5-α还原酶抑制剂（通过帮助停止前列腺生长或帮助前列腺收缩来改善尿流，包括非那雄胺/Proscar或度他雄胺/Avodart）、磷酸二酯酶-5抑制剂。研究表明α-阻滞剂和5-ARI的组合可能比单独使用一种药物效果更好。微创手术包括：经尿道水蒸气消融、前列腺尿道提升术、前列腺动脉栓塞等。这些微创手术对射精功能和勃起功能均有较好的保护作用。传统手术包括经尿道前列腺切除术（TURP）、激光手术、电气化剜除术等，用于前列腺体积较大或微创手术无效的情况。",
+    "abstract": "BPH治疗包括观察等待、药物治疗（α-阻滞剂、5-ARIs）、微创手术和传统手术。",
+    "source": "Mayo Clinic (https://www.mayoclinic.org/zh-hans/diseases-conditions/benign-prostatic-hyperplasia/symptoms-causes/syc-20370087); NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia); PubMed 35428429 (https://pubmed.ncbi.nlm.nih.gov/35428429/); PMC10293780 (https://pmc.ncbi.nlm.nih.gov/articles/PMC10293780/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "流行病学数据：BPH是老年男性中最常见的前列腺问题，几乎会影响所有随年龄增长的前列腺男性。根据最新数据，60岁时约50%的男性会出现BPH的某些迹象，85岁时约90%会出现该疾病的迹象。约一半的BPH患者会发展出需要治疗的症状。40岁以下的男性中BPH引起症状的情况很少见。BPH在40岁后的患病率开始上升。专家估计BPH影响5-6%的40-64岁男性和29-33%的65岁及以上男性。全球范围内，2019年有9400万个BPH患病病例，比2000年的5110万例增加了70.5%。在2021年，全球约有1.125亿个患病病例，与1990年的5070万例相比增长了122%。2021年全球约有638万例新发BPH病例，比1990年增长了115%。中等社会经济发展指数地区面临最重的BPH绝对负担。全球范围内，65-69岁年龄组承受最高负担，40-44岁和80岁以上年龄组呈现增长趋势。",
+    "abstract": "BPH是老年男性最常见疾病，全球患者数从2000年的5100万增至2021年的1.125亿，造成巨大公共卫生和经济负担。",
+    "source": "PMC11830103 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11830103/); PMC5717991 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5717991/); Cleveland Clinic (https://my.clevelandclinic.org/health/diseases/9100-benign-prostatic-hyperplasia); NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "病理生理学：前列腺由两个基本元素组成：一个由分泌导管和肺泡组成的腺体元素；一个主要由胶原蛋白和平滑肌组成的基质元素。在BPH中，细胞增殖导致前列腺体积增加和间质平滑肌张力增加。前列腺组织可分为三个不同的区：中心区（CZ）、外周区（PZ）和过渡区（TZ）。BPH在前列腺的过渡区专门发生，其中增生结节的扩张导致尿道压缩或狭窄。BPH表现为过渡区中上皮和/或间质细胞的结节增生，伴随白细胞浸润、促炎细胞因子的产生、上皮和间质萎缩，以及生长因子（如TGF-β、bFGF和神经内分泌肽）的产生。",
+    "abstract": "BPH涉及前列腺过渡区的结节增生，可能由于尿毒素长期暴露导致。",
+    "source": "PMC11430843 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11430843/); PubMed StatPearls 32644346 (https://pubmed.ncbi.nlm.nih.gov/32644346/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "性激素的作用：虽然睾酮和双氢睾酮对成人BPH的启动似乎不是必要的，但它们在BPH的进展中起着重要作用。DHT与雄激素受体的结合亲和力大约是睾酮的四倍。在患有BPH的老年男性中，DHT的大部分可能由前列腺产生。虽然血清T水平随衰老而下降，血清或前列腺内DHT水平可在老年男性中保持正常成人水平。5-α还原酶抑制剂（如非那雄胺或度他雄胺）已被成功用于BPH的管理，显示血清或前列腺内DHT减少超过70%，前列腺体积减少约30%。此外，虽然一些流行病学研究报告了血清E2（雌激素）与BPH体积的正相关，但临床试验使用芳酶抑制剂治疗BPH尚未产生显著的阳性结果。",
+    "abstract": "双氢睾酮而非睾酮是BPH进展的主要促进因子，5-α还原酶抑制剂有效治疗。",
+    "source": "PMC11430843 (https://pmc.ncbi.nlm.nih.gov/articles/PMC11430843/); PMC3989819 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3989819/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "生活方式改变与预防：研究人员尚未发现预防BPH的方法，但身体活动可能有助于降低风险。增加的身体活动和运动与BPH手术、临床BPH和LUTS的风险降低一致相关。中等至剧烈的身体活动最多可将BPH或LUTS的风险降低25%，保护效果的大小随着活动水平的提高而增加。为了减少在外出或睡眠中排尿的频率，可以通过限制外出前和睡前的液体摄入来减少排尿次数。还可以通过避免或减少酒精和咖啡因摄入来减少排尿次数。关于饮食的数据表明，蔬菜（特别是类胡萝卜素）、水果、多不饱和脂肪酸、亚油酸、维生素A和维生素D可能降低症状性BPH和LUTS的风险；而增加的总热量摄入、红肉、脂肪、奶制品等可能增加风险。",
+    "abstract": "生活方式改变包括增加运动、改善饮食、控制液体摄入可能有助于控制BPH症状。",
+    "source": "NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia); PMC5717991 (https://pmc.ncbi.nlm.nih.gov/articles/PMC5717991/); PMC3989819 (https://pmc.ncbi.nlm.nih.gov/articles/PMC3989819/)"
+  },
+  {
+    "disease_name": "前列腺增生",
+    "category": "泌尿系统疾病",
+    "information": "手术和并发症：经尿道前列腺切除术（TURP）是治疗大多数BPH病例的最有效治疗方法。手术通过去除压迫尿道的前列腺组织来进行。可以使用不同的方法去除部分或全部前列腺，包括TURP、激光手术、电气化等。TURP被认为是治疗BPH的金标准，但在65岁及以上的成人中，药物和微创治疗更可取。前列腺肥大手术后可能会出现并发症，例如排尿困难或疼痛、暂时性尿失禁、急迫感或频率、尿中血液或血块、感染、可形成的疤痕组织并可能缩小尿道、性问题，包括勃起功能障碍、逆行射精和不孕不育。大约10%接受手术的患者可能在20年内需要进行更多的手术。如果前列腺问题返回，患者可能需要进一步治疗。",
+    "abstract": "TURP是最有效手术治疗，但可能导致尿失禁、性功能障碍等并发症，约10%患者需重复手术。",
+    "source": "NIDDK (https://www.niddk.nih.gov/health-information/urologic-diseases/prostate-problems/enlarged-prostate-benign-prostatic-hyperplasia); PMC10288435 (https://pmc.ncbi.nlm.nih.gov/articles/PMC10288435/)"
+  }
+]

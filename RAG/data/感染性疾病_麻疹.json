@@ -1,0 +1,122 @@
+[
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "典型麻疹临床经过：前驱期2-4天，表现为高热（常>40℃）、干咳、流涕、结膜炎、眼痛及畏光；起病2-3天可见柯氏斑（Koplik spots，颊黏膜白色小点）；发热3-5天出现红色斑丘疹，自面部发际耳后向下蔓延至躯干、四肢，可融合，压之褪色，持续4-7天，疹退后可有细小脱屑及色素沉着。并发症常见：中耳炎（5-10%）、肺炎（1-6%，病毒或继发细菌）、腹泻（8%）；罕见但严重者为急性脑炎（1/1000，病死率约15%，25%幸存者留神经后遗症）及亚急性硬化性全脑炎SSPE（1/10万，数年后致命）。免疫抑制者可发生巨细胞肺炎。",
+    "abstract": "麻疹前驱期高热、咳、结膜炎及柯氏斑，3-5天出现自面向下蔓延的斑丘疹；常见并发症中耳炎、肺炎、腹泻，罕见脑炎与SSPE，免疫抑制者易重症。",
+    "source": "CDC - Measles Signs & Symptoms 2024-05-09 https://www.cdc.gov/measles/signs-symptoms/index.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "麻疹无特效抗病毒治疗，以对症支持及预防并发症为主。轻症居家隔离、补液、退热（对乙酰氨基酚或布洛芬），避免阿司匹林；保持室内光线柔和减少眼刺激。补液：口服补盐液或静脉晶体液纠正脱水；维生素A 20万IU（≥12月龄）或10万IU（6-11月龄）口服，即刻及次日重复，可降低死亡率及并发症（尤其维生素A缺乏地区）。继发细菌感染（中耳炎、肺炎）按病原给予抗生素；出现脑炎、巨细胞肺炎或免疫抑制者考虑静脉免疫球蛋白（IVIG）及激素，但证据有限。隔离：出疹后4天内应隔离，避免接触孕妇及免疫低下者。",
+    "abstract": "麻疹治疗以对症支持为主，补液退热，维生素A口服可降低并发症；继发细菌感染用抗生素，重症脑炎或免疫抑制可试用IVIG。出疹后4天应隔离。",
+    "source": "UpToDate - Measles: Clinical manifestations, diagnosis, treatment, and prevention"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "麻疹病毒通过抑制干扰素产生及诱导“免疫失忆”使宿主免疫抑制可持续数周至数年，导致继发感染风险增加。机制：病毒非结构蛋白V、C抑制I型干扰素信号；感染后大量麻疹特异性淋巴细胞扩增，取代原有记忆细胞，造成其他病原体记忆丢失。表现为急性期后2-3年内呼吸道感染、腹泻等发病率及住院率升高，尤其在营养不良或HIV感染儿童中更明显。补充维生素A、维持良好营养及后续疫苗接种（如肺炎球菌、流感疫苗）有助于恢复免疫功能。",
+    "abstract": "麻疹可致持续免疫抑制（免疫失忆），机制为干扰素抑制及记忆淋巴细胞被取代，急性期后2-3年继发感染风险升高，需补维生素A及后续疫苗接种。",
+    "source": "StatPearls - Measles Pathophysiology 2025-05-05 https://www.ncbi.nlm.nih.gov/books/NBK448068/"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "实验室确诊：急性期（出疹后0-7天）采集血清、咽拭子或尿液，RT-PCR检测病毒RNA为首选；病毒分离（B95a或Vero/hSLAM细胞）仅科研使用。血清学：IgM抗体捕获ELISA阳性（出疹后3-4天可检出，持续6-8周）提示近期感染；配对血清IgG≥4倍升高或急性期阴性/恢复期阳性可回顾确诊。注意：近期输血、免疫球蛋白或疫苗接种（8周内）可致IgM假阳性，需结合流行病学与PCR确认。基因分型：对RT-PCR阳性产物测序，区分不同基因型，用于溯源与消除验证。",
+    "abstract": "麻疹确诊首选RT-PCR检病毒RNA；IgM-ELISA出疹3-4天可阳性，持续6-8周；配对IgG≥4倍升高可回顾确诊，注意疫苗或血制品干扰，基因分型用于溯源。",
+    "source": "CDC - Measles Laboratory Testing Guidelines 2024 https://www.cdc.gov/measles/lab-tools/index.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "麻疹是一种由病毒引起的儿童感染。麻疹在过去很常见，现在几乎都可以通过疫苗来预防。麻疹（又称风疹）容易传播，在幼儿中可能很严重，甚至致命。麻疹的体征和症状会在接触病毒后 10 至 14 天开始出现。麻疹的体征和症状通常包括：发热、干咳、流鼻涕、咽喉疼痛、眼睛发炎（结膜炎）、口腔内脸颊内膜的红色背景上可见中心呈蓝白色的小白点（麻疹黏膜斑）、皮疹由扁平大斑点构成，这些斑点往往相互连接。这种感染会在 2 到 3 周的时间内分阶段发生。感染和潜伏期：在感染之后的前 10 到 14 天，麻疹病毒会在体内传播。在此期间，麻疹不会引起任何体征或症状。非特异性体征和症状：麻疹通常以轻度至中度发热开始，常伴有持续咳嗽、流鼻涕、眼睛发炎（结膜炎）和咽喉疼痛。轻症可能会持续 2 到 3 天。急性疾病和皮疹：皮疹由小的皮肤红点组成，其中一些轻微隆起。密集的斑点和肿块使皮肤外观呈红色斑点状。皮疹会先在面部出现。在随后的几天中，皮疹会向下蔓延至手臂、胸部和背部，然后是大腿、小腿和足部。与此同时，体温会急剧上升，通常高达 104 至 105.8 F（40 至 41 C）。恢复：麻疹皮疹可能会持续约七天。皮疹会逐渐消退，首先是面部，最后是大腿和足部。随着这种疾病的其他症状消退，咳嗽以及皮疹患处皮肤变黑或脱皮现象可能持续大约 10 天。麻疹患者可将病毒传染给他人的时间大约为八天，从出现皮疹的四天前开始，到出现皮疹的四天后结束。麻疹是一种具有高度传染性的疾病，在人群中极易传染。麻疹是由受感染儿童或成人鼻腔和咽喉部的病毒所引发。当麻疹患者咳嗽、打喷嚏或说话时，会将感染性飞沫喷入空气中，并可能被其他人吸入。感染性飞沫在空气中能停留约一小时。感染性飞沫还可能落到物体表面，可在其上存活数小时并保持传染性。触摸受病毒污染的物体表面后，再用手触摸口鼻或揉眼睛，就可能感染麻疹病毒。麻疹在皮肤出疹前四天到出疹后四天期间有较高的传染性。大约 90% 未曾患过麻疹或未接种过麻疹疫苗者在接触麻疹患者后会被感染。麻疹的并发症可能包括：腹泻和呕吐可能导致身体失水过多（脱水）；耳部感染是麻疹最常见的并发症；支气管炎、喉炎或哮吼；感染性肺炎；脑炎约 1000 例麻疹患者中就有 1 例会出现脑炎这种并发症；妊娠问题包括早产、低出生体重和胎儿死亡。",
+    "abstract": "麻疹是由病毒引起的高度传染性儿童感染性疾病，典型症状包括发热、咳嗽、流涕、结膜炎、口腔麻疹黏膜斑和全身皮疹。潜伏期10-14天，传染期从出疹前4天至出疹后4天。通过飞沫和接触传播，并发症包括肺炎、脑炎、脱水等，对幼儿尤其危险。接种疫苗是有效的预防措施。",
+    "source": "妙佑医疗国际 - https://www.mayoclinic.org/zh-hans/diseases-conditions/measles/symptoms-causes/syc-20374857"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "2025年4月全国共报告法定传染病866477例。乙类传染病中麻疹报告发病数234例，无死亡报告。2025年7月全国共报告法定传染病946063例。乙类传染病中麻疹报告发病数135例，无死亡报告。",
+    "abstract": "2025年中国麻疹发病情况：4月报告234例，7月报告135例，均无死亡病例。麻疹在中国属乙类传染病管理。",
+    "source": "中国疾病预防控制中心 - https://www.chinacdc.cn/jksj/jksj01/202505/t20250523_307013.html & https://www.chinacdc.cn/jksj/jksj01/202508/t20250806_309203.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "麻疹曾在世界许多地区几乎被消灭，却在2025年卷土重来，态势凶险。这种传染性极强的疾病在各大洲迅速蔓延，既影响到受贫困和冲突困扰的发展中国家，也波及到疫苗接种率下降的富裕国家。2023年，全球估计有1030万人感染麻疹，而2025年的病例数甚至更多。麻疹通过感染者咳嗽或打喷嚏时在空气中传播。它的传染性极强，若一人感染麻疹，周围90%未免疫的人也会被感染。这种疾病起初的症状可能类似感冒或流感，包括发烧、咳嗽、流鼻涕以及眼睛发红、流泪。随后会出现典型的皮疹，从头部蔓延至脚部。但麻疹并非仅仅是一种令人不适的儿童疾病，它可能引发严重的并发症，包括脑肿胀、肺炎甚至死亡，尤其在幼儿和成人中更为常见。2024 年，欧洲区域报告了 12.7万 例麻疹病例，是 2023 年的两倍，也是自 1997 年以来的最高病例数。在世卫组织欧洲区域涵盖的欧洲和中亚 53 个国家中，五岁以下儿童占报告病例的 40% 以上，其中超过一半的病例需要住院治疗。根据截至 2025 年 3 月 6 日收到的初步数据，共报告了 38 例死亡。2024 年，欧洲区域占全球麻疹病例的三分之一。仅在 2023 年，该区域就有 50 万名儿童错过了应通过常规免疫服务接种的第一剂麻疹疫苗。2023 年，波斯尼亚和黑塞哥维那、黑山、北马其顿和罗马尼亚的适龄儿童中，只有不到 80% 接种了第一剂麻疹疫苗，远低于保持群体免疫所需的 95% 的覆盖率。2024 年，罗马尼亚报告的病例数是该地区最多的，为 3.06万例，其次是哈萨克斯坦，为 2.81万例。2024 年，全球报告了约 35.95万 例麻疹病例。",
+    "abstract": "2025年全球麻疹疫情严重反弹，欧洲地区2024年报告12.7万例，为1997年以来最高，占全球病例三分之一。5岁以下儿童占病例40%以上，超过一半需住院。全球多地爆发疫情，主要原因是疫苗接种率下降，欧洲多国首剂麻疹疫苗接种率低于80%，远低于群体免疫所需的95%覆盖率。",
+    "source": "联合国日内瓦 - https://www.ungeneva.org/zh/news-media/news/2025/03/104330/ouzhoumazhenbinglishuchuang-25-nianxingao"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Measles is one of the most contagious diseases. MMR vaccine provides the best protection. Isolate infected patients for 4 days after they develop a rash and follow airborne precautions in healthcare settings. Report suspected measles cases to your local health department. Laboratory confirmation is essential for all sporadic measles cases and all outbreaks. It is characterized by: A prodrome of fever (as high as 105°F), malaise, and cough, coryza, and conjunctivitis (three \"C\"s). A pathognomonic enanthema (Koplik spots). Followed by a maculopapular rash. The rash usually appears about 14 days after a person is exposed. The rash spreads from the head to the trunk to the lower extremities. Patients are considered to be contagious from 4 days before to 4 days after the rash appears. Sometimes immunocompromised patients do not develop the rash. The combination measles, mumps, rubella, and varicella (MMRV) vaccine can be used for children aged 12 months through 12 years. Airborne precautions should be followed in healthcare settings. The preferred placement for patients who require airborne precautions is in a single-patient airborne infection isolation room (AIIR). Regardless of presumptive immunity status, all healthcare staff entering the room should use respiratory protection consistent with airborne infection control precautions. This includes use of an N95 respirator or a respirator with similar effectiveness in preventing airborne transmission.",
+    "abstract": "麻疹是传染性最强的疾病之一，MMR疫苗提供最佳保护。特征为发热（可达105°F）、不适、咳嗽、鼻炎、结膜炎（三C征）的前驱症状，随后出现柯氏斑点（病理性粘膜疹），继之为斑丘疹。皮疹约在暴露后14天出现，从头部扩散至躯干和四肢。传染期为出疹前4天至出疹后4天。免疫功能低下者有时不出现皮疹。12个月至12岁儿童可接种MMRV疫苗。医疗机构需隔离患者至出疹后4天，并采取空气传播预防措施，包括安置于单人空气隔离室（AIIR）以及医护人员使用N95或类似级别呼吸防护。",
+    "source": "Clinical Overview of Measles - CDC https://www.cdc.gov/measles/hcp/clinical-overview/index.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "医务人员通常可以根据该病的特征性皮疹以及脸颊内膜周边亮红的蓝白色小斑点（科普利克斑）来诊断麻疹。医务人员可能会询问您或您的孩子是否接种过麻疹疫苗，您最近是否在美国境外旅行，以及您是否接触过任何出现皮疹或发热的人。然而，许多医务人员从未见过麻疹。皮疹也可能与其他多种疾病混淆。如有必要，血液检测可以确认所患皮疹是否为麻疹。麻疹病毒通常也可以通过使用咽喉拭子或尿样的检测来确诊。\n治疗方法包括减轻症状的缓解措施（例如休息）以及治疗或预防并发症。对麻疹无免疫力的人群（包括婴儿）可在接触麻疹病毒后72 小时内接种麻疹疫苗，以获得对该病毒的防护能力。如果仍出现麻疹，症状通常较轻，且持续时间较短。接触到病毒的孕妇、婴儿和免疫系统弱的人可注射一种叫做免疫血清球蛋白的蛋白质（抗体）。如果在接触病毒后6 天内注射，这些抗体可能预防麻疹或减轻症状。您还可尝试以下安慰措施：多休息；足量饮水，饮用足量的水、果汁和花草茶，以补充因发热和出汗而流失的水分，可购买非处方补液溶液；加湿空气，使用冷雾加湿器，并每天清洗；做好鼻部保湿，生理盐水喷鼻剂可使鼻内保持湿润，舒缓刺激；让眼睛休息，将光线调暗或佩戴太阳镜，避免阅读或看电视。",
+    "abstract": "麻疹诊断主要基于皮疹和柯氏斑，但皮疹可能与其他疾病混淆，需结合流行病学史并可通过血液、咽拭子或尿样检测确诊。暴露后预防措施包括：无免疫力者在接触后72小时内接种疫苗，孕妇、婴儿和免疫系统弱者在6天内注射免疫血清球蛋白。对症治疗措施包括：多休息、足量饮用含电解质的液体、使用冷雾加湿器、生理盐水喷鼻剂，以及避免强光刺激眼睛。",
+    "source": "妙佑医疗国际 - 麻疹- 诊断与治疗 https://www.mayoclinic.org/zh-hans/diseases-conditions/measles/diagnosis-treatment/drc-20374862"
+  },
+
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "麻疹暴发时应急免疫策略：对6月龄-14岁人群无论既往接种史均开展补充免疫活动（SIA），目标覆盖率≥95%；6-8月龄婴儿可提前接种1剂MMR，但满12月龄后仍需常规2剂。疫情发生学校/托幼机构：首发病例隔离出疹后4天，追踪密切接触者，暴露后72小时内应急接种疫苗，72小时-6天内给予免疫血清球蛋白（IM 0.5 mL/kg）。集体单位停课建议：出现病例的班级停课至末例出疹后4天；若2周内≥2例，全校停课同期。医务人员：确诊或疑似麻疹者立即停止工作至出疹后4天，无免疫史者暴露后72小时内接种疫苗或6天内注射免疫球蛋白并隔离至末次暴露后21天。",
+    "abstract": "暴发时6月龄-14岁补种覆盖率≥95%，6-8月龄可提前1剂；学校追踪密接，72小时内应急接种或6天内注射免疫球蛋白，班级/全校停课至末例出疹后4天，医务人员无免疫者同法处理并隔离21天。",
+    "source": "中国 CDC《麻疹暴发调查与处置技术指南（2023）》https://www.chinacdc.cn/jkzt/crb/jz/measles/202306/t20230615_265432.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Long-term immunologic consequences of measles: population-level studies using paired blood samples show that measles infection causes transient but profound immunosuppression, erasing 11–73% (median 40%) of pre-existing antibody diversity against other pathogens. This “immune amnesia” persists for months to years, leading to increased rates of secondary infections. A 2022 retrospective cohort in the Netherlands demonstrated that children who had measles had a 1.7-fold higher risk of non-measles infectious disease hospitalization over the next 5 years compared with matched vaccinated controls. Restoring immunity requires re-exposure or revaccination against previously encountered pathogens.",
+    "abstract": "麻疹导致“免疫失忆”，可清除11-73%原有抗体多样性，免疫抑制持续数月至数年，荷兰研究显示患儿5年内非麻疹感染住院风险增加70%，需再暴露或再接种以恢复免疫。",
+    "source": "Science 2022;377:1243-1250 (PMID: 36173858) https://doi.org/10.1126/science.abm5827"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Measles is a highly contagious, serious airborne disease caused by a virus that can lead to severe complications and death. Measles vaccination averted 56 million deaths between 2000 and 2021. Even though a safe and cost-effective vaccine is available, in 2021, there were an estimated 128 000 measles deaths globally, mostly among unvaccinated or under-vaccinated children under the age of 5 years. In 2022, about 83% of the world's children received one dose of measles vaccine by their first birthday through routine health services – the lowest since 2008. Measles is caused by a virus in the paramyxovirus family and it is normally passed through direct contact and through the air. The virus infects the respiratory tract, then spreads throughout the body. Measles is a human disease and is not known to occur in animals. Accelerated immunization activities have had a major impact on reducing measles deaths. During 2000–2021, measles vaccination prevented an estimated 56 million deaths globally. About 83% of the world's children received one dose of measles vaccine by their first birthday through routine health services in 2022, the lowest since 2008. There is no specific treatment for measles. Caregiving should focus on relieving symptoms, making the person comfortable and preventing complications. Drinking enough water and treatments for dehydration can replace fluids lost to diarrhoea or vomiting. Eating a healthy diet is also important. Doctors may use antibiotics to treat pneumonia and ear and eye infections. All children or adults with measles should receive two doses of vitamin A supplements, given 24 hours apart. This restores low vitamin A levels that occur even in well-nourished children. It can help prevent eye damage and blindness. Vitamin A supplements may also reduce the number of measles deaths.",
+    "abstract": "麻疹是副黏液病毒引起的高度传染性严重疾病，可导致严重并发症和死亡。2021年全球约12.8万人死于麻疹，主要为未充分接种疫苗的5岁以下儿童。2022年全球首剂麻疹疫苗接种率83%，为2008年以来最低。无特异性治疗方法，主要对症支持治疗和补充维生素A。",
+    "source": "世界卫生组织 - https://www.who.int/news-room/fact-sheets/detail/measles"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Measles is highly contagious. Measles can live for up to 2 hours in an airspace after an infected person leaves an area. Measles is only spread from person to person. Animals do not get nor spread measles. If you have measles, up to 90% of the people close to you, who are not immune, will also become infected.",
+    "abstract": "麻疹传染性极强，可在空气中存活约2小时，通过人与人直接传播，非免疫者接触感染者的近距离者中高达90%可能被感染。",
+    "source": "CDC — How Measles Spreads https://www.cdc.gov/measles/causes/index.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Patients are usually contagious from about four days before rash onset until four days after its appearance. Virus can be detected before rash onset. Virus can be detected after day 5 but sensitivity decreases.",
+    "abstract": "麻疹患者通常在出疹前四天就具有传染性，并持续到皮疹出现后四天。实验室中病毒 RNA 可在出疹前被检测到，出疹后第 5 天以后检出率下降。",
+    "source": "WHO — Measles surveillance & infectivity timeline (Vaccine-Preventable Diseases Surveillance Manual) https://www.who.int/docs/default-source/immunization/vpd_surveillance/vpd-surveillance-standards-publication/who-surveillancevaccinepreventable-11-measles-r2.pdf"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Detection of measles‐specific IgM antibody and measles RNA by real-time reverse transcriptase polymerase chain reaction (rRT-PCR) are the most common methods for confirmation of measles infection. Testing for all suspect measles cases should ideally include both serologic testing and rRT-PCR to optimize sensitivity and specificity of testing.",
+    "abstract": "确诊麻疹常用测定特异性 IgM 抗体和病毒 RNA（rRT-PCR）的方法。理想情况下，对所有疑似病例同时进行血清学检测和核酸检测可优化灵敏性和特异性。",
+    "source": "CDC / Manual for the Surveillance of Vaccine-Preventable Diseases, Chapter 7: Measles Laboratory Testing https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-7-measles.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "CDC recommends the collection and submission of samples for all suspected measles cases. Nasopharyngeal or throat swabs are preferred over urine specimens. The detection of measles RNA by rRT–PCR may be successful as late as 10–14 days after rash onset.",
+    "abstract": "CDC 建议对所有疑似麻疹病例收集标本，其中优先采集咽拭子或鼻咽拭子；病毒 RNA 的 rRT-PCR 检测在出疹后高敏感，可延至出疹后 10–14 天。",
+    "source": "CDC — Laboratory Testing for Measles https://www.cdc.gov/measles/php/laboratories/index.html"
+  },
+  {
+    "disease_name": "麻疹",
+    "category": "感染性疾病",
+    "information": "Measles is a human disease caused by a virus in the paramyxovirus family. The virus infects the respiratory tract, then spreads throughout the body. It can lead to major epidemics with significant morbidity and mortality, especially among vulnerable people. Among young and malnourished children, pregnant women, and immunocompromised individuals, including those with HIV, cancer or treated with immunosuppressives, measles can cause serious complications, including severe diarrhea, blindness, encephalitis, pneumonia, and death.",
+    "abstract": "麻疹是副黏液病毒科引起的人传病毒病，感染呼吸道后随体内传播。对营养不良儿童、孕妇、免疫抑制人群等高危群体可造成脑炎、肺炎、失明、严重腹泻甚至死亡。",
+    "source": "WHO — Measles Epidemiology and Complications https://www.who.int/zh/emergencies/disease-outbreak-news/item/2023-DON446"
+  }
+]

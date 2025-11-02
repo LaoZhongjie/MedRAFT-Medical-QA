@@ -1,0 +1,93 @@
+[
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "Hand-foot-and-mouth disease (HFMD) is a common acute viral illness caused by enteroviruses, most frequently coxsackievirus A16 and enterovirus A71. Transmission occurs via the fecal-oral route, respiratory droplets, and contact with fluid from vesicles or contaminated fomites. The incubation period is typically 3–6 days. Patients present with fever, oral ulcers, and a papulovesicular rash on the hands, feet, and buttocks; lesions heal without scarring. Most cases are self-limited, but EV-A71 can cause neurologic complications (aseptic meningitis, brainstem encephalitis, acute flaccid paralysis) and cardiopulmonary failure. Diagnosis is clinical; RT-PCR or viral culture can confirm the pathogen. Treatment is supportive: antipyretics, adequate hydration, and topical oral analgesics. No antiviral agent is licensed. An inactivated EV-A71 vaccine is available in China and has shown >90% efficacy against EV-A71-associated HFMD.",
+    "abstract": "HFMD由肠道病毒（柯A16、EV-A71等）经粪-口、飞沫、接触传播，潜伏期3-6天，表现为发热、口腔溃疡及手足臀疱疹，多自愈；EV-A71可致神经并发症。中国已有EV-A71灭活疫苗，效力>90%。",
+    "source": "CDC - Hand, Foot, and Mouth Disease (HFMD) https://www.cdc.gov/hand-foot-mouth/index.html"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "Outbreaks of HFMD typically occur in childcare settings during spring–summer. The basic reproduction number (R₀) for EV-A71 has been estimated at 2.5–5.5, indicating high transmissibility. Environmental survival: enteroviruses can persist on plastic and metal surfaces for >24 hours at 20–25°C and remain infectious in water for weeks. Chlorine disinfection (free chlorine ≥0.5 mg/L for 30 minutes) effectively inactivates the virus. Breastfeeding does not transmit the virus and may provide passive antibodies that reduce severity.",
+    "abstract": "春夏季托幼机构易暴发，EV-A71的R₀达2.5-5.5；病毒在塑料金属表面>24小时、水中数周仍有活性，0.5 mg/L游离氯30分钟可灭活；母乳喂养不传播并可减症。",
+    "source": "WHO - Hand, Foot and Mouth Disease Factsheet 2022 https://www.who.int/news-room/fact-sheets/detail/hand-foot-and-mouth-disease"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "目前还没有针对手足口病的特定治疗方法。手足口病的症状通常会在7到10天内消失。局部口服麻醉剂可能有助于减轻口腔溃疡的疼痛。阿司匹林以外的非处方止痛药，如对乙酰氨基酚或布洛芬，可能有助于缓解一般性不适。有些食物和饮料可能会刺激舌头、口腔或咽喉处的水疱。请试试以下这些有助于减轻孩子水疱疼痛的小技巧：吸吮冰棒或冰片、吃冰淇淋或冰冻果子露、喝冷饮如水、喝热饮如茶、避免酸性食物和饮品如柑橘类水果、水果饮料和碳酸饮料、吃不需要太多咀嚼的软食。如果孩子在漱口时可以做到不吞咽漱口水，可以用温盐水漱口，以缓解症状。让孩子一天漱几次口，以减轻口腔和咽喉溃疡的疼痛和炎症。",
+    "abstract": "手足口病无特异性治疗方法，症状多在7-10天内自行消失。对症处理包括使用对乙酰氨基酚或布洛芬缓解疼痛发热，局部麻醉剂减轻口腔溃疡疼痛。饮食宜选择凉爽柔软的食物，避免酸性刺激，温盐水漱口可缓解口腔不适。",
+    "source": "妙佑医疗国际 - https://www.mayoclinic.org/zh-hans/diseases-conditions/hand-foot-and-mouth-disease/diagnosis-treatment/drc-20353041"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "手足口病患者亦可能没有病征，或者只出现皮疹或口腔溃疡等病征。 患者痊愈后，会对相应的肠病毒产生抗体，但日后仍可感染由其他肠病毒引致的手足口病。\n手足口病主要透过接触患者的鼻或喉咙分泌物、唾液、穿破的水疱或粪便，或触摸受污染的物件而传播。 患者在病发首星期最具传染性，而病毒可经由其粪便排放达数星期。 潜伏期约为3至6 天。 现时并没有药物治疗手足口病。 患者应多喝水和有充足休息，同时亦可用药物治疗症状，以纾缓发烧和口腔溃疡引致的痛楚。 为免把病毒传染给别人，患病的儿童应该避免上学或参加集体活动，直至所有水疱干涸。 如感染是由肠病毒71型引致，患者完全康复（即发烧及红疹消退，以及所有水疱干涸及结痂）后应留家休息多兩星期才回校上课。 父母要细心观察儿童的情况。 如出现持续高烧、神情呆滞或病情恶化，患者应立即求医。\n由于酒精未能有效杀死一些引起手足口病的病毒（例如：肠病毒71型），酒精搓手液并不能代替使用梘液和清水洁手。\n患者应避免处理食物和照顾儿童、长者和免疫力弱人士。",
+    "abstract": "手足口病患者可无症状或仅有皮疹/溃疡；痊愈后对相应病毒产生抗体，但可重复感染其他型别。主要经鼻喉分泌物、唾液、粪便或污染物件传播，病发首周传染性最强，潜伏期约3-6天。无特效药，以对症治疗为主。肠病毒71型感染者完全康复后需留家休息多两星期。酒精搓手液对某些肠病毒无效，不能代替肥皂水洗手。",
+    "source": "卫生防护中心- 手足口病 https://www.chp.gov.hk/sc/healthtopics/content/24/23.html"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "是否可经水或食物传播尚不明确。 发病前数天，感染者咽部与粪便就可检出病毒，通常以发病后一周内传染性最强。 病人粪便、疱疹液和呼吸道分泌物及其污染的手、毛巾、手绢、牙杯、玩具、食具、奶具、床上用品、内衣以及医疗器具等均可造成本病传播。 人对肠道病毒普遍易感，显性感染和隐性感染后均可获得特异性免疫力，持续时间尚不明确。 病毒的各型间无交叉免疫。\n做好儿童个人、家庭和托幼机构的卫生是预防本病感染的关键。\n婴幼儿使用的奶瓶、奶嘴使用前后应充分清洗；本病流行期间不宜带儿童到人群聚集、空气流通差的公共场所，注意保持家庭环境卫生，居室要经常通风，勤晒衣被；儿童出现相关症状要及时到医疗机构就诊。 居家治疗的儿童，不要接触其他儿童，父母要及时对患儿的衣物进行晾晒或消毒，对患儿粪便及时进行消毒处理；轻症患儿不必住院，宜居家治疗、休息，以减少交叉感染。\n进行清扫或消毒工作（尤其清扫厕所）时，工作人员应穿戴手套。",
+    "abstract": "发病前数天感染者咽部和粪便即可检出病毒，发病后一周内传染性最强。传播途径多样，包括被污染的日常用品和医疗器具。人普遍易感，显性/隐性感染后获特异性免疫力，但各型间无交叉免疫。预防关键是个人、家庭和托幼机构卫生。居家患儿应隔离并及时消毒衣物和粪便，轻症宜居家治疗以减少交叉感染。",
+    "source": "手足口病预防控制指南（2008年版） - 中华人民共和国国家卫生健康委员会 https://www.nhc.gov.cn/wjw/gfxwj/200805/f91e49f900874fd2b7bfdb1434823317.shtml"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "HFMD is a clinical syndrome characterized by a febrile illness, followed by an oral exanthema and a macular, maculopapular, or vesicular rash of the hands, also involving palms, feet, and buttocks caused by enteroviruses of the picornaviridae family, the most common cause being. The patient experienced severe itching over the papules. The rashes started over the face and then progressed to involve the palms and then the peri-anal region. The child was fully immunized. Physical examination revealed multiple erythematous papular lesions present over the face, palms, soles, and buttocks. Symptomatic treatment in the form of plenty of fluids, antipyretics (syp paracetamol), to control fever, antihistamines (syp fexofenadine) to reduce itching, and Zytee lotion (choline salicylate and benzalkonium chloride – RAPTAKOS, BRETT, and CO) for relieving local irritation and pain was given. It is contagious but typically benign, with lesions clearing in 1–2 weeks. Early symptoms include fever, malaise, and sore throat. Sudden erythematous papulo-vesicular eruptions, often in crops, appear on hands, feet, perioral area, knees, buttocks, and oral cavity. Some lesions are larger vesiculobullous ones found in different body areas. Thick-skinned regions like palms and soles might lack classical vesicles, appearing as erythematous papules. Improvement usually occurs in 7–10 days without complications, but in a few cases, severe cardiorespiratory and neurological involvement can arise. All four cases exhibited fever and viral prodrome.",
+    "abstract": "HFMD是由微小核糖核酸病毒科的肠道病毒引起，临床表现为发热、口腔斑丘疹和手部（包括手掌、脚底和臀部）斑丘疹、斑疹或水疱疹。皮损通常在1-2周内消退，具有传染性但通常是良性的。早期症状包括发热、不适和喉咙痛。厚皮区如手掌和脚底可能缺乏典型水疱，表现为红斑性丘疹。少数病例可能出现严重心肺和神经系统并发症。对症治疗包括补充液体、退热剂（对乙酰氨基酚）、抗组胺药（用于止痒）和局部麻醉剂（用于缓解疼痛）。",
+    "source": "Managing hand-foot-mouth disease in children: More of counseling, less of medicines - NIH https://pmc.ncbi.nlm.nih.gov/articles/PMC11504739/"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "Symptoms include: Fever. Headache. Loss of appetite. Rash with very small blisters on the hands, feet, and diaper area that may be tender or painful when pressed. Sore throat. Ulcers in the throat (including tonsils), mouth, and tongue. Aspirin should not be given for viral illnesses in children under age 18. Salt water mouth rinses (1/2 teaspoon, or 6 grams, of salt to 1 glass of warm water) may be soothing. Drink plenty of fluids. The best fluids are cold milk products. Do not drink juice or soda because their acid content causes burning pain in the ulcers. Complete recovery occurs in 5 to 7 days. Possible complications that may result from HFMD include: Loss of body fluids (dehydration). Seizures due to high fever (febrile seizures). Contact your provider if there are signs of complications, such as pain in the neck or arms and legs. Emergency symptoms include convulsions. You should also contact your provider if: Medicine does not lower a high fever. Signs of dehydration occur, such as dry skin and mucus membranes, weight loss, irritability, decreased alertness, decreased or dark urine.",
+    "abstract": "HFMD症状包括发热、头痛、厌食、手足/尿布区疼痛性水疱疹、咽喉痛、口腔溃疡（含扁桃体、舌头）。治疗为对症支持，禁用阿司匹林。家庭护理可用温盐水漱口，多饮水，最好是冷的奶制品，避免酸性果汁或汽水。完全康复需5-7天。可能的并发症有脱水和高热惊厥。若高烧不退、脱水或出现颈部/肢体疼痛、抽搐等并发症迹象，需立即就医。",
+    "source": "Hand-foot-mouth disease: MedlinePlus Medical Encyclopedia https://medlineplus.gov/ency/article/000965.htm"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "HFMD can start with a low-grade fever, reduced appetite, and general malaise. The most common HFMD presenting symptom is usually mouth or throat pain secondary to the enanthem. A thin halo of erythema surrounds the presence of vesicles, eventually rupturing and forming superficial ulcers with a grey-yellow base and erythematous rim. Aseptic meningitis can occur, but this is more common with enterovirus 71. This particular virus is associated with a higher neurological involvement rate than coxsackievirus. The individual may develop acute cerebellar ataxia, polio-like syndrome, encephalitis, benign intracranial hypertension, and Guillain-Barre syndrome. The virus is believed to induce damage to the gray matter, resulting in motor dysfunction. Coxsackievirus can rarely cause interstitial pneumonia, myocarditis, pancreatitis, and pulmonary edema. Some studies indicate that coxsackievirus infections may also be associated with spontaneous abortions. Admission is highly recommended for any infant with HFMD who shows signs of severe disease and lethargy.",
+    "abstract": "HFMD常以低烧、食欲不振和全身不适起病。最常见的主诉是口腔或咽喉疼痛。口腔粘膜疹周围有红晕，随后破裂形成灰黄色基底和红斑边缘的浅表溃疡。无菌性脑膜炎在EV71感染中更常见，EV71与更高的神经系统受累率相关，可能发展为急性小脑共济失调、脊髓灰质炎样综合征、脑炎、良性颅内高压和格林-巴利综合征。病毒可能导致灰质损伤引起运动功能障碍。柯萨奇病毒罕见引起间质性肺炎、心肌炎、胰腺炎和肺水肿，并可能与自发性流产相关。对于出现重症迹象和嗜睡的婴儿，强烈建议住院治疗。",
+    "source": "Hand, Foot, and Mouth Disease - StatPearls - NCBI Bookshelf - NIH https://www.ncbi.nlm.nih.gov/books/NBK431082/"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "A child with HFMD may suffer from some of the following symptoms: Vomiting and/or diarrhoea. However, symptoms may vary between individuals, and at different stages of the disease. E.g. some may only have a rash, or some individuals may show no symptoms at all. Complications such as brain, lung or heart infections may occur occasionally, usually due to the EV 71 virus and can be serious. Some signs and symptoms of complications include: Severe headache, giddiness, and neck stiffness. Disorientation, drowsiness and/or irritability. Fits. Breathlessness or turning blue. The vesicles are typically on the palm side of the hands, and the sole side of the feet and are very characteristic in appearance. The rash may also be present on the buttocks, arms, and legs. To ease your child's discomfort and help your child recover by: Encouraging your child to drink plenty of fluids. Changing to a soft diet (e.g. porridge, pureed fruit) if mouth ulcers are a problem. Giving medications as prescribed by the doctor, e.g. paracetamol syrup to relieve fever and pain. Ensuring your child gets plenty of rest by keeping him/her at home. Look for mouth ulcers. Ask your child to open his mouth and say “Ah”. Shine a torch in the mouth and look for ulcers on the tongue, inner sides of the mouth and on the lips.",
+    "abstract": "HFMD症状多样，包括呕吐/腹泻，个体差异大，有些人可能仅有皮疹或无症状。手部水疱通常位于手掌侧，脚部位于脚底侧，具特征性外观，皮疹也可见于臀部、手臂和腿部。严重并发症如脑、肺或心脏感染偶发，通常由EV71引起。并发症迹象包括严重头痛、眩晕、颈部僵硬、定向障碍、嗜睡/烦躁、抽搐、气促或发绀。护理包括鼓励饮水、口腔溃疡时改为软食（如粥、果泥），服对乙酰氨基酚等药物缓解发热疼痛，并充分休息。",
+    "source": "Hand, Foot, and Mouth Disease - HealthHub https://www.healthhub.sg/health-conditions/hfmd"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "手足口病是一种常见于幼儿的轻度传染性病毒感染。其症状包括口腔溃疡和手脚皮疹。手足口病最常见是由柯萨奇病毒引起。目前还没有针对手足口病的特定治疗方法。勤洗手、避免密切接触手足口病患者可能有助降低您孩子的感染风险。手足口病可能导致以下部分或全部症状：发热、咽喉疼痛、感觉不适、舌头、牙龈和脸颊内侧出现水疱样病变伴有疼痛感、手掌、脚掌出现皮疹有时还会出现在臀部。皮疹无瘙痒感，但有时会起水疱。从初次感染到出现症状通常为 3 至 6 天。孩子可能发热并出现咽喉疼痛，有时还会出现食欲不振，感觉不舒服。发热开始一两天后，口腔或咽喉前部可能出现溃疡并伴有疼痛感。还有可能在手、脚甚至臀部出现皮疹。柯萨奇病毒 16 型感染是导致手足口病最常见的原因。柯萨奇病毒是一种非脊髓灰质炎肠道病毒。其他类型的肠道病毒也可能导致手足口病。大部分患者通过口腔感染柯萨奇病毒而罹患手足口病。此病通过与感染患者接触传播，其传播途径包括：鼻腔或咽喉分泌物、唾液、水疱的液体、粪便、感染患者咳嗽或打喷嚏时喷入空气中的飞沫。手足口病在幼儿中最为常见。孩子在感染手足口病后的最初几周内最具传染性。但病毒可能在症状消失后留在体内数周时间。有些人群，尤其是成年人，可以在没有任何疾病症状的情况下传播该病毒。手足口病最常见的并发症是脱水。这种疾病会引起口腔和咽喉疼痛，导致吞咽疼痛。如果脱水过于严重，他们可能需要在医院进行静脉输液。有时引起手足口病的肠道病毒会进入大脑，导致严重的并发症：病毒性脑膜炎。这是一种大脑和脊髓周围的覆膜（脑膜）和脑脊液的罕见感染及发炎（脑膜炎）。脑炎。这是一种严重且可能危及生命的大脑炎症疾病。脑炎较为罕见。",
+    "abstract": "手足口病是一种常见于幼儿的轻度传染性病毒感染，由柯萨奇病毒等肠道病毒引起，典型症状包括口腔溃疡和手脚皮疹。潜伏期通常为3至6天，通过接触患者分泌物、飞沫等途径传播。目前无特异性治疗方法，常见并发症为脱水，少数情况下可引起病毒性脑膜炎或脑炎。预防措施包括勤洗手和避免接触患者。",
+    "source": "妙佑医疗国际 - https://www.mayoclinic.org/zh-hans/diseases-conditions/hand-foot-and-mouth-disease/symptoms-causes/syc-20353035"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "HFMD is a common illness that usually causes fever, mouth sores, and skin rash. It can spread quickly at schools and day care centers. Most people get better on their own in 7 to 10 days. HFMD is caused by viruses. A person infected with one of these viruses is contagious. This means they can pass the virus easily to other people. HFMD can spread through contact with droplets with virus particles made after person sneezes, coughs, or talks; objects and surfaces that have virus particles; fluid from blisters; poop. HFMD is very contagious. To help prevent catching or spreading HFMD: Wash your hands often with soap and water for at least 20 seconds, especially after changing diapers, using the toilet, and coughing, sneezing, or blowing your nose. Help children wash their hands and keep blisters clean. Avoid touching your face with unwashed hands, especially your eyes, nose, and mouth. Clean and disinfect frequently touched surfaces and shared items, including toys and doorknobs. Avoid close contact with an infected person, such as hugging or kissing them. There is no vaccine in the United States to protect against the viruses that cause HFMD. Most people get better on their own in 7 to 10 days with minimal or no medical treatment. Relieve pain and fever. Take over-the-counter medications to relieve fever and pain caused by mouth sores. Never give aspirin to children. Prevent dehydration (loss of fluids). Drink enough liquids. Mouth sores can make it painful to swallow, so make sure they drink enough to stay hydrated.",
+    "abstract": "CDC：手足口病常见于5岁以下儿童，临床表现为发热、口腔溃疡和手足皮疹，多在7–10天内自愈。传播途径包括飞沫、污染物表面、疱液和粪便。预防以勤洗手、消毒表面与隔离疑似病例为主，美国目前无针对HFMD的疫苗，治疗以对症支持与防脱水为要点。",
+    "source": "Centers for Disease Control and Prevention (CDC) — About Hand, Foot, and Mouth Disease. https://www.cdc.gov/hand-foot-mouth/about/index.html"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "Hand-foot-and-mouth disease is a mild illness caused by viruses. Most often, a virus called coxsackievirus A16 causes it. Hand-foot-and-mouth disease is common in young children. But people of any age can get it. Viruses that cause the illness spread easily between people and through the air. Symptoms of hand-foot-and-mouth disease include sores in the mouth and a rash on the hands and feet. There's no specific treatment for hand-foot-and-mouth disease. Most people get better in 7 to 10 days. Symptoms usually appear 3 to 6 days after infection. One or two days after the fever begins, painful lister-like lesions may form in the front of the mouth or throat. A rash on the hands and feet and sometimes on the buttocks also may appear. The rash is not itchy, but sometimes it has blisters. Your child is most contagious during the first week of having hand-foot-and-mouth disease. But the virus can stay in the body for weeks after the symptoms go away. That means your child still can infect others. Outbreaks of the disease are more common in summer and early autumn. In tropical climates, outbreaks occur during the rainy season.",
+    "abstract": "Mayo Clinic：HFMD多由Cox A16引起，常见于幼儿，潜伏期3–6天，症状含发热、口腔溃疡和手足皮疹，通常7–10天自愈。传染性在发病首周最强，但病毒可在症状消退后仍排出数周，夏季与早秋为高发期。",
+    "source": "Mayo Clinic — Hand-foot-and-mouth disease. https://www.mayoclinic.org/diseases-conditions/hand-foot-and-mouth-disease/symptoms-causes/syc-20353035"
+  },
+  {
+    "disease_name": "手足口病",
+    "category": "感染性疾病",
+    "information": "手足口病（Hand, foot and mouth disease, HFMD）是由肠道病毒引起的传染病，多发生于婴幼儿，可引起手、足、口腔等部位的疱疹，个别患者可引起心肌炎、肺水肿、无菌性脑膜脑炎等并发症。引发手足口病的肠道病毒有20多种(型)，柯萨奇病毒A组的16、4、5、9、10型，B组的2、5型，以及肠道病毒71型均为手足口病较常见的病原体，其中以柯萨奇病毒A16型（Cox A16）和肠道病毒71型（EV 71）最为常见。该病的潜伏期为2～7天，传染源包括患者和隐性感染者。流行期间，患者为主要传染源。患者在发病急性期可自咽部排出病毒；疱疹液中含大量病毒，破溃时病毒溢出；病后数周，患者仍可自从粪便中排出病毒。该病传播方式多样，以通过人群密切接触传播为主。病毒可通过唾液、疱疹液、粪便等污染的手、毛巾、手绢、牙杯、玩具、食具、奶具以及床上用品、内衣等引起间接接触传播；患者咽喉分泌物及唾液中的病毒可通过飞沫传播；如接触被病毒污染的水源，亦可经水感染。手足口病潜伏期为2～10天，平均3-5天，病程一般为7-10天。急性起病，发热，口腔粘膜出现散在疱疹，手、足和臀部出现斑丘疹、疱疹，疱疹周围可有炎性红晕，疱内液体较少。可伴有咳嗽、流涕、食欲不振等症状。部分患者无发热，仅表现为皮疹或疱疹。一般预后良好；少数病例，特别是 EV71 感染患儿，可出现脑膜炎、脑炎、脑脊髓炎、神经源性肺水肿、循环障碍等，病情凶险，可致死亡或留有后遗症。目前无特异性治疗方法，以支持疗法为主，绝大多数患者可自愈。目前尚无特异性的疫苗。病例的治疗方法参考卫生部《手足口病诊疗指南（2008 年版）》。",
+    "abstract": "中国疾控中心（手足口病防治指南）：手足口病由多型肠道病毒引起，以Cox A16和EV71最常见。潜伏期约2–10天，病程多为7–10天，绝大多数为自限性疾病，但EV71可导致严重神经及呼吸循环并发症。传播以密切接触、唾液、疱液与粪-口为主，治疗以对症支持为主。",
+    "source": "中国疾病预防控制中心 (China CDC) — 手足口病防治指南 / 手足口病预防控制指南（2008/2009）. https://www.chinacdc.cn/jkyj/crb2/bl/szkb/jswj_szkb/202409/t20240907_299053.html https://www.chinacdc.cn/jkyj/crb2/bl/szkb/jswj_szkb/202409/t20240907_299058.html"
+  }
+]

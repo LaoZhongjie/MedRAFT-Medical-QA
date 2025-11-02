@@ -1,0 +1,128 @@
+[
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "急性肠胃炎定义为24小时内出现3次或更多稀便/水样便，可伴恶心、呕吐、腹痛、发热，症状多在1–3天内自行缓解，持续>2周属慢性。常见病原体为诺如病毒、轮状病毒、腺病毒、星状病毒，亦见于产毒素金黄色葡萄球菌、蜡样芽孢杆菌、产气荚膜梭菌、沙门菌、弯曲菌、志贺菌及艰难梭菌等。传播途径以粪–口为主，经污染食物、水、接触面或人与人传播，易在托幼机构、养老院、游轮等密闭场所暴发。诊断主要临床，报警征象（高热>39 °C、血便、持续呕吐、剧烈腹痛）需鉴别细菌、外科急腹症。查体重点评估脱水：口渴、皮肤弹性下降、心动过速、直立性低血压。轻症口服补液，重症静脉补液；病毒性无需抗生素，细菌重症或高危人群可予环丙沙星、阿奇霉素、头孢三代等；艰难梭菌肠炎停用致病抗生素并口服甲硝唑/万古霉素。补锌可缩短儿童病程。预防强调手卫生、安全饮食、轮状病毒疫苗接种。",
+    "abstract": "急性肠胃炎以24h内≥3次稀便为核心表现，常伴吐腹痛发热，1–3天自限。病毒以诺如、轮状为主；细菌常见金葡菌、沙门菌、弯曲菌等，经粪口传播。诊断靠临床，报警征象需鉴别细菌与外科病。治疗关键是补液，重症细菌予抗生素，艰难梭菌需停药并口服万古霉素/甲硝唑。预防靠手卫生、安全饮食及轮状病毒疫苗。",
+    "source": "StatPearls - Viral Gastroenteritis, https://www.ncbi.nlm.nih.gov/books/NBK518995/"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "食物中毒型急性肠胃炎分三类机制：1. 预成型毒素：金黄色葡萄球菌、蜡样芽孢杆菌在食物中产热稳定毒素，潜伏期1–6 h，突发剧烈恶心、呕吐、腹痛，无发热，24 h内自愈，不需抗生素。2. 摄入后产毒素：产气荚膜梭菌孢子于小肠释放肠毒素，潜伏6–48 h，水样泻伴腹痛，通常24 h缓解；ETEC附着小肠释肠毒素，潜伏24–72 h，水样泻可中度脱水，疗程48–72 h，重症可予环丙沙星。3. 侵袭黏膜：非伤寒沙门菌、空肠弯曲菌、志贺菌侵入结肠，引起炎症腹泻，可伴高热、血便、里急后重。沙门菌潜伏6–48 h，持续1–7天，通常不推荐抗生素；弯曲菌潜伏1–10天，5–14天病程，60–90%血便，可用阿奇霉素；志贺菌潜伏1–3天，抗生素可选环丙沙星或阿奇霉素以缩短排菌。预防需避免熟食长时间保温、生熟交叉污染。",
+    "abstract": "食物中毒型胃肠炎按机制分三：预成型毒素（金葡菌、蜡样芽孢）1–6 h急吐，24 h自愈；摄入后产毒素（产气荚膜、ETEC）6–72 h水样泻，重症可抗生素；侵袭型（沙门、弯曲、志贺）高热血便，弯曲与志贺可用阿奇霉素。预防重在熟食及时冷藏及生熟分开。",
+    "source": "PMC - Acute Gastroenteritis, https://pmc.ncbi.nlm.nih.gov/articles/PMC7119329/"
+  },
+    {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "胃肠炎是一种胃肠炎症，可引起水样腹泻、恶心和呕吐。胃肠炎通常称为“胃肠型流感”。常见病因是：病毒。食物或水被细菌或寄生虫污染。药物副作用。症状包括恶心和呕吐、腹泻、腹部痛性痉挛、低热（有时）。治疗包括：啜饮液体。多喝运动饮料或水，防止脱水。过快喝水会加重恶心和呕吐。在数小时内多次小口啜饮，而不是一次性大量饮用。注意排尿情况。应定时排尿，尿液应该色浅、澄清。排尿次数少且尿液为深色是脱水的体征。头晕和头重脚轻也是脱水的症状。慢慢恢复进食。如果出现恶心症状，尽量做到少食多餐。如无恶心，则逐渐开始食用清淡易消化的食物，如苏打饼干、吐司、明胶、香蕉、苹果酱、米饭和鸡肉。如果恶心症状再次出现，则停止进食。几天内避免摄入牛奶和奶制品、咖啡因、酒精、尼古丁以及脂肪含量高或调味料丰富的食物。充分休息。疾病和脱水会让您感到虚弱和疲倦。",
+    "abstract": "急性肠胃炎是胃肠炎症，常见症状包括水样腹泻、恶心、呕吐、腹部痛性痉挛和低热。主要病因有病毒、细菌或寄生虫污染及药物副作用。治疗重点在于防止脱水，补充液体，逐步恢复清淡饮食，充分休息，并避免刺激性食物。",
+    "source": "妙佑医疗国际, https://www.mayoclinic.org/zh-hans/first-aid/first-aid-gastroenteritis/basics/art-20056595"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Acute gastroenteritis is a common infectious disease syndrome, causing a combination of nausea, vomiting, diarrhea, and abdominal pain. There are more than 350 million cases of acute gastroenteritis in the United States annually and 48 million of these cases are caused by foodborne bacteria. Traveler's diarrhea affects more than half of people traveling from developed countries to developing countries. In adult and pediatric patients, the prevalence of Clostridium difficile is increasing. Preventing dehydration or providing appropriate rehydration is the primary supportive treatment of acute gastroenteritis.",
+    "abstract": "急性肠胃炎是常见感染性疾病综合征，表现为恶心、呕吐、腹泻和腹痛。美国每年有超过3.5亿病例，其中4800万由食源性细菌引起。旅行者腹泻影响超半数从发达国家前往发展中国家的人群。艰难梭菌感染在成人和儿童中日益增多，主要支持治疗是预防脱水和补充液体。",
+    "source": "PubMed, https://pubmed.ncbi.nlm.nih.gov/23958366/"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "急性肠胃炎可分为感染型和非感染型，感染型是由细菌、病毒、寄生虫等多种因素所导致的肠胃黏膜的急性炎症，非感染型可由冰冷辛辣刺激、药物、酒精等对胃肠道的刺激所致。其主要表现为恶心、呕吐、腹痛、腹泻、发热等，常见于夏季。急性胃肠炎的发生多与冷饮刺激、饮食不洁、饮食不当、暴饮暴食等有关。腹痛：上腹或肚脐周围阵发性加重或持续性的疼痛，也有少部分人会出现剧烈疼痛感。腹泻：腹泻是急性胃肠炎患者的典型症状，粪便多表现为糊状或黄色水样，带有泡沫或少量黏液。恶心呕吐：一般急性胃肠炎患者会伴随恶心呕吐，严重时可能出现消化道出血的情况。其他：有些患者会出现发热、寒战、全身不适等症状，严重者还可能出现脱水、电解质紊乱、休克等。",
+    "abstract": "急性肠胃炎是胃肠黏膜急性炎症，分感染型（细菌、病毒、寄生虫）和非感染型（冰冷辛辣刺激、药物、酒精）。主要症状为恶心、呕吐、腹痛、腹泻、发热，严重可致脱水、电解质紊乱和休克。常见诱因包括饮食不洁、不当、暴饮暴食及冷饮刺激。",
+    "source": "山东省立医院, https://www.sdhospital.com.cn/health_kpwz/2025/mepR7rbM.html"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "诺如病毒胃肠炎是由诺如病毒（Norovirus，NoV）感染引起的急性消化道传染病，具有高度传染性和快速传播能力。诺如病毒属于杯状病毒科诺如病毒属，为单股正链无包膜的RNA病毒。传染源为患者和无症状感染者。传播途径主要通过粪-口途径传播。与感染者密切接触或接触含诺如病毒的吐泻物或被病毒污染的环境或物品，摄入被诺如病毒污染的食物或水均可造成传播。特定条件下，如冲洗呕吐物、粪便时飞溅产生的气溶胶，大量吸入也可感染。易感人群普遍易感。婴幼儿、老年人、免疫功能低下、营养不良人群感染后更易发病。流行特征为全年可发生，冬春季高发，易在封闭、人群密集的场所暴发。临床表现潜伏期1~3天，多为1~2天。起病急，表现为急性发作的呕吐、腹泻，可伴恶心、腹痛、头痛、肌痛等。成人腹泻比儿童更常见，而儿童比成人更容易出现呕吐。呕吐物为非血性，不含胆汁，腹泻为黄色稀水便或水样便，无黏液脓血，很少超过10次/天。约40%~50%的患者出现发热，常为中低热，持续时间很少超过24小时。该病总体症状较轻，通常在2至3天内消失。高龄人群和伴有基础性疾病患者恢复较慢，极少数病例发展成重症。",
+    "abstract": "诺如病毒胃肠炎是由诺如病毒引起的急性消化道传染病，传染性极强。主要通过粪-口途径传播，接触污染物或气溶胶也可感染。婴幼儿、老年人和免疫低下者易感，冬春季高发。潜伏期1-3天，起病急，表现为呕吐、腹泻、恶心、腹痛等，成人腹泻多见，儿童呕吐突出。多数症状轻，2-3天自愈，少数可重症。",
+    "source": "国家卫生健康委, https://www.nhc.gov.cn/ylyjs/gzdt/202509/e81f3191191746cfae078f56fb542556.shtml"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "轻度胃肠炎伴婴幼儿良性惊厥（benign infantile convulsions with mild gastroenteritis, BICE）是一类主要表现为短暂全面性惊厥发作，伴有轻度胃肠炎症状，无明显脱水及电解质紊乱的疾病，且多发生于既往健康的婴幼儿。BICE的诊断标准包括：常发生在冬春季节；常发生在既往健康的6个月至3岁婴幼儿；病毒性胃肠炎病程的第1~5天发生无热惊厥，多为短暂的全身强直-阵挛发作；可有轻度脱水；惊厥趋向于数天内重复发作；发作间期脑电图多无癎样放电；常可检测出大便轮状病毒抗原；其他实验室检查正常，包括脑脊液、血清电解质、血糖；良好的预后。",
+    "abstract": "轻度胃肠炎伴婴幼儿良性惊厥（BICE）是健康婴幼儿在轻度胃肠炎病程1-5天内出现的短暂全面性惊厥，无热，多呈全身强直-阵挛发作，可丛集发作，但无显著脱水电解质紊乱。发作间期脑电图多正常，常检出轮状病毒，预后良好。",
+    "source": "PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC7389322/"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "诺如病毒是引起儿童病毒性腹泻的主要病原体之一，也是导致全球所有年龄段人群食源性疾病和胃肠炎暴发的主要原因。诺如病毒相关性胃肠炎临床上以呕吐、腹泻为主要表现，可伴有发热、恶心、腹痛、厌食、乏力、惊厥等，虽然大多数患者感染程度较轻，但也有出现住院、死亡等重症病例，特别是在5岁以下儿童、65岁以上老年人和免疫力低下者。据统计，诺如病毒每年可导致12%~24%的社区或诊所胃肠炎病例、11%~17%的急诊室或住院病例，以及大约7~20万人死亡，且在儿童中发病率最高。",
+    "abstract": "诺如病毒是儿童腹泻和全球食源性疾病及胃肠炎暴发的主要病原。临床以呕吐、腹泻为主，可伴发热、腹痛、惊厥等。虽多轻症，但5岁以下儿童、老年人和免疫低下者可出现重症住院甚至死亡。诺如病毒导致12%-24%社区门诊胃肠炎病例，每年致约7-20万人死亡。",
+    "source": "PMC, https://pmc.ncbi.nlm.nih.gov/articles/PMC8549646/"
+  },
+   {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis is inflammation of the lining of the stomach and small and large intestines. Most cases are infectious, although gastroenteritis may occur after ingestion of drugs and chemical toxins. Acquisition may be foodborne, waterborne, or via person-to-person spread. In the US, an estimated 1 in 6 people contract foodborne illness each year. Diarrhea is the most common symptom and is defined as ≥ 3 loose or liquid stools in 24 hours. Viruses are the most common cause of acute gastroenteritis in the US. The most common pathogens are norovirus, rotavirus, and astrovirus. Bacterial causes are less common and include Campylobacter, Salmonella, Shigella, and Escherichia coli. Parasites include Giardia, Cryptosporidium, and Entamoeba histolytica. Diagnosis is typically clinical. Stool testing is recommended for patients with severe dehydration, symptoms lasting > 7 days, or immunocompromised state. Treatment focuses on rehydration. Oral rehydration solution is preferred for mild to moderate dehydration. Intravenous fluids are used for severe dehydration. Antibiotics are reserved for specific bacterial infections. Antiemetics may be used for vomiting. Antimotility agents are generally avoided.",
+    "abstract": "急性肠胃炎是胃和肠道黏膜的炎症，多由感染引起。病毒（诺如病毒、轮状病毒）是最常见病原，细菌（弯曲菌、沙门菌）和寄生虫也可致病。主要症状为腹泻（24小时≥3次稀便），通过食物、水或人际传播。诊断主要依据临床表现，重症或免疫低下者需粪便检测。治疗核心是补液，轻中度脱水首选口服补液，重度需静脉补液。抗生素仅用于特定细菌感染，止吐药可用，止泻药通常避免。",
+    "source": "MSD Manual Professional Version, https://www.msdmanuals.com/professional/gastrointestinal-disorders/gastroenteritis/gastroenteritis"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Viral gastroenteritis is an intestinal infection that includes signs and symptoms such as watery diarrhea, stomach cramps, nausea or vomiting, and sometimes fever. The most common way to develop viral gastroenteritis — often called stomach flu — is through contact with an infected person or by ingesting contaminated food or water. If you're otherwise healthy, you'll likely recover without complications. But for infants, older adults and people with compromised immune systems, viral gastroenteritis can be deadly. There's no effective treatment for viral gastroenteritis, so prevention is key. In addition to avoiding food and water that may be contaminated, thorough and frequent hand-washings are your best defense.",
+    "abstract": "病毒性肠胃炎是一种肠道感染，症状包括水样腹泻、胃痉挛、恶心呕吐，有时发热。主要通过与感染者接触或摄入污染的食物和水传播。健康成人通常可痊愈，但对婴儿、老年人和免疫低下者可能致命。目前无特效治疗，预防是关键，包括勤洗手和避免污染的食物和水。",
+    "source": "Mayo Clinic, https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis is a very common condition that causes diarrhoea and vomiting. It's usually caused by a bacterial or viral tummy bug. It affects people of all ages, but is particularly common in young children. Most cases in children are caused by a virus called rotavirus. Cases in adults are usually caused by norovirus (the 'winter vomiting bug') or bacterial food poisoning. Gastroenteritis can be very unpleasant, but it usually clears up by itself within a week. You can normally look after yourself or your child at home until you're feeling better. Try to avoid going to your GP, as gastroenteritis can spread to others very easily. Phone if you're concerned or need any advice. To help avoid spreading an infection: wash your hands frequently with soap and water. use separate towels, flannels and cutlery. clean the toilet, including the seat and handle, with disinfectant after each bout of sickness or diarrhoea.",
+    "abstract": "肠胃炎是一种常见疾病，引起腹泻和呕吐，通常由细菌或病毒引起。儿童多由轮状病毒导致，成人常见诺如病毒或细菌性食物中毒。症状虽不适，但通常一周内自愈。居家护理即可，避免去诊所以防传播。预防传播需勤洗手、分用物品、用后消毒厕所。",
+    "source": "NHS, https://www.nhs.uk/conditions/gastroenteritis/"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis, often called the stomach flu, is a common condition that causes irritation and inflammation of the stomach and intestines. The most common symptoms are diarrhea, vomiting, stomach pain, and cramping. It is usually caused by viruses, but can also be caused by bacteria or parasites. Symptoms usually last less than a week. Most people get better on their own without medical treatment. The main risk is dehydration. You can reduce your risk by washing your hands often and disinfecting surfaces. There are vaccines for some of the viruses that cause gastroenteritis.",
+    "abstract": "肠胃炎，常称为胃流感，是胃和肠道刺激和炎症的常见病症。主要症状为腹泻、呕吐、胃痛和痉挛。通常由病毒引起，细菌或寄生虫也可导致。症状多在一周内缓解，可自愈，主要风险是脱水。勤洗手和消毒表面可降低风险，部分致病病毒有疫苗。",
+    "source": "MedlinePlus, https://medlineplus.gov/gastroenteritis.html"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis is an infection that causes nausea, vomiting, diarrhea, and abdominal cramps. It is commonly referred to as the stomach flu. It is usually caused by viruses, but can also be caused by bacteria or parasites. Symptoms can range from mild to severe and usually last for 1 to 3 days. The main treatment is to prevent dehydration by drinking plenty of fluids. In some cases, over-the-counter medications can help relieve symptoms. Antibiotics are not effective against viral infections. Good hygiene, such as washing hands frequently, is the best way to prevent the spread of gastroenteritis.",
+    "abstract": "肠胃炎是一种引起恶心、呕吐、腹泻和腹部痉挛的感染，常被称为胃流感。通常由病毒引起，细菌或寄生虫也可导致。症状轻重不一，持续1-3天。主要治疗是补充液体防脱水，非处方药可缓解症状，抗生素对病毒无效。勤洗手等良好卫生是最佳预防方式。",
+    "source": "WebMD, https://www.webmd.com/digestive-disorders/gastroenteritis"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis is an inflammation of the gastrointestinal tract in the stomach and intestines. It can be caused by infection with bacteria, viruses, or parasites. Symptoms include diarrhea, vomiting, abdominal pain, and fever. Most cases are mild and go away on their own. The main complication is dehydration. Treatment focuses on replacing lost fluids and electrolytes. Most people recover without any problems. Good hygiene, including handwashing, can help prevent the spread of gastroenteritis.",
+    "abstract": "肠胃炎是胃和肠道胃肠道的炎症，可由细菌、病毒或寄生虫感染引起。症状包括腹泻、呕吐、腹痛和发热。多数病例轻微且自愈，主要并发症是脱水。治疗重点是补充液体和电解质，多数人可完全康复。良好卫生如洗手有助于预防传播。",
+    "source": "Cleveland Clinic, https://my.clevelandclinic.org/health/diseases/12418-gastroenteritis"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Gastroenteritis is a short-term illness triggered by the infection and inflammation of the digestive system. Common symptoms include abdominal cramps, diarrhea, and vomiting. Several viruses, including norovirus and rotavirus, are the usual causes of gastroenteritis. Bacterial causes include E. coli and salmonella. Outbreaks can occur in households, schools, and other group settings. Dehydration is a serious complication. Treatment involves rest and drinking plenty of fluids. Most people recover within a few days. Prevention involves proper food handling and good personal hygiene.",
+    "abstract": "肠胃炎是由消化系统感染和炎症引发的短期疾病，常见症状有腹部痉挛、腹泻和呕吐。诺如病毒和轮状病毒是常见病毒病因，大肠杆菌和沙门菌是细菌病因。可在家庭、学校等场所暴发，脱水是严重并发症。治疗需休息和补液，多数人几天内康复。预防需注意食品安全和个人卫生。",
+    "source": "Healthline, https://www.healthline.com/health/gastroenteritis"
+  },
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Diarrhoeal disease is the second leading cause of death in children under five years old, and was responsible for the deaths of 370,000 children in 2019. The most severe threat posed by diarrhoea is dehydration. During an episode of diarrhoea, water and electrolytes including sodium, chloride, potassium and bicarbonate are lost through liquid stools, vomit, sweat, urine and breathing. A person with diarrhoea becomes dehydrated when these losses are not replaced. Key measures to prevent diarrhoea include: access to safe drinking-water; use of improved sanitation; hand washing with soap; exclusive breastfeeding for the first 6 months of life; good personal and food hygiene; health education about how infections spread; rotavirus vaccination. Key measures to treat diarrhoea include the following: promote national policies and investments that support case management of diarrhoea and its complications as well as increasing access to safe drinking-water and sanitation in developing countries; conduct research to develop and test new diarrhoea prevention and control strategies in this area; build capacity in implementing preventive interventions, including sanitation, source water improvements, and household water treatment and safe storage.",
+    "abstract": "世界卫生组织指出，腹泻病是5岁以下儿童的第二大死因（2019年约37万人死亡），脱水是最严重的威胁。预防措施包括安全饮水、改善卫生、勤洗手、婴儿6个月纯母乳喂养、食品与个人卫生以及轮状病毒疫苗；治疗侧重补液与加强国家层面的卫生与水源建设。",
+    "source": "World Health Organization - Diarrhoeal disease, https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-diseas"
+  }
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Norovirus is a very contagious virus that causes vomiting and diarrhea. It is sometimes called the "stomach flu" or the "stomach bug." However, norovirus illness is not related to the flu. The flu is caused by the influenza virus. Norovirus causes acute gastroenteritis, an inflammation of the stomach or intestines. Most people with norovirus illness get better within 1 to 3 days; but they can still spread the virus for a few days after. Norovirus is the leading cause of vomiting and diarrhea from acute gastroenteritis among people of all ages in the United States. Norovirus is also the leading cause of foodborne illness in the United States. It causes 58% of foodborne illnesses acquired in the United States. Most outbreaks of norovirus illness happen when infected people spread the virus to others through direct contact. This can happen by caring for them or sharing food or eating utensils with them. Food, water, and surfaces contaminated with norovirus can also cause outbreaks. A norovirus outbreak is defined as: An occurrence of two or more similar illnesses resulting from a common exposure that is either suspected or laboratory-confirmed to be caused by norovirus.",
+    "abstract": "美国CDC指出诺如病毒是高度传染性病原，导致1–3日的呕吐和腹泻，是美国各年龄段急性肠胃炎与食源性疾病的主要原因（约占食源性疾病的58%）。传播途径包括人与人接触、受污染的食物、水及表面，暴发常发生于密集场所。",
+    "source": "Centers for Disease Control and Prevention (CDC) - Norovirus (About and Facts & Stats), https://www.cdc.gov/norovirus/about/index.html and https://www.cdc.gov/norovirus/data-research/index.html"
+  }
+  {
+    "disease_name": "急性肠胃炎",
+    "category": "消化系统疾病",
+    "information": "Two or more doses of rotavirus vaccine are recommended for children by doctors as the best way to protect against rotavirus. Two types of rotavirus vaccines are available for infants in the United States; both are safe and effective. Both brands of the rotavirus vaccine are given by mouth (drops). RotaTeq® (RV5) has been approved for use since 2006, and is given in three doses at 2 months, 4 months, and 6 months of age. Rotarix® (RV1) has been approved for use since 2008, and is given in two doses at 2 months and 4 months of age. The first dose of either vaccine should be given before a child is 15 weeks of age. Children should receive all doses of rotavirus vaccine before they turn 8 months old. Rotavirus vaccine provides 85% to 98% protection against severe rotavirus illness and hospitalization, 74% to 87% protection against rotavirus illness of any severity.",
+    "abstract": "CDC推荐口服轮状病毒疫苗为预防婴幼儿严重轮状病毒腹泻的最佳手段。美国有两种疫苗（RotaTeq三剂、Rotarix两剂），首剂应于15周龄前接种并在8个月龄前完成全部剂次，能将重症与住院风险显著降低（保护率85%–98%）。",
+    "source": "Centers for Disease Control and Prevention (CDC) - Rotavirus Vaccination, https://www.cdc.gov/rotavirus/vaccines/index.html,"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "胃食管反流病（GERD）是胃内容物异常反流至食管并引发症状或并发症的慢性疾病。典型症状为烧心和反流，也可表现为哮喘、慢性咳嗽、喉炎等食管外症状。发病机制涉及下食管括约肌（LES）短暂松弛、LES静息压降低、食管裂孔疝、食管清除功能下降、胃排空延迟及黏膜防御受损。反流物包括胃酸、胃蛋白酶、胆汁和胰酶，导致食管黏膜损伤。诊断需结合内镜、24小时pH-阻抗监测及高分辨率测压。治疗以生活方式干预、抑酸药物（PPI、P-CAB）、黏膜保护剂、促动力药为主，难治性病例可考虑内镜或外科抗反流手术。",
+    "abstract": "GERD是胃内容物反流引起症状或并发症的慢性病，机制包括LES功能障碍、裂孔疝、清除下降等。典型症状为烧心反流，可伴咳嗽哮喘。诊断靠内镜及pH-阻抗监测，治疗含生活方式、抑酸药、促动力药，难治病例可手术。",
+    "source": "PMC - Pathophysiology of gastro-oesophageal reflux disease, https://pmc.ncbi.nlm.nih.gov/articles/PMC2639970/"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Lyon Consensus 2.0提出现代GERD诊断标准：内镜下Los Angeles B/C/D级食管炎即可确诊；无线pH监测酸暴露时间（AET）显著异常亦可确诊；pH-阻抗监测可排除GERD。高分辨率测压可显示EGJ形态异常（裂孔疝）、低LES压力及食管低动力，支持诊断但不用于直接确诊。对未确诊GERD患者，建议停药后行内镜或动态反流监测；已确诊而症状持续者，评估是否为药物难治性反流，必要时升级治疗或手术。",
+    "abstract": "Lyon 2.0标准：LA B/C/D级食管炎或无线pH监测AET异常可确诊GERD；pH-阻抗可排除。测压显示EGJ异常支持诊断。未确诊者需停药检测，已确诊但症状持续者评估难治性并考虑手术。",
+    "source": "Gut - Updates to the modern diagnosis of GERD (Lyon Consensus 2.0), https://gut.bmj.com/content/73/2/361"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "GERD病因包括LES短暂松弛（TRLES）、低LES静息压、裂孔疝、腹压增高（肥胖、妊娠）、食管蠕动减弱、唾液减少、黏膜防御受损。裂孔疝破坏EGJ解剖关系并充当胃内容物池；腹压升高增加TRLES频率；食管蠕动障碍延长酸清除时间。发病由酸、胃蛋白酶、胆汁协同损伤食管黏膜，炎症通过缺氧诱导因子和NF-κB通路激活细胞因子，招募T细胞造成组织损伤。食管外症状可能通过酸直接接触上气道或迷走反射诱发支气管痉挛。",
+    "abstract": "GERD病因涵盖TRLES、裂孔疝、腹压增高、蠕动减弱等。反流物协同损伤黏膜，炎症经HIF-2α/NF-κB通路激活细胞因子。食管外症状可能由酸直接接触或迷走反射引起支气管痉挛。",
+    "source": "StatPearls - Gastroesophageal Reflux Disease (GERD), https://www.ncbi.nlm.nih.gov/books/NBK554462/"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "标准治疗包括生活方式调整（减重、抬高床头、避免夜宵与触发食物）及药物：PPI（奥美拉唑、艾司奥美拉唑等）为一线，疗程8周；P-CAB（钾离子竞争性酸阻滞剂）可作为替代。辅助药物有抗酸剂、海藻酸盐（形成物理屏障保护黏膜）、硫糖铝、巴氯芬（减少TRLES，改善反流性嗳气）、促动力药（多潘立酮、甲氧氯普胺）用于伴胃排空延迟者。膈肌呼吸训练可减少餐后反流；认知行为疗法与催眠治疗有助于缓解由焦虑、过度警觉导致的持续症状。",
+    "abstract": "治疗以生活方式及8周PPI为核心，P-CAB可替代。辅助含抗酸剂、海藻酸盐、硫糖铝、巴氯芬减少TRLES，促动力药用于胃轻瘫。膈肌呼吸与CBT可改善餐后反流及焦虑相关症状。",
+    "source": "PMC - Diagnosis and Management of Gastroesophageal Reflux Disease, https://pmc.ncbi.nlm.nih.gov/articles/PMC12255250/"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Gastroesophageal reflux disease (GERD) is defined as a condition that develops when the reflux of stomach contents causes troublesome symptoms and/or complications. Typical symptoms are heartburn and regurgitation. Extra-esophageal manifestations include chronic cough, asthma, laryngitis, and dental erosions. The diagnosis is primarily clinical; upper endoscopy is recommended in the presence of alarm symptoms (dysphagia, weight loss, GI bleeding) and for screening of Barrett esophagus in high-risk patients. Ambulatory pH or pH-impedance monitoring is indicated when the diagnosis is unclear or symptoms persist despite empiric therapy. Lifestyle modifications (weight loss, head-of-bed elevation, avoidance of late meals, trigger foods) are first-line. Proton pump inhibitors (PPIs) are the mainstay of medical therapy, given once daily for 8 weeks; twice-daily dosing or switch to potassium-competitive acid blockers (P-CABs) can be used in partial responders. Surgical fundoplication or endoscopic interventions are options for patients with refractory GERD or who desire alternatives to long-term medication.",
+    "abstract": "GERD指胃内容物反流导致困扰症状或并发症，典型为烧心反流，可伴咳嗽哮喘喉炎。诊断靠临床，报警症状需胃镜，高危人群筛查Barrett。生活调整为首，PPI 8周一疗程，无效可加倍或换P-CAB，药物无效或不愿长期用药者可手术或内镜干预。",
+    "source": "American College of Gastroenterology Guidelines 2022, https://gi.org/guideline/management-of-gastroesophageal-reflux-disease/"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "The global prevalence of GERD symptoms is approximately 13%, with higher rates in North America (18–28%) and Europe (9–26%) and lower rates in Asia (<10%). Risk factors include obesity, hiatus hernia, delayed gastric emptying, connective tissue disorders, and large evening meals. Genetic studies suggest associations with genes regulating inflammation, smooth muscle function, and esophageal epithelial barrier. Chronic GERD can lead to erosive esophagitis, peptic stricture, Barrett esophagus, and esophageal adenocarcinoma. Population-based cohorts show that approximately 10% of chronic GERD patients develop Barrett esophagus, and the annual incidence of esophageal adenocarcinoma in Barrett patients is 0.1–0.3%. Weight reduction of ≥10% and smoking cessation significantly decrease symptomatic reflux episodes and acid exposure time.",
+    "abstract": "全球GERD症状患病率约13%，北美最高。肥胖、裂孔疝、胃排空延迟等为主要危险因素，相关基因涉及炎症与屏障功能。长期GERD可致食管炎、狭窄、Barrett及腺癌，慢性GERD约10%出现Barrett，其年癌变率0.1–0.3%。减重≥10%及戒烟可显著减少反流。",
+    "source": "World Gastroenterology Organisation Global Guidelines 2023, https://www.worldgastroenterology.org/guidelines/gastroesophageal-reflux-disease"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Extra-esophageal reflux (EER) refers to refluxate reaching the larynx, pharynx, and airways. Proposed mechanisms include direct mucosal injury by acid and pepsin, and vagally mediated bronchospasm. Patients may present with chronic cough, hoarseness, sore throat, globus sensation, or refractory asthma. Laryngoscopic findings of posterior laryngitis (edema, erythema, pseudosulcus) support but do not confirm EER. Dual-probe 24-hour pH monitoring or pH-impedance documenting proximal acid or weakly acidic reflux is useful. A therapeutic trial of twice-daily PPI for 8–12 weeks is often used as both diagnostic and therapeutic approach, although response rates are variable (40–60%). Non-response should prompt evaluation for non-reflux causes. Addition of alginate formulations or bedtime H2-receptor antagonists may improve nocturnal symptoms. Dietary triggers include chocolate, caffeine, alcohol, carbonated beverages, and high-fat meals.",
+    "abstract": "食管外反流指反流达喉咽气道，机制为酸胃蛋白酶直接损伤或迷走反射。表现慢性咳嗽、声嘶、咽异物感等。喉镜见后喉炎可提示，双探头pH-阻抗监测有助诊断。PPI双倍剂量试验8–12周常用但应答率40–60%，无效需排查非反流病因。避免巧克力咖啡因酒精高脂餐。",
+    "source": "Chest Journal - Extra-esophageal Reflux and Chronic Cough, https://journal.chestnet.org/article/S0012-3692(23)00375-4/fulltext"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Refractory GERD is defined as persistent troublesome symptoms despite optimized once-daily PPI therapy, or requirement for twice-daily PPI to maintain remission. Causes include ongoing acid reflux (pH-proven), weakly acidic or biliary reflux, functional heartburn, and esophageal hypersensitivity. Evaluation should include upper endoscopy to exclude esophagitis and stricture, and ambulatory pH-impedance on twice-daily PPI to classify reflux burden. If acid exposure is normalized but symptoms persist, esophageal functional testing and pain modulators (tricyclics, SNRIs) are considered. In patients with proven ongoing acid reflux, switching to P-CABs, adding alginate-sucralfate, or surgical/endoscopic intervention (fundoplication, TIF, MSA) is appropriate. Approximately 10–15% of GERD patients are truly refractory.",
+    "abstract": "难治性GERD指优化PPI每日一次仍症状持续或需每日两次维持缓解。原因包括持续酸反流、弱酸/胆汁反流、功能性烧心或食管高敏感。应行胃镜及pH-阻抗评估，若酸暴露正常仍症状可试用调痛药；若酸反流持续，可换P-CAB、加藻酸盐或手术/内镜干预。约10–15%患者属真难治。",
+    "source": "Clinical Gastroenterology and Hepatology 2024 Position Paper, https://www.cghjournal.org/article/S1542-3565(24)00123-4/fulltext"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Long-term PPI use is generally safe but has been associated with increased risk of Clostridioides difficile infection, community-acquired pneumonia, small intestinal bacterial overgrowth, hypomagnesemia, vitamin B12 deficiency, and fundic gland polyps. The absolute risk is low and outweighed by benefits in patients with confirmed GERD complications or Barrett esophagus. To minimize unnecessary exposure, clinicians should reassess indication periodically, step down to on-demand use when appropriate, and consider H2-receptor antagonists for nocturnal symptoms. Patients expected to require PPI for >1 year should have serum magnesium checked and be monitored for B12 levels if elderly or malnourished. There is no evidence that routine calcium supplementation prevents PPI-associated osteoporosis; however, those with other risk factors should maintain adequate calcium and vitamin D intake.",
+    "abstract": "长期PPI总体安全，但可能增加艰难梭菌感染、肺炎、SIBO、低镁、B12缺乏及胃底腺息肉风险，绝对风险低且对并发症/Barrett患者获益更大。应定期复核指征，可尝试按需或H2RA替代。用药超1年者建议查血镁，老年或营养不良者监测B12，骨质疏松高危者保证钙与维D摄入。",
+    "source": "FDA Drug Safety Communication 2023, https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-clostridium-difficile-associated-diarrhea-can-occur-stomach-acid"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "夜间反流 is characterized by reflux events during sleep and is associated with prolonged acid clearance time and increased risk of erosive esophagitis and respiratory complications. Mechanisms include loss of gravity-assisted clearance, decreased swallowing frequency, reduced salivation, and transient lower esophageal sphincter relaxations triggered by gastric distension. Elevation of the head of the bed by 15–20 cm (6–8 inches) using blocks under the bed posts has been shown to decrease nocturnal acid exposure time by approximately 20–30%. Avoidance of food intake within 2–3 hours of bedtime and elimination of nighttime alcohol and caffeine are recommended. Bedtime H2-receptor antagonists (ranitidine 150 mg or famotidine 20 mg) can be added to standard morning PPI to suppress nocturnal acid breakthrough. Objective studies demonstrate that this strategy reduces the percentage of time pH <4 overnight from 20% to <5%.",
+    "abstract": "夜间反流指睡眠中反流，酸清除时间延长，易致食管炎及呼吸并发症。机制包括重力清除缺失、吞咽减少、唾液下降及胃扩张诱发TRLES。床头抬高15–20 cm可减少夜酸暴露20–30%，睡前2–3小时禁食、戒酒咖啡，并可加用睡前H2RA抑制夜间酸突破，使夜间pH<4时间降至<5%。",
+    "source": "American Journal of Gastroenterology - Nocturnal GERD Management, https://journals.lww.com/ajg/fulltext/2023/08000/management_of_nocturnal_gastroesophageal_reflux.13.aspx"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Potassium-competitive acid blockers (P-CABs) represent a novel class of acid suppressants that inhibit H+,K+-ATPase in a reversible, potassium-competitive manner, resulting in rapid elevation of intragastric pH without the need for acid activation. Vonoprazan, the first orally available P-CAB, has a plasma half-life of approximately 7–9 hours and provides more sustained acid suppression than conventional PPIs. Clinical trials in GERD demonstrate non-inferiority to PPIs for healing erosive esophagitis and superior symptom relief in patients with non-erosive reflux disease. P-CABs are effective when taken with or without food and do not require enteric coating. They are metabolized primarily by CYP3A4, and dose adjustment is needed when combined with strong inhibitors or inducers. Head-to-head studies show faster onset of action and higher 24-hour pH >4 holding time ratios (>75%) compared with esomeprazole 40 mg.",
+    "abstract": "P-CAB通过可逆竞争方式抑制H+,K+-ATPase，无需酸激活即可快速升pH。首药vonoprazan半衰期7–9小时，抑酸更持久，临床试验显示对糜烂性食管炎愈合不劣于PPI，对非糜烂反流症状缓解更优。可随餐服用，经CYP3A4代谢，与强抑制剂/诱导剂需调整剂量，起效更快且24小时pH>4维持时间>75%。",
+    "source": "Lancet Gastroenterology & Hepatology 2024 Review, https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)00045-0/fulltext"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "胃食管反流病（GERD）是指胃内容物反流引起不适症状和（或）并发症的一种疾病。典型和最常见的症状是烧心和反流。烧心是指胸骨后烧灼感。反流是指胃内容物向咽部或口腔方向流动的感觉。其他症状包括上腹痛、胸痛、嗳气、腹胀、上腹烧灼感、咽部异物感、吞咽痛、吞咽困难等。食管外症状包括慢性咳嗽、哮喘、牙侵蚀、咽炎等。GERD可分为非糜烂性反流病（NERD）、反流性食管炎（RE）和Barrett食管。诊断方法包括问卷、质子泵抑制剂试验、内镜检查、食管反流监测和食管测压。治疗目标是缓解症状、治愈食管炎、提高生活质量、预防复发和并发症。",
+    "abstract": "胃食管反流病是胃内容物反流引起不适症状和并发症的疾病，典型症状为烧心和反流。可分为非糜烂性反流病、反流性食管炎和Barrett食管。诊断方法包括问卷、质子泵抑制剂试验、内镜、食管反流监测和测压。治疗旨在缓解症状、治愈食管炎、预防复发和并发症。",
+    "source": "《2020年中国胃食管反流病专家共识》，中华医学会消化病学分会,https://seleguide.yiigle.com/uploads/guide_html/2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%83%83%E9%A3%9F%E7%AE%A1%E5%8F%8D%E6%B5%81%E7%97%85%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86.html"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Gastroesophageal reflux disease (GERD) is one of the most common disorders of the gastrointestinal tract. The classic and most common symptoms of GERD are heartburn and regurgitation. Heartburn is a burning sensation in the chest that may radiate to the neck. Regurgitation is the perception of flow of refluxed gastric content into the mouth or hypopharynx. Other common symptoms include dysphagia, odynophagia, nausea, and chest pain. Atypical or extraesophageal manifestations of GERD may include chronic cough, laryngitis, asthma, and dental erosions. The pathophysiology of GERD is multifactorial and involves an imbalance between defensive factors protecting the esophagus and aggressive factors from the stomach. The primary defensive factors include the antireflux barrier, esophageal acid clearance, and tissue resistance. The main aggressive factors are gastric acidity and volume, and duodenogastroesophageal reflux.",
+    "abstract": "胃食管反流病是最常见的胃肠道疾病之一，典型症状为烧心和反流。其他症状包括吞咽困难、吞咽痛、恶心和胸痛。非典型或食管外表现可能包括慢性咳嗽、喉炎、哮喘和牙齿侵蚀。发病机制涉及保护食管的防御因素与胃部攻击因素之间的失衡。",
+    "source": "American Journal of Gastroenterology, https://journals.lww.com/ajg/fulltext/2022/01000/acg_clinical_guideline_for_the_diagnosis_and.10.aspx"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "GERD is common, with a prevalence of approximately 18% to 28% in North America. Although GERD is less common in Asia, its prevalence is increasing. The prevalence of GERD is similar in men and women, but men are more likely to have erosive esophagitis and Barrett esophagus. GERD can affect individuals of all ages, including infants and children. Risk factors for GERD include obesity, hiatal hernia, pregnancy, smoking, alcohol consumption, and certain medications such as calcium channel blockers, nitrates, and anticholinergics. Delayed gastric emptying and connective tissue disorders may also contribute to GERD. Complications of GERD include erosive esophagitis, peptic stricture, Barrett esophagus, and esophageal adenocarcinoma. The annual incidence of esophageal adenocarcinoma is approximately 0.5% in patients with Barrett esophagus.",
+    "abstract": "胃食管反流病在北美患病率约18%-28%，亚洲较低但呈上升趋势。男女患病率相似，但男性更易出现糜烂性食管炎和Barrett食管。危险因素包括肥胖、食管裂孔疝、妊娠、吸烟、饮酒和某些药物。并发症包括糜烂性食管炎、消化性狭窄、Barrett食管和食管腺癌。",
+    "source": "Nature Reviews Disease Primers, https://www.nature.com/articles/s41572-021-00287-w"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "The initial management of GERD includes lifestyle modifications and over-the-counter medications. Lifestyle modifications include weight loss, elevation of the head of the bed, and avoidance of meals within 2-3 hours of bedtime. Dietary modifications may include reduction or avoidance of foods that trigger symptoms, such as fatty foods, chocolate, caffeine, spicy foods, and acidic foods. Pharmacologic therapy for GERD includes antacids, histamine-2 receptor antagonists (H2RAs), and proton pump inhibitors (PPIs). PPIs are the most effective pharmacologic therapy for healing erosive esophagitis and providing symptom relief. For patients with incomplete response to PPIs, addition of H2RAs at bedtime or prokinetic agents may be considered. Surgical therapy, primarily laparoscopic fundoplication, is an option for carefully selected patients with documented GERD who respond to medical therapy but desire surgery for various reasons.",
+    "abstract": "胃食管反流病的初始管理包括生活方式调整和非处方药。生活方式调整包括减肥、抬高床头和避免睡前2-3小时内进食。药物治疗包括抗酸剂、H2受体拮抗剂和质子泵抑制剂。质子泵抑制剂是治疗糜烂性食管炎和缓解症状最有效的药物。对质子泵抑制剂反应不完全的患者可考虑加用H2受体拮抗剂或促动力药。腹腔镜胃底折叠术是经严格选择的患者的可选手术方案。",
+    "source": "New England Journal of Medicine, https://www.nejm.org/doi/full/10.1056/NEJMcp2004506"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "Reflux monitoring is indicated in patients with persistent typical GERD symptoms despite PPI therapy, and in those with atypical or extraesophageal symptoms. Ambulatory reflux monitoring can be performed using catheter-based pH monitoring, catheter-based pH-impedance monitoring, or wireless pH monitoring. The recent Lyon Consensus 2.0 defines conclusive evidence of GERD as either Los Angeles grade C or D esophagitis, long-segment Barrett's esophagus, or peptic stricture on endoscopy, or an acid exposure time greater than 6% on pH monitoring. High-resolution manometry is useful for assessing esophageal motility and excluding alternative diagnoses such as achalasia, but is not used to diagnose GERD itself. The role of barium esophagography in GERD diagnosis is limited to evaluating anatomic abnormalities and complications.",
+    "abstract": "反流监测适用于质子泵抑制剂治疗后仍有典型胃食管反流病症状的患者，以及有不典型或食管外症状的患者。动态反流监测可使用导管pH监测、导管pH-阻抗监测或无线pH监测。Lyon Consensus 2.0将胃镜下洛杉矶C或D级食管炎、长段Barrett食管、消化性狭窄或pH监测酸暴露时间大于6%定义为胃食管反流病的确定性证据。高分辨率测压有助于评估食管动力和排除其他诊断。",
+    "source": "Gastroenterology, https://www.gastrojournal.org/article/S0016-5085(21)03583-5/fulltext"
+  },
+    {
+      "disease_name": "胃食管反流病",
+      "category": "消化系统疾病",
+      "information": "胃食管反流病（GERD）是一种常见的胃肠道疾病，其特征是胃内容物反流入食管，导致食管黏膜炎症。其典型症状包括烧心和胃酸反流。GERD的常见并发症包括食管炎、食管狭窄和巴雷特食管，这些可能增加食管腺癌的风险。",
+      "abstract": "胃食管反流病（GERD）是一种常见的胃肠道疾病，其特征是胃内容物反流入食管，导致食管黏膜炎症。其典型症状包括烧心和胃酸反流。GERD的常见并发症包括食管炎、食管狭窄和巴雷特食管，这些可能增加食管腺癌的风险。",
+      "source": "PubMed - Gastroesophageal Reflux Disease (https://pubmed.ncbi.nlm.nih.gov/29132520/)"
+  },
+  {
+      "disease_name": "胃食管反流病",
+      "category": "消化系统疾病",
+      "information": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "abstract": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "source": "Mayo Clinic - Treating and Preventing GERD: Gastroesophageal Reflux Disease (https://newsnetwork.mayoclinic.org/discussion/treating-and-preventing-gerd-gastroesophageal-reflux-disease/)"
+  },
+  {
+      "disease_name": "胃食管反流病",
+      "category": "消化系统疾病",
+      "information": "胃食管反流病（GERD）是一种常见的疾病，在西方国家的患病率高达10%-20%。该疾病可以表现为多种症状，分为典型症状、非典型症状和食管外症状。最具特异性的症状是酸性反流和烧心。在没有警示症状的情况下，这些症状可以帮助做出初步诊断并开始经验性治疗。",
+      "abstract": "胃食管反流病（GERD）是一种常见的疾病，在西方国家的患病率高达10%-20%。该疾病可以表现为多种症状，分为典型症状、非典型症状和食管外症状。最具特异性的症状是酸性反流和烧心。在没有警示症状的情况下，这些症状可以帮助做出初步诊断并开始经验性治疗。",
+      "source": "World Health Organization - Diagnosis and Treatment of Gastroesophageal Reflux Disease (https://extranet.who.int/fctcapps/fctcapps/fctc/kh/wts/wts-database/diagnosis-and-treatment-gastroesophageal-reflux-disease)"
+  },
+  {
+      "disease_name": "胃食管反流病",
+      "category": "消化系统疾病",
+      "information": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "abstract": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "source": "National Institute of Diabetes and Digestive and Kidney Diseases - Acid Reflux (GER & GERD) in Adults (https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults)"
+  },
+  {
+      "disease_name": "胃食管反流病",
+      "category": "消化系统疾病",
+      "information": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "abstract": "胃食管反流病（GERD）是一种慢性疾病，其症状包括烧心和胃酸反流，影响约五分之一的美国成年人。GERD发生在胃酸从胃反流到食管时，食管的内衬比胃更脆弱，因此酸性物质会引起灼热感。虽然许多人偶尔会经历反流，但GERD的定义是每周发生反流。",
+      "source": "National Institute of Diabetes and Digestive and Kidney Diseases - Acid Reflux (GER & GERD) in Adults (https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults)"
+  },
+  {
+    "disease_name": "胃食管反流",
+    "category": "消化系统疾病",
+    "information": "GERD 是一种胃内容物反流入食管的疾病。食管是指将食物和液体从口腔输送到胃部的管道。GERD 可导致食管炎。食管炎是指食管内膜发炎（红肿）的现象。如果不治疗食管炎，会导致食管溃疡、出血和狭窄，还可能会增加罹患食道癌的风险。GERD 可能由许多因素引起，包括：摄入大份餐食。大量进食或饮用以下食物：油炸或高脂肪食物、辛辣食物、柑橘类水果，如橙子、柠檬、葡萄柚和青柠、巧克力、薄荷、番茄、含咖啡因的饮料，如咖啡、茶和苏打水。饭后锻炼。平躺，尤其是饭后。吸烟。饮酒。患有食道裂孔疝（胃部顶部凸出横膈膜）。怀孕。肥胖（体内脂肪含量过高且不健康）。腹部受压。GERD 症状可能包括：胃灼热，通常发生在进食后 30 至 60 分钟、反流、吞咽困难、胸痛、咳嗽、咽喉疼痛、感觉喉咙有肿块。治疗 GERD 的目的是减轻症状。通过药物治疗和改变生活方式，大多数人都会感觉好转。以下是一些可以减轻 GERD 症状的方法：请勿摄入大份餐食。少食多餐。进食后至少 2-3 小时内请勿躺下。避免摄入夜宵。避免食用某些食物，例如：薄荷和留兰香糖果、口香糖和薄荷糖、油炸或高脂肪食物。避免饮用某些饮料，例如：酸性果汁，如橙汁、酒、薄荷和留兰香茶、含咖啡因的饮料，如咖啡和茶、碳酸（起泡）饮料，如苏打水。服用抗酸药（缓解胃酸的药物）或坐直以减轻胃灼热。请勿吸烟或使用其他烟草制品。使用木块抬高床头，或睡在楔形枕上，使上半身抬高。避免腹部受压。进食后限制弯腰和剧烈运动。避免穿着紧身衣物。预防或管理便秘。通过饮食管理及物理活动保持健康体重。遵医嘱服用医生开具的任意药物。",
+    "abstract": "胃食管反流病是胃内容物反流入食管的疾病，可导致食管炎、溃疡、狭窄并增加食管癌风险。病因包括大量进食、特定食物饮料、吸烟、饮酒、食管裂孔疝、肥胖等。症状有胃灼热、反流、吞咽困难、胸痛、咳嗽等。治疗旨在减轻症状，包括饮食调整、生活方式改变、抗酸药物和使用楔形枕头抬高上身等。",
+    "source": "纪念斯隆凯特琳癌症中心, https://www.mskcc.org/zh-hans/cancer-care/patient-education/gastroesophageal-reflux-disease-gerd"
+  }
+]

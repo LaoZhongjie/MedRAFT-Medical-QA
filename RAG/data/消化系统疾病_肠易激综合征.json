@@ -1,0 +1,93 @@
+[
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Irritable bowel syndrome (IBS) is a complex and highly prevalent disorder of gut-brain interaction (DGBI), characterized by recurrent abdominal pain and altered bowel habits, including constipation, diarrhea, or a combination of both. Despite its chronic impact on quality of life and healthcare costs, IBS remains underdiagnosed. The pathophysiology of IBS is multifactorial, involving disruptions in the gut-brain axis, visceral hypersensitivity, gastrointestinal dysmotility, alterations in gut microbiota, food intolerances, and psychosocial factors. In the United States, the prevalence of IBS ranges from 7% to 16%. An international meta-analysis estimated a pooled global prevalence of 11%, though significant variation exists depending on geographic region. IBS tends to be diagnosed more frequently in women within Western populations. The condition occurs more commonly in younger adults, with a noticeable decline in prevalence after the age of 50.",
+    "abstract": "肠易激综合征（IBS）是一种常见的慢性肠-脑互动障碍，特征为反复腹痛和排便习惯改变（便秘、腹泻或混合型）。病理生理机制涉及肠-脑轴紊乱、内脏高敏感、胃肠动力异常、肠道微生物改变和 psychosocial 因素。美国患病率7%-16%，全球约11%，西方女性更常见，好发于50岁以下成年人。",
+    "source": "StatPearls, NCBI Bookshelf, https://www.ncbi.nlm.nih.gov/books/NBK534810/"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Irritable bowel syndrome (IBS) is a group of symptoms that occur together, including repeated pain in your abdomen and changes in your bowel movements, which may be diarrhea, constipation, or both. With IBS, you have these symptoms without any visible signs of damage or disease in your digestive tract. Doctors aren't sure what causes IBS.",
+    "abstract": "肠易激综合征是一组同时出现的症状群，包括反复腹痛和排便改变（腹泻、便秘或两者兼有），消化道无可见损伤或病变，病因尚未明确。",
+    "source": "National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "肠易激综合征（IBS）是累及胃和肠（也称为胃肠道）的一种常见状况。其症状包括痉挛、腹部疼痛、腹胀、胀气、腹泻和/或便秘。IBS 是一种需要长期管理的持续性疾病。只有少数 IBS 患者出现重度症状。有些患者可以通过管理饮食、生活方式和压力，控制自身症状。更重度的症状可以通过药物和咨询进行治疗。IBS 不会引起肠组织改变，也不会增加患结直肠癌的风险。IBS 的确切病因尚不清楚。可能起作用的因素包括：肠内肌肉收缩、神经系统、重度感染、早年生活压力、肠道微生物的变化。IBS 症状可能有以下诱因：食物、压力。",
+    "abstract": "肠易激综合征是累及胃肠的常见病，症状含痉挛、腹痛、腹胀、腹泻/便秘，需长期管理。仅少数症状严重，多数可通过饮食、生活方式、压力控制症状，重者需药物和咨询。不引起肠组织改变，不增加结直肠癌风险。病因不明，可能与肠肌收缩、神经、感染、压力、微生物有关，食物和压力可触发症状。",
+    "source": "妙佑医疗国际 (Mayo Clinic), https://www.mayoclinic.org/zh-hans/diseases-conditions/irritable-bowel-syndrome/symptoms-causes/syc-20360016"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "没有检查可以明确诊断 IBS。医疗护理专业人员可能会首先了解完整的病史，安排体格检查和检测，以排除其他状况，例如乳糜泻和炎性肠病（IBD）。在排除其他状况之后，护理专业人员可能会使用罗马标准来确定 IBS。医疗护理专业人员也可能会探索您是否还有提示另一种更为严重的状况的其他症状。包括：50 岁以后出现症状、体重下降、直肠出血、发热、恶心或反复呕吐、腹部疼痛（尤其与排便无关或在夜间发生）、持续性或使你从睡梦中醒来的腹泻、与低铁相关的贫血。如果您有这些症状，或者如果 IBS 的初始治疗无效，则可能需要做更多检查。其他检查可能包括结肠镜检查、CT 扫描、上消化道内镜检查，以及实验室检查如乳糖不耐受症检查、检测细菌过度生长的呼气检查、粪便检查。",
+    "abstract": "无特异性检查确诊IBS，需依据病史、体格检查及排除其他疾病（如乳糜泻、炎性肠病）。罗马标准是关键诊断依据。警惕报警症状：50岁后发病、体重下降、便血、发热、恶心呕吐、与排便无关或夜间腹痛、夜间腹泻、缺铁性贫血。若出现报警症状或初始治疗无效，需进一步检查如内镜、影像学或实验室检查。",
+    "source": "妙佑医疗国际 (Mayo Clinic), https://www.mayoclinic.org/zh-hans/diseases-conditions/irritable-bowel-syndrome/diagnosis-treatment/drc-20360064"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Irritable bowel syndrome (IBS) is a functional bowel disorder in which abdominal pain or discomfort is associated with defecation and/or a change in bowel habit. Sensations of discomfort (bloating), distension, and disordered defecation are commonly associated features.",
+    "abstract": "肠易激综合征是一种功能性肠病，腹痛或不适与排便和/或排便习惯改变相关，腹胀和排便紊乱是常见伴随特征。",
+    "source": "World Gastroenterology Organisation, https://www.worldgastroenterology.org/guidelines/irritable-bowel-syndrome-ibs"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "虽然药物可以治疗肠易激综合征，但并非所有此疾病的患者都需要药物治疗。对于有些人来说，尤其是症状轻微的患者，通过调整生活方式也足以控制症状，如饮食调整、压力管理和经常运动。对于中度至重度症状的患者来说，可能需要结合改变生活方式和药物治疗来控制肠易激综合征。超过60%的肠易激综合征患者表示，他们的症状或多或少与食物有关。然而，此病症患者之间的症状差异显著，所以很难给出对所有患者都行之有效的具体饮食建议。但总的来说，多食用高纤维食物和大量饮用液体对许多肠易激综合征患者都是有益的。避免会导致胀气和腹胀的食物和饮料，包括碳酸饮料和酒精类饮料；咖啡因；生水果；以及卷心菜、西兰花和花椰菜等蔬菜。减少或避免摄入麸质有可能缓解与肠易激综合征相关的腹泻。研究表明，某些特定的碳水化合物可导致肠易激综合征患者出现腹痛、腹胀和胀气，其中包括可发酵寡糖、二糖、单糖和多元醇(FODMAP)。遵循低FODMAP饮食可以缓解肠易激综合征的症状。但由于含有这些化合物的食物种类繁多，患者很难自行制定此类饮食计划。求助熟悉肠易激综合征的营养师会大有裨益。压力也会影响肠易激综合征，压力越大，症状越严重。练习减压技巧和参加舒缓压力的活动，如瑜伽和冥想，可能会减少与压力相关的突发事件。建议肠易激综合征患者经常参加运动。日常的身体活动可以舒缓压力，刺激肠道正常收缩，并改善整体健康状况。",
+    "abstract": "轻症IBS可通过生活方式（饮食调整、压力管理、规律运动）控制，重症需结合药物。超60%患者症状与食物相关，但个体差异大。一般建议高纤维饮食、充足液体，避免产气食物饮料、咖啡因、生果、特定蔬菜，减麸质或有益腹泻。低FODMAP饮食可缓解症状，但因复杂建议咨询营养师。压力加重症状，减压技巧（瑜伽、冥想）和规律运动有助缓解。",
+    "source": "妙佑医疗国际 (Mayo Clinic) 问题解答, https://www.eurekalert.org/news-releases/958882?language=chinese"
+  },
+    {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "肠易激综合征（irritable bowel syndrome，IBS）是一组持续或间歇发作，以腹痛、腹胀、排便习惯和（或）大便性状改变为临床表现，而缺乏胃肠道结构和生化异常的肠道功能紊乱性疾病。根据罗马 IV 标准，IBS 被定义为在过去 3 个月内平均每周至少 1 天的复发性腹痛，且与以下 2 项或以上相关：排便相关、排便频率改变、粪便性状（硬度）改变。诊断前症状出现至少 6 个月，近 3 个月持续存在。全球成人 IBS 患病率约为 5–10%，女性发病率约为男性的 1.5–2 倍。",
+    "abstract": "肠易激综合征是以腹痛、腹胀、排便习惯或性状改变为表现的肠道功能紊乱疾病，需症状持续≥6个月且近3个月每周≥1天腹痛并伴排便相关改变。全球患病率5–10%，女性更高。",
+    "source": "国家卫健委《IBS 临床路径（2022）》"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Symptoms of IBS include crampy abdominal pain, bloating, gas, and altered bowel habits—diarrhea (IBS-D), constipation (IBS-C), or alternating diarrhea and constipation (IBS-M). Symptoms often improve after a bowel movement. Red-flag features (weight loss, bleeding, anemia, fever, family history of IBD or colorectal cancer) are not typical of IBS and warrant further evaluation.",
+    "abstract": "IBS 表现为腹痛、腹胀、排气及排便习惯改变，可为腹泻型、便秘型或混合型，便后常缓解。若出现体重下降、出血、贫血、发热或家族史等警报症状需进一步检查。",
+    "source": "UpToDate - Patient education: Irritable bowel syndrome (Beyond the Basics), https://www.uptodate.com/contents/irritable-bowel-syndrome-beyond-the-basics"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Management is based on symptom pattern and severity. First-line measures: patient education, dietary modification (low FODMAP diet, increased soluble fiber for IBS-C, reduced caffeine/gas-producing foods). Pharmacologic options: antispasmodics (e.g., hyoscine, peppermint oil) for pain, loperamide for diarrhea, polyethylene glycol for constipation, rifaximin for IBS-D with bloating, tricyclic antidepressants or SSRIs for refractory pain. Gut-directed psychotherapy (CBT, hypnotherapy) and regular exercise are effective in selected patients.",
+    "abstract": "治疗依据症状分型与严重程度。一线为教育及饮食调整（低 FODMAP、可溶纤维、减咖啡因）。药物包括解痉剂、止泻/通便剂、利福昔明及小剂量抗抑郁药。认知行为疗法和锻炼亦有效。",
+    "source": "American College of Gastroenterology 2021 Guideline on IBS"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Probiotics containing Bifidobacterium infantis 35624 and some multi-strain formulations have shown modest improvement in global IBS symptoms and bloating. Evidence is insufficient to recommend a specific strain or dose universally. Adverse effects are generally mild (bloating, flatulence).",
+    "abstract": "含婴儿双歧杆菌 35624 及部分多菌株益生菌可轻度改善 IBS 总体症状与腹胀，但尚无统一推荐菌株与剂量，副作用轻微。",
+    "source": "PubMed systematic review: McFarland LV, 2022"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "IBS 的治疗通常包括生活方式的调整，如增加膳食纤维摄入、保持规律的体育活动、减少压力等。饮食方面，建议避免可能引起腹胀和气体产生的食物和饮料，如碳酸饮料、酒精、咖啡因、未熟的水果和蔬菜等。研究表明，某些碳水化合物（如 FODMAPs）可能导致 IBS 患者出现腹痛、腹胀和气体产生。",
+    "abstract": "IBS 的治疗通常包括生活方式的调整，如增加膳食纤维摄入、保持规律的体育活动、减少压力等。饮食方面，建议避免可能引起腹胀和气体产生的食物和饮料，如碳酸饮料、酒精、咖啡因、未熟的水果和蔬菜等。研究表明，某些碳水化合物（如 FODMAPs）可能导致 IBS 患者出现腹痛、腹胀和气体产生。",
+    "source": "Mayo Clinic - Lifestyle Modifications: https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-q-and-a-irritable-bowel-syndrome-and-lifestyle-modifications/"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "肠易激综合征（IBS）是一种影响大肠的疾病，可能导致腹部绞痛、腹胀和排便习惯的改变。部分患者可能出现便秘、腹泻或两者交替的症状。尽管 IBS 会引起不适，但不会对肠道造成损害。",
+    "abstract": "肠易激综合征（IBS）是一种影响大肠的疾病，可能导致腹部绞痛、腹胀和排便习惯的改变。部分患者可能出现便秘、腹泻或两者交替的症状。尽管 IBS 会引起不适，但不会对肠道造成损害。",
+    "source": "MedlinePlus - Irritable Bowel Syndrome: https://medlineplus.gov/irritablebowelsyndrome.html"
+  },
+  {
+    "disease_name": "肠易激综合征",
+    "category": "消化系统疾病",
+    "information": "Irritable bowel syndrome (IBS) is a chronic, disabling, and functional bowel disorder that significantly affects social functioning and reduces quality of life and increases social costs. The pathophysiology of IBS is only partially understood, so various treatments including lifestyle modification, medication, and psychological therapies have been attempted to improve patients' symptoms and quality of life.",
+    "abstract": "肠易激综合征（IBS）是一种慢性、致残性的功能性肠病，显著影响社会功能，降低生活质量并增加社会成本。其病理生理学仅部分明确，治疗尝试包括生活方式调整、药物和心理疗法以改善症状和生活质量。",
+    "source": "2025 Seoul Consensus on Clinical Practice Guidelines for Irritable Bowel Syndrome, https://pmc.ncbi.nlm.nih.gov/articles/PMC11986658/"
+  }
+]
