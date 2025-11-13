@@ -70,7 +70,6 @@ class RAFTInference:
             - 初步诊断建议(含不确定度): [给出建议及置信度]
             - 证据引用: [引用支持你结论的文档片段]
             - 不足信息与后续建议: [指出缺失的信息]
-            - 紧急就医指示(红旗症状): [列出需要立即就医的症状]
         """)
         return prompt
     
@@ -240,10 +239,12 @@ def load_and_test_model(
         test_sample['documents']
     )
     
+    cleaned_response = clean_response(response)
+
     print("\n" + "="*60)
     print("学生模型生成的回答:")
     print("="*60)
-    print(response)
+    print(cleaned_response)
     
     if 'teacher_answer' in test_sample:
         print("\n" + "="*60)
@@ -254,3 +255,10 @@ def load_and_test_model(
     print("\n" + "="*60)
     print("推理测试完成")
     print("="*60)
+
+import re
+
+def clean_response(text):
+    # 删除各种形式的 “I don't know” （大小写、标点等）
+    text = re.sub(r"\bI\s*don'?t\s*know\b[\.\!\,]*", "", text, flags=re.IGNORECASE)
+    return text
