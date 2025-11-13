@@ -13,19 +13,21 @@ class ModelConfig:
     cache_dir: Optional[str] = None
     trust_remote_code: bool = True
     use_flash_attention_2: bool = False
-    torch_dtype: str = "bfloat16"  # float16, bfloat16, float32
+    torch_dtype: str = "float16"  # float16, bfloat16, float32
+    load_in_4bit: bool = True
+    bnb_4bit_compute_dtype: str = "float16"
 
 
 @dataclass
 class LoRAConfig:
     """LoRA微调配置"""
     use_lora: bool = True
-    lora_r: int = 64
-    lora_alpha: int = 128
+    lora_r: int = 32
+    lora_alpha: int = 64
     lora_dropout: float = 0.05
     lora_target_modules: list = field(default_factory=lambda: [
-        "q_proj", "k_proj", "v_proj", "o_proj",
-        "gate_proj", "up_proj", "down_proj"
+        "q_proj", "k_proj", "v_proj", "o_proj" ,
+        "up_proj","down_proj"
     ])
     lora_bias: str = "none"
 
@@ -34,33 +36,33 @@ class LoRAConfig:
 class TrainingConfig:
     """训练相关配置"""
     output_dir: str = "./output"
-    train_file: str = "raft_dataset.json"
-    validation_split: float = 0.1
+    train_file: str = "teacher_dataset.json"
+    validation_split: float = 0.2
     
     # 训练超参数
-    num_train_epochs: int = 3
+    num_train_epochs: int = 2
     per_device_train_batch_size: int = 2
     per_device_eval_batch_size: int = 2
     gradient_accumulation_steps: int = 8
     learning_rate: float = 2e-4
     warmup_ratio: float = 0.1
     weight_decay: float = 0.01
-    max_grad_norm: float = 1.0
+    max_grad_norm: float = 1
     
     # 优化器配置
     optim: str = "adamw_torch"
-    lr_scheduler_type: str = "cosine"
+    lr_scheduler_type: str = "linear"
     
     # 保存和日志
     save_strategy: str = "steps"
-    save_steps: int = 100
+    save_steps: int = 200
     save_total_limit: int = 3
     logging_steps: int = 10
     eval_strategy: str = "steps"
     eval_steps: int = 100
     
     # 其他配置
-    max_seq_length: int = 4096
+    max_seq_length: int = 1800
     gradient_checkpointing: bool = True
     bf16: bool = True
     fp16: bool = False
@@ -77,7 +79,7 @@ class TrainingConfig:
 class DataConfig:
     """数据处理配置"""
     max_prompt_length: int = 3072
-    max_answer_length: int = 1024
+    max_answer_length: int = 1200
     template_prefix: str = """- 问题: {question}
 - 假设/已知信息: 
 - CoT推理:
@@ -86,8 +88,7 @@ class DataConfig:
   3) 
 - 初步诊断建议(含不确定度): 
 - 证据引用: 
-- 不足信息与后续建议: 
-- 紧急就医指示(红旗症状): """
+- 不足信息与后续建议: """
 
 
 @dataclass

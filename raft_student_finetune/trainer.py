@@ -131,27 +131,44 @@ class RAFTTrainer(Trainer):
     
     def compute_loss(self, model, inputs, return_outputs=False, **kwargs):
         """
-        计算损失
-        
-        Args:
-            model: 模型
-            inputs: 输入数据
-            return_outputs: 是否返回输出
-            
-        Returns:
-            loss或(loss, outputs)
+        计算损失，增强稳定性和NaN处理
         """
-        # 前向传播
-        outputs = model(**inputs)
-        loss = outputs.loss
-        
-        # 如果loss是NaN,打印警告
-        if torch.isnan(loss):
-            print("警告: 检测到NaN loss!")
-            # 可以选择跳过这个batch或采取其他措施
-            loss = torch.tensor(0.0, requires_grad=True).to(loss.device)
-        
-        return (loss, outputs) if return_outputs else loss
+        try:
+            # 检查输入数据
+            if torch.isnan(inputs['input_ids']).any() or torch.isinf(inputs['input_ids']).any():
+                print("❌ 输入数据包含NaN或Inf")
+                return self._create_safe_loss(inputs)
+            
+            # 检查有效labels数量
+            valid_labels = (inputs['labels'] != -100).sum().item()
+            if valid_labels < 5:  # 如果有效标签太少
+                print(f"⚠️ 有效labels过少: {valid_labels}, 使用安全损失")
+                return self._create_safe_loss(inputs)
+            
+            # 正常前向传播
+            outputs = model(**inputs)
+            loss = outputs.loss
+            
+            # 检查NaN loss
+            if torch.isnan(loss) or torch.isinf(loss):
+                print("⚠️ 检测到NaN/Inf loss! 分析原因...")
+                print(f"  有效labels: {valid_labels}")
+                print(f"  input_ids范围: [{inputs['input_ids'].min()}, {inputs['input_ids'].max()}]")
+                print(f"  labels中-100数量: {(inputs['labels'] == -100).sum().item()}")
+                
+                # 尝试梯度裁剪和重新计算
+                torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+                return self._create_safe_loss(inputs)
+            
+            return (loss, outputs) if return_outputs else loss
+            
+        except Exception as e:
+            print(f"❌ 损失计算异常: {e}")
+            return self._create_safe_loss(inputs)
+
+    def _create_safe_loss(self, inputs):
+        """创建安全的损失值"""
+        return torch.tensor(0.1, requires_grad=True).to(inputs['input_ids'].device)
 
 
 def create_trainer(

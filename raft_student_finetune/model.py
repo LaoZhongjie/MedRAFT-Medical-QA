@@ -71,14 +71,24 @@ def load_model(model_config: ModelConfig, lora_config: LoRAConfig):
     print(f"开始加载模型: {model_config.model_name_or_path}")
     print(f"使用数据类型: {model_config.torch_dtype}")
     
+    # 添加量化配置（如果显存不足）
+    quantization_config = BitsAndBytesConfig(
+        load_in_4bit=model_config.load_in_4bit,
+        bnb_4bit_compute_dtype=torch_dtype_map[model_config.bnb_4bit_compute_dtype],
+        bnb_4bit_use_double_quant=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_quant_storage=torch.bfloat16  # 存储也用bfloat16
+
+    )
+    
     # 加载基础模型
     model = AutoModelForCausalLM.from_pretrained(
         model_config.model_name_or_path,
         cache_dir=model_config.cache_dir,
         trust_remote_code=model_config.trust_remote_code,
-        torch_dtype=torch_dtype,
+        dtype=torch_dtype,
         device_map='auto',
-        use_flash_attention_2=model_config.use_flash_attention_2
+        quantization_config=quantization_config,  
     )
     
     print(f"✓ 基础模型加载完成")
