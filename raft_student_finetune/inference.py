@@ -50,7 +50,8 @@ class RAFTInference:
         doc_texts = []
         for i, doc in enumerate(documents, 1):
             content = doc['content']
-            doc_texts.append(f"[文档{i}]\n{content}")
+            source = doc.get('source', '')
+            doc_texts.append(f"[文档{i}]\n{content}-来源{source}")
         
         combined_docs = "\n\n".join(doc_texts)
         
@@ -68,7 +69,7 @@ class RAFTInference:
             - 假设/已知信息: [列出从文档中提取的相关信息]
             - CoT推理: [逐步推理过程，可以包含多个步骤]
             - 初步诊断建议(含不确定度): [给出建议及置信度]
-            - 证据引用: [引用支持你结论的文档片段]
+            - 证据引用: [引用支持你结论的文档片段+来源]
             - 不足信息与后续建议: [指出缺失的信息]
         """)
         return prompt
@@ -259,6 +260,9 @@ def load_and_test_model(
 import re
 
 def clean_response(text):
+    import re
     # 删除各种形式的 “I don't know” （大小写、标点等）
     text = re.sub(r"\bI\s*don'?t\s*know\b[\.\!\,]*", "", text, flags=re.IGNORECASE)
+    # 删除“我不知道”字样（包含前后可能的空格或标点）
+    text = re.sub(r"[，。,.！!]*\s*我不知道\s*[，。,.！!]*", "", text)
     return text

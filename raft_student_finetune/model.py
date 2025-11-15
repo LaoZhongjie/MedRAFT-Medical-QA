@@ -211,14 +211,61 @@ def load_trained_model(model_path: str, model_config: ModelConfig):
     base_model = AutoModelForCausalLM.from_pretrained(
         model_config.model_name_or_path,
         trust_remote_code=model_config.trust_remote_code,
-        torch_dtype=torch_dtype,
+        dtype=torch_dtype,
         device_map='auto'
     )
     
     # 加载LoRA权重
-    model = PeftModel.from_pretrained(base_model, model_path)
+    # 仅当 base_model 上没有 peft_config 时才加载 LoRA 权重
+    if not hasattr(base_model, "peft_config"):
+        model = PeftModel.from_pretrained(base_model, model_path)
+    else:
+        print("⚠️ base_model 已经有 PEFT 配置，跳过加载 LoRA 权重")
+        model = base_model
+        
     model.eval()
     
-    print("✓ 模型加载完成")
+    print("✓ 训练模型加载完成")
     
     return model, tokenizer
+
+def load_base_model(model_path: str, model_config: ModelConfig):
+    """
+    加载基础（未微调）模型
+    
+    Args:
+        model_path: 模型名称或路径（如 "Qwen/Qwen2.5-7B-Instruct"）
+        model_config: 模型配置对象 (ModelConfig)
+        
+    Returns:
+        (model, tokenizer)
+    """
+    print(f"从 {model_path} 加载基础模型...")
+
+    # 加载分词器
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_path,
+        trust_remote_code=model_config.trust_remote_code
+    )
+
+    # 设置数据类型
+    torch_dtype_map = {
+        'float16': torch.float16,
+        'bfloat16': torch.bfloat16,
+        'float32': torch.float32
+    }
+    torch_dtype = torch_dtype_map.get(model_config.torch_dtype, torch.bfloat16)
+
+    # 加载基础模型
+    model = AutoModelForCausalLM.from_pretrained(
+        model_config.model_name_or_path,
+        trust_remote_code=model_config.trust_remote_code,
+        dtype=torch_dtype,
+        device_map='auto'
+    )
+
+    model.eval()
+    print("✓ 基础模型加载完成")
+
+    return model, tokenizer
+
