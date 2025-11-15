@@ -15,6 +15,9 @@ gc.collect()
 os.environ['PYTORCH_ALLOC_CONF'] = 'expandable_segments:True'
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+import warnings
+warnings.filterwarnings("ignore", message="Failed to load image Python extension")
+
 # 导入自定义模块
 from config import ModelConfig, LoRAConfig, TrainingConfig, DataConfig
 from model import load_tokenizer, load_model, prepare_model_for_training, save_model_and_tokenizer
