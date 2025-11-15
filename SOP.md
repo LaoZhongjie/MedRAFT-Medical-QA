@@ -30,17 +30,17 @@
 
 ### 准备教师模型输入数据 (due Oct 20)
 - **Query**
-  - 从真实 QA 数据集（如 *Huatuo-26M*）中提取问题  
-  - 使用 LLM 生成模拟真实需求的问题  
+  - 使用40个通用问题模板，预留疾病名称标志位
+  - 从知识库文档准备提取疾病名称填入模版
+  - 生成1200个问题 
 
 - **Retriever**
   - 对 query 做 embedding  
   - 与所有文档块计算余弦相似度  
   - 取 Top-k（如 5）  
-  - 手动或脚本判定：
+  - 脚本判定：
     - 正确文档（**Oracle**）  
     - 干扰文档（**Distractors**）  
-  - 若已有人工标注数据，可自动匹配包含正确答案的文档作为 Oracle  
 
 ---
 
@@ -183,13 +183,13 @@ User:
 - 模型：**LLaMA2-7B（4-bit 量化）**  
 - 框架：**Hugging Face Transformers + PEFT (QLoRA)**  
 - 参数设置：
-  - `rank = 16`  
-  - `alpha = 32`  
+  - `rank = 32`  
+  - `alpha = 64`  
   - `dropout = 0.1`  
-- 资源分配：16GB GPU（如 T4）
+- 资源分配：32GB GPU
 
 ### 模型训练
-- 批次大小：`batch_size = 4`  
+- 批次大小：`batch_size = 2`  
 - 梯度累积：`grad_accum = 4`  
 - 学习率：`lr = 2e-4`  
 - 训练轮数：3 轮  
