@@ -8,9 +8,9 @@ import json
 import random
 import os
 from datetime import datetime
-from inference import RAFTInference
-from model import load_trained_model, load_base_model
-from config import ModelConfig, InferenceConfig
+from student_raft.inference import RAFTInference
+from student_raft.model import load_trained_model, load_base_model
+from student_raft.config import ModelConfig, InferenceConfig
 
 import warnings
 warnings.filterwarnings("ignore", message="Failed to load image Python extension")
