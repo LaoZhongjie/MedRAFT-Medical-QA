@@ -40,7 +40,7 @@ class TrainingConfig:
     validation_split: float = 0.2
     
     # 训练超参数
-    num_train_epochs: int = 2
+    num_train_epochs: int = 3
     per_device_train_batch_size: int = 2
     per_device_eval_batch_size: int = 2
     gradient_accumulation_steps: int = 8
@@ -51,15 +51,15 @@ class TrainingConfig:
     
     # 优化器配置
     optim: str = "adamw_torch"
-    lr_scheduler_type: str = "linear"
+    lr_scheduler_type: str = "cosine"
     
     # 保存和日志
     save_strategy: str = "steps"
-    save_steps: int = 200
+    save_steps: int = 62
     save_total_limit: int = 3
     logging_steps: int = 10
     eval_strategy: str = "steps"
-    eval_steps: int = 100
+    eval_steps: int = 31
     
     # 其他配置
     max_seq_length: int = 1800
