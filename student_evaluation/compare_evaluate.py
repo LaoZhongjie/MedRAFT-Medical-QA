@@ -1,5 +1,4 @@
 import json
-import csv
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -8,9 +7,8 @@ from tqdm import tqdm
 from evaluate import load
 import spacy
 import re
-import jieba
-import warnings
 
+import warnings
 warnings.filterwarnings("ignore", message="Failed to load image Python extension")
 
 # --- 加载 SciSpacy ---
@@ -42,18 +40,6 @@ def f1(pred, ref):
     recall = tp / len(ref)
     return 2 * precision * recall / (precision + recall + 1e-8)
 
-# --- jieba + 英文分词 + 去掉标点 ---
-def jieba_mixed_tokenize(text: str):
-    tokens = []
-    # 匹配中文连续字符块、英文单词或数字
-    parts = re.findall(r'[\u4e00-\u9fff]+|[A-Za-z0-9]+', text)
-    for part in parts:
-        if re.match(r'[\u4e00-\u9fff]+', part):  # 中文块
-            tokens.extend(jieba.lcut(part))
-        else:  # 英文或数字
-            tokens.append(part)
-    return tokens
-
 # --- 主量化函数 ---
 def quantitative_comparison(test_samples):
     rouge = load("rouge")
@@ -75,18 +61,6 @@ def quantitative_comparison(test_samples):
         teacher = sample.get("teacher_answer", "")
         base_resp = sample["base_response"]
         tuned_resp = sample["tuned_response"]
-
-        # print('-'*100, type(base_resp))
-        # ========== 分词后的 BLEU & ROUGE ==========
-        # base_tokens = jieba_mixed_tokenize(base_resp)
-        # tuned_tokens = jieba_mixed_tokenize(tuned_resp)
-        # teacher_tokens = jieba_mixed_tokenize(teacher)
-
-        # # 拼成空格分隔字符串用于 ROUGE
-        # base_str = " ".join(base_tokens)
-        # tuned_str = " ".join(tuned_tokens)
-        # teacher_str = " ".join(teacher_tokens)
-
 
         rouge_base = rouge.compute(predictions=[base_resp],
                                    references=[teacher])["rougeL"]
